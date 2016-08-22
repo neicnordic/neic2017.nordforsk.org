@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+    {% include head.html %}
+
+    <body>
+        {% if page.include %}
+            {% include {{ page.include }}.html %}
+        {% endif %}
+
+        {% if page.include != 'index' %}
+            {% include footer.html %}
+        {% endif %}
+        {% include js.html %}
+    </body>
+</html>
