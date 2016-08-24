@@ -158,6 +158,10 @@ a:focus {
     margin-top: 60px;
 }
 
+.mtt {
+    margin-top: 80px;
+}
+
 .hline {
     border-bottom: 2px solid #384452;
 }
@@ -221,14 +225,14 @@ a:focus {
 }
 
 #title {
-    font-size: 40px;
+    font-size: 30px;
     color: #ffffff;
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
 }
 
 #title_top {
-    font-size: 25px;
+    font-size: 20px;
     color: #ffffff;
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
@@ -236,7 +240,7 @@ a:focus {
 }
 
 #title_bottom {
-    font-size: 25px;
+    font-size: 20px;
     color: #ffffff;
     font-family: 'Raleway', sans-serif;
     font-weight: 700;

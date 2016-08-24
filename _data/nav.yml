@@ -1,0 +1,7 @@
+main:
+  - url: '/'
+    text: 'Home'
+  - url: '/workshops/'
+    text: 'Workshops'
+  - url: '/contact/'
+    text: 'Contact'

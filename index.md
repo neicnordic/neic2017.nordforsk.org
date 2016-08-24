@@ -25,5 +25,5 @@ and
 
 #### Registration will open 2017-01-30
 
-Please follow this page for upcoming information about workshops, sessions, invited speakers,
-and travel to NeIC 2017.
+Please follow this page for upcoming information about [workshops](workshops/),
+sessions, invited speakers, and travel to NeIC 2017.
