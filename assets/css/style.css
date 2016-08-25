@@ -79,6 +79,10 @@ a:focus {
     background: #2B2E31;
 }
 
+ul {
+    margin-left: 40px;
+}
+
 
 /*
  * bootstrap tweaks
