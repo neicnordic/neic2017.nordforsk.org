@@ -5,7 +5,9 @@ title: Practical information
 permalink: /practical/
 ---
 
-## Deadlines
+## Practical information
+
+### Deadlines
 
 * 2016-12-14 Session titles final, speakers and chairs confirmed.
 * 2016-12-14 Workshop tiles, formats and abstracts sent in to program committee.
@@ -18,3 +20,11 @@ permalink: /practical/
 * 2017-05-28 Optional; Workshop materials sent in to program committee.
 * 2017-05-29 Event opens.
 * 2017-06-29 Workshop report sent in to conference reporting
+
+### Social events
+
+#### Welcome reception
+TBA.
+
+#### Conference dinner
+TBA.
