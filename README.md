@@ -8,7 +8,7 @@ modifications on your computer:
 $ jekyll serve
 ```
 
-## How to edit pages
+## Which files to edit in order to modify the content
 
 Edit the following files:
 ```
@@ -16,4 +16,4 @@ index.md
 _pages/workshops.md
 _pages/contact.md
 ```
-in order to edit the index, workshops, or the contact page.
+in order to modify the index, workshops, or the contact page content.
