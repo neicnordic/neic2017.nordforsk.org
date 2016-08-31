@@ -23,5 +23,8 @@ permalink: /practical/
 
 ### Social events
 
+#### Get out!
+As customarily, we will try to arrange some outdoors physical activity. Bring your training gear!
+
 #### Conference dinner
 TBA.
