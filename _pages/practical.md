@@ -23,8 +23,5 @@ permalink: /practical/
 
 ### Social events
 
-#### Welcome reception
-TBA.
-
 #### Conference dinner
 TBA.
