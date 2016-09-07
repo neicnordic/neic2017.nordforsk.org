@@ -45,6 +45,7 @@ The following workshops have been accepted for the NeIC 2017 conference:
 * **Knights landing**: Ole Saastad currently heads up the PRACE effort to produce a Best Practice
 Guide for the Knights Landing processor. His NeIC 2017 workshop will include both presentations and hands-on exercises in how to best utilize this type of processor. For reference, the webpage for Ole's more general workshop on accelerators during NeIC 2015 is available [here](http://neic2015.nordforsk.org/display/NeIC2015/WS+Accelerators).
 * **Pooling competencies**: As one of NeIC's four strategic focus areas, pooling competencies is a core concern for NeIC.
+* **Python notebooks and data analysis toolkits**: Cloud services for reseach.
 * **Security**: A new incarnation (with some upgrades) of Leif Nixon's workshop for offensive operational security. Link to [previous event](http://neic2015.nordforsk.org/display/NeIC2015/WS+Security).
 * **Sensitive data**: Considerations when working with sensitive data
 
