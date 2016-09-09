@@ -20,7 +20,7 @@ permalink: /contact/
 - [Joel Hedlund](mailto:joel@nsc.liu.se) (chair)
 - [Radovan Bast](mailto:radovan.bast@uit.no) (deputy chair)
 - [Niclas Jareborg](mailto:niclas.jareborg@bils.se)
-- [Pål Pettersen](mailto:paal.Pettersen@nordforsk.org)
+- [Pål Pettersen](mailto:paal.pettersen@nordforsk.org)
 
 ### Website
 
