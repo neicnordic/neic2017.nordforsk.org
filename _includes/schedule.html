@@ -1,0 +1,68 @@
+<div class="container mtb">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="table-responsive">
+                {% for day in site.schedule %}
+                    <a href="#list_{{ forloop.index0 }}" class="list-group-item list-group-item-info strong"
+                       data-toggle="collapse"
+                       data-parent="#param-menu"><b>{{ day.day }} - {{ day.title }}</b></a>
+
+                    <div class="collapse in" id="list_{{ forloop.index0 }}">
+                        <br>
+                        {% for section in day.sections %}
+                            <table class="table table-hover">
+                                <tbody>
+                                    {% if section.type == 'workshop' %}
+                                        <tr class="danger">
+                                    {% elsif section.type == 'conference' %}
+                                        <tr class="warning">
+                                    {% else %}
+                                        <tr class="success">
+                                    {% endif %}
+                                        <td style="width:120px">{{ section.time }}</td>
+                                        {% if section.type == 'workshop' %}
+                                            {% for session in section.sessions %}
+                                                {% assign workshop = site.workshops | where: "session", session.name  | first %}
+                                                <td>
+                                                    <b><a href="{{ site.baseurl }}{{ workshop.permalink }}">{{ workshop.title }}</a></b>
+                                                    <br>
+                                                    Session chair: <a href="{{ site.baseurl }}/people/{{ workshop.chair | downcase | replace:' ','-' }}">{{ workshop.chair }}</a>
+                                                    <br>
+                                                    Room: {{ session.room }}
+                                                </td>
+                                            {% endfor %}
+                                        {% elsif section.type == 'conference' %}
+                                            {% assign session = site.sessions | where: "session", section.session | first %}
+                                            <td>
+                                                <b><a href="{{ site.baseurl }}/sessions/{{ section.session }}">{{ session.title }}</a></b>
+                                                <br>
+                                                Session chair:
+                                                {% if session.chair != 'TBA' %}
+                                                    <a href="{{ site.baseurl }}/people/{{ session.chair | downcase | replace:' ','-' }}">{{ session.chair }}</a>
+                                                {% else %}
+                                                    TBA
+                                                {% endif %}
+                                                {% assign talks = site.talks | where: "session", section.session %}
+                                                {% for talk in talks %}
+                                                    <hr>
+                                                    <b><a href="{{ site.baseurl }}{{ talk.permalink }}">{{ talk.title }}</a></b>
+                                                    <br>
+                                                    <a href="{{ site.baseurl }}/people/{{ talk.speaker | downcase | replace:' ','-' }}">{{ talk.speaker }}</a>
+                                                {% endfor %}
+                                            </td>
+                                        {% else %}
+                                            <td>
+                                                {{ section.title }}
+                                            </td>
+                                        {% endif %}
+                                    </tr>
+                                </tbody>
+                            </table>
+                        {% endfor %}
+                    </div>
+                    <br>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>

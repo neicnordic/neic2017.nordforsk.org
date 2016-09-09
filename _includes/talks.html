@@ -1,0 +1,26 @@
+<div class="container mtb">
+    <div class="row">
+        <div class="col-lg-12">
+            <h2>
+                List of conference talks
+            </h2>
+            <div class="spacing"></div>
+            <ul>
+                {% for day in site.schedule %}
+                    {% for section in day.sections %}
+                        {% if section.type == 'conference' %}
+                            <li>
+                                {% for talk in site.talks %}
+                                     {% if talk.session == section.session %}
+                                         <a href="{{ site.baseurl }}{{ talk.permalink }}">{{ talk.title }}</a>
+                                     {% endif %}
+                                {% endfor %}
+                                ({{ day.day }}, session time: {{ section.time }})
+                            </li>
+                        {% endif %}
+                    {% endfor %}
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
