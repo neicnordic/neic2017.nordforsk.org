@@ -27,11 +27,10 @@
                                                     <b><a href="{{ site.baseurl }}{{ workshop.permalink }}">{{ workshop.title }}</a></b>
                                                     <br>
                                                     Session chair:
-                                                    {% if workshop.chair != 'TBA' %}
+                                                    {% comment  %}
                                                         <a href="{{ site.baseurl }}/people/{{ workshop.chair | downcase | replace:' ','-' }}">{{ workshop.chair }}</a>
-                                                    {% else %}
-                                                        TBA
-                                                    {% endif %}
+                                                    {% endcomment %}
+                                                    {{ workshop.chair }}
                                                     <br>
                                                     Room: {{ session.room }}
                                                 </td>
@@ -42,17 +41,19 @@
                                                 <b><a href="{{ site.baseurl }}/sessions/{{ section.session }}">{{ session.title }}</a></b>
                                                 <br>
                                                 Session chair:
-                                                {% if session.chair != 'TBA' %}
+                                                {% comment  %}
                                                     <a href="{{ site.baseurl }}/people/{{ session.chair | downcase | replace:' ','-' }}">{{ session.chair }}</a>
-                                                {% else %}
-                                                    TBA
-                                                {% endif %}
+                                                {% endcomment %}
+                                                {{ session.chair }}
                                                 {% assign talks = site.talks | where: "session", section.session %}
                                                 {% for talk in talks %}
                                                     <hr>
                                                     <b><a href="{{ site.baseurl }}{{ talk.permalink }}">{{ talk.title }}</a></b>
                                                     <br>
-                                                    <a href="{{ site.baseurl }}/people/{{ talk.speaker | downcase | replace:' ','-' }}">{{ talk.speaker }}</a>
+                                                    {% comment  %}
+                                                        <a href="{{ site.baseurl }}/people/{{ talk.speaker | downcase | replace:' ','-' }}">{{ talk.speaker }}</a>
+                                                    {% endcomment %}
+                                                    {{ talk.speaker }}
                                                 {% endfor %}
                                             </td>
                                         {% else %}

@@ -11,11 +11,13 @@
                         {% if section.type == 'conference' %}
                             {% for talk in site.talks %}
                                  {% if talk.session == section.session %}
-                                     <li>
-                                         {{ talk.speaker }}:
-                                         <a href="{{ site.baseurl }}{{ talk.permalink }}">{{ talk.title }}</a>
-                                         ({{ day.day }}, session time: {{ section.time }})
-                                     </li>
+                                     {% if talk.speaker != 'TBA' %}
+                                         <li>
+                                             {{ talk.speaker }}:
+                                             <a href="{{ site.baseurl }}{{ talk.permalink }}">{{ talk.title }}</a>
+                                             ({{ day.day }}, session time: {{ section.time }})
+                                         </li>
+                                     {% endif %}
                                  {% endif %}
                             {% endfor %}
                         {% endif %}
