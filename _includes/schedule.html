@@ -26,7 +26,12 @@
                                                 <td>
                                                     <b><a href="{{ site.baseurl }}{{ workshop.permalink }}">{{ workshop.title }}</a></b>
                                                     <br>
-                                                    Session chair: <a href="{{ site.baseurl }}/people/{{ workshop.chair | downcase | replace:' ','-' }}">{{ workshop.chair }}</a>
+                                                    Session chair:
+                                                    {% if workshop.chair != 'TBA' %}
+                                                        <a href="{{ site.baseurl }}/people/{{ workshop.chair | downcase | replace:' ','-' }}">{{ workshop.chair }}</a>
+                                                    {% else %}
+                                                        TBA
+                                                    {% endif %}
                                                     <br>
                                                     Room: {{ session.room }}
                                                 </td>
