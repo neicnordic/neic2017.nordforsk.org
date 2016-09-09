@@ -1,0 +1,55 @@
+{% for day in site.schedule %}
+    {% for section in day.sections %}
+        {% if section.type == 'conference' %}
+            {% if section.session == page.session %}
+                {% assign day = day.day %}
+                {% assign time = section.time %}
+            {% endif %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+
+<div class="container mtb">
+    <div class="row">
+        <div class="col-lg-12">
+            <h2>
+                <div class="lowlight">Session:</div>
+                {{ page.title }}
+            </h2>
+        </div>
+
+        <div class="col-lg-6">
+            {{ page.content | markdownify }}
+        </div>
+
+        <div class="col-lg-6">
+            <p><div class="highlight">Date:</div> {{ day }}</p>
+            <p><div class="highlight">Time:</div> {{ time }}</p>
+            <p><div class="highlight">Session chair:</div>
+            {% if page.chair != 'TBA' %}
+                <a href="{{ site.baseurl }}/people/{{ page.chair | downcase | replace:' ','-' }}">{{ page.chair }}</a></p>
+            {% else %}
+                TBA
+            {% endif %}
+        </div>
+
+        <div class="col-lg-12">
+            <h3>Talks</h3>
+            <ul>
+                {% for talk in site.talks %}
+                     {% if talk.session == page.session %}
+                         <li>
+                             <a href="{{ site.baseurl }}{{ talk.permalink }}">{{ talk.title }}</a>
+                             <br>
+                             Speaker:
+                             {% comment %}
+                             <a href="{{ site.baseurl }}/people/{{ talk.speaker | downcase | replace:' ','-' }}">{{ talk.speaker }}</a>
+                             {% endcomment %}
+                             {{ talk.speaker }}
+                         </li>
+                     {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>
