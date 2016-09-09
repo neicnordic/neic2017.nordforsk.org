@@ -9,14 +9,15 @@
                 {% for day in site.schedule %}
                     {% for section in day.sections %}
                         {% if section.type == 'conference' %}
-                            <li>
-                                {% for talk in site.talks %}
-                                     {% if talk.session == section.session %}
+                            {% for talk in site.talks %}
+                                 {% if talk.session == section.session %}
+                                     <li>
+                                         {{ talk.speaker }}:
                                          <a href="{{ site.baseurl }}{{ talk.permalink }}">{{ talk.title }}</a>
-                                     {% endif %}
-                                {% endfor %}
-                                ({{ day.day }}, session time: {{ section.time }})
-                            </li>
+                                         ({{ day.day }}, session time: {{ section.time }})
+                                     </li>
+                                 {% endif %}
+                            {% endfor %}
                         {% endif %}
                     {% endfor %}
                 {% endfor %}
