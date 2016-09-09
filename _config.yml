@@ -66,3 +66,19 @@ kramdown:
     coderay_css:               style
 
 include: ['_pages']
+
+collections:
+  workshops:
+    output: true
+    permalink: /workshops/:path/
+  people:
+    output: true
+    permalink: /people/:path/
+  sessions:
+    output: true
+    permalink: /sessions/:path/
+  talks:
+    output: true
+    permalink: /talks/:path/
+  schedule:
+    output: false
