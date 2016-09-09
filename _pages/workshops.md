@@ -37,7 +37,7 @@ organizer to the [program committee chair](mailto:joel@nsc.liu.se).
 
 The following workshops have been accepted for the NeIC 2017 conference:
 
-* **CodeRefinery**: NeIC initiative for collaboration on infrastructure support for sustainable scientific software. More information [here](http://coderefinery.org/).
+* **CodeRefinery**: NeIC initiative for collaboration on infrastructure support and training for sustainable scientific software. More information [here](http://coderefinery.org/).
 * **Containers**: Will deal with Docker containers.
 * **Data management**: How will we not drown in data?
 * **Data services**: The 3rd Nordic data services workshop. Link to [previous event](https://wiki.neic.no/wiki/2nd_Nordic_data_services_workshop).
