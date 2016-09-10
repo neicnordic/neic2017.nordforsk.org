@@ -3,8 +3,8 @@ layout: schedule
 include: talk
 title: TBA
 speaker: TBA
-permalink: /talks/session-5a-tba/
-session: s05
+permalink: /talks/6b-tba/
+session: s06
 ---
 
 Abstract TBA.

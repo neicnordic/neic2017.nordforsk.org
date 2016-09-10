@@ -52,7 +52,11 @@
                                                 {% assign talks = site.talks | where: "session", section.session %}
                                                 {% for talk in talks %}
                                                     <hr>
-                                                    <b><a href="{{ site.baseurl }}{{ talk.permalink }}">{{ talk.title }}</a></b>
+                                                        {% if talk.abstract == 'none' %}
+                                                            <b>{{ talk.title }}</b>
+                                                        {% else %}
+                                                            <b><a href="{{ site.baseurl }}{{ talk.permalink }}">{{ talk.title }}</a></b>
+                                                        {% endif %}
                                                     <br>
                                                     {% comment  %}
                                                         <a href="{{ site.baseurl }}/people/{{ talk.speaker | downcase | replace:' ','-' }}">{{ talk.speaker }}</a>

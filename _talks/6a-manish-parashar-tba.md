@@ -2,8 +2,8 @@
 layout: schedule
 include: talk
 title: TBA
-speaker: Yongluan Zhou
-permalink: /talks/yongluan-zhou-tba/
+speaker: Manish Parashar
+permalink: /talks/6a-manish-parashar-tba/
 session: s06
 ---
 
