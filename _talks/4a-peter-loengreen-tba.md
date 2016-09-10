@@ -3,7 +3,7 @@ layout: schedule
 include: talk
 title: TBA
 speaker: Peter Løngreen
-permalink: /talks/peter-loengreen-tba/
+permalink: /talks/4a-peter-loengreen-tba/
 session: s04
 ---
 
