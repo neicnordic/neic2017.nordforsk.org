@@ -3,7 +3,7 @@ layout: schedule
 include: talk
 title: "NeIC: Conclusions from workshops"
 speaker: Joel Hedlund
-permalink: /talks/joel-hedlund-tba/
+permalink: /talks/neic-workshop-conclusions/
 session: s05
 ---
 
