@@ -7,7 +7,11 @@
                        data-toggle="collapse"
                        data-parent="#param-menu"><b>{{ day.day }} - {{ day.title }}</b></a>
 
-                    <div class="collapse in" id="list_{{ forloop.index0 }}">
+                    {% if day.collapse == 'show' %}
+                        <div class="collapse in" id="list_{{ forloop.index0 }}">
+                    {% else %}
+                        <div class="collapse" id="list_{{ forloop.index0 }}">
+                    {% endif %}
                         <br>
                         {% for section in day.sections %}
                             <table class="table table-hover">
