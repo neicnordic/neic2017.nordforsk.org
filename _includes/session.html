@@ -26,11 +26,10 @@
             <p><div class="highlight">Date:</div> {{ day }}</p>
             <p><div class="highlight">Time:</div> {{ time }}</p>
             <p><div class="highlight">Session chair:</div>
-            {% if page.chair != 'TBA' %}
-                <a href="{{ site.baseurl }}/people/{{ page.chair | downcase | replace:' ','-' }}">{{ page.chair }}</a></p>
-            {% else %}
-                TBA
-            {% endif %}
+            {% comment %}
+            <a href="{{ site.baseurl }}/people/{{ page.chair | downcase | replace:' ','-' }}">{{ page.chair }}</a></p>
+            {% endcomment %}
+            {{ page.chair }}
         </div>
 
         <div class="col-lg-12">

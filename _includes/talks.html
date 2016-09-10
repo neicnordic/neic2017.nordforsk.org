@@ -14,7 +14,11 @@
                                      {% if talk.speaker != 'TBA' %}
                                          <li>
                                              {{ talk.speaker }}:
-                                             <a href="{{ site.baseurl }}{{ talk.permalink }}">{{ talk.title }}</a>
+                                             {% if talk.abstract == 'none' %}
+                                                 {{ talk.title }}
+                                             {% else %}
+                                                 <a href="{{ site.baseurl }}{{ talk.permalink }}">{{ talk.title }}</a>
+                                             {% endif %}
                                              ({{ day.day }}, session time: {{ section.time }})
                                          </li>
                                      {% endif %}
