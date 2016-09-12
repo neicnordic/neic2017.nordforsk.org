@@ -2,7 +2,7 @@
 layout: schedule
 include: talk
 title: TBA
-speaker: Barend Mons, EOSC High Level Expert Group Chair
+speaker: "Barend Mons, <a href='http://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud'>EOSC</a> High Level Expert Group Chair"
 permalink: /talks/1e-tba/
 session: s01
 ---
