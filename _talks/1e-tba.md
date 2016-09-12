@@ -2,7 +2,7 @@
 layout: schedule
 include: talk
 title: TBA
-speaker: TBA
+speaker: Barend Mons
 permalink: /talks/1e-tba/
 session: s01
 ---
