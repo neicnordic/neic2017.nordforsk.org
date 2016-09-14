@@ -48,6 +48,9 @@ The conference has activities in the following rooms, with these maximum numbers
 * [Mimer](http://www.umeafolketshus.se/mimer), 40
 * [Tor](http://www.umeafolketshus.se/tor-tyr), 12
 * [Tyr](http://www.umeafolketshus.se/tor-tyr), 12
+
+Areas:
+
 * [Galleriet](http://www.umeafolketshus.se/galleriet), exhibition floor
 * [Teaterfoajén](http://www.umeafolketshus.se/teaterfoajen), exhibition floor
 * [Pub Freja](http://www.umeafolketshus.se/teaterfoajen), lunch area next to [Idun](http://www.umeafolketshus.se/idun) and [Teaterfoajén](http://www.umeafolketshus.se/teaterfoajen)
