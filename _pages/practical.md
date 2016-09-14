@@ -51,6 +51,6 @@ The conference has activities in the following rooms, with these maximum numbers
 
 Areas:
 
-* [Galleriet](http://www.umeafolketshus.se/galleriet), exhibition floor
 * [Teaterfoajén](http://www.umeafolketshus.se/teaterfoajen), exhibition floor
 * [Pub Freja](http://www.umeafolketshus.se/teaterfoajen), lunch area next to [Idun](http://www.umeafolketshus.se/idun) and [Teaterfoajén](http://www.umeafolketshus.se/teaterfoajen)
+* [Galleriet](http://www.umeafolketshus.se/galleriet), exhibition floor
