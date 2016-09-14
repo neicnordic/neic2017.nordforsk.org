@@ -30,3 +30,24 @@ As customarily, we will try to arrange some outdoors physical activity. Bring yo
 #### Conference dinner
 
 TBA.
+
+### Rooms
+
+<img src="/assets/img/floor-plan-ufh.jpg">
+
+The conference has activities in the following rooms, with these maximum numbers of seats:
+
+* [Idun](http://www.umeafolketshus.se/idun), 1150
+* [Tonsalen](http://www.umeafolketshus.se/tonsalen), 110
+* [Grim](http://www.umeafolketshus.se/grim), 104
+* [Miklagård](http://www.umeafolketshus.se/miklagård), 96
+* [Balder](http://www.umeafolketshus.se/balder), 95
+* [Loke](http://www.umeafolketshus.se/loke), 89
+* [Embla](http://www.umeafolketshus.se/embla), 40
+* [Ask](http://www.umeafolketshus.se/ask), 48
+* [Mimer](http://www.umeafolketshus.se/mimer), 40
+* [Tor](http://www.umeafolketshus.se/tor-tyr), 12
+* [Tyr](http://www.umeafolketshus.se/tor-tyr), 12
+* [Galleriet](http://www.umeafolketshus.se/galleriet), exhibition floor
+* [Teaterfoajén](http://www.umeafolketshus.se/teaterfoajen), exhibition floor
+* [Pub Freja](http://www.umeafolketshus.se/teaterfoajen), lunch area next to [Idun](http://www.umeafolketshus.se/idun) and [Teaterfoajén](http://www.umeafolketshus.se/teaterfoajen)
