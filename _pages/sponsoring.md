@@ -5,7 +5,7 @@ title: Sponsoring NeIC 2017
 permalink: /sponsoring/
 ---
 
-## Sponsorng NeIC 2017
+## Sponsoring NeIC 2017
 
 ### Platinum level, 60 000 SEK (max 4):
 * Logo prominently displayed with link to the business' website on the conference website
