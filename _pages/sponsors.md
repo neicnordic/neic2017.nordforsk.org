@@ -9,7 +9,7 @@ permalink: /sponsors/
 
 We are very grateful for the support of our sponsors in making NeIC 2017 a great conference! Thank you very much!
 
-Interested in sponsoring the NeIC 2017 conference? See our [sponsoring opportunities](/sponsoring/)
+Interested in sponsoring the NeIC 2017 conference? See our [sponsoring opportunities](/sponsoring/).
 
 ### Platinum sponsors
 
