@@ -1,15 +1,15 @@
 ---
 layout: master
 include: generic
-title: Sponsoring NeIC2017
+title: Sponsoring NeIC 2017
 permalink: /sponsoring/
 ---
 
-## Sponsor NeIC2017
+## Sponsorng NeIC 2017
 
 ### Platinum level, 60 000 SEK (max 4):
-* Logo displayed with link to the business' website on the conference website
-* Logo displayed common sponsors backdrop slide
+* Logo prominently displayed with link to the business' website on the conference website
+* Logo prominently displayed common sponsors backdrop slide
 * Inclusion of one or two small business promotional giveaways in the conference bags for attendees such as a headband, USB memory stick or pen
 * Sponsor stand with small table in the common area outside auditoriums
 * Custom slide for backdrop slide show
