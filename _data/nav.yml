@@ -17,5 +17,7 @@ main:
     text: 'Workshops'
   - url: '/practical/'
     text: 'Practical'
+  - url: '/sponsors/'
+    text: 'Sponsors'
   - url: '/contact/'
     text: 'Contact'
