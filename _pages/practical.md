@@ -40,7 +40,7 @@ The conference has activities in the following rooms, with these maximum numbers
 * [Idun](http://www.umeafolketshus.se/idun), 1150
 * [Tonsalen](http://www.umeafolketshus.se/tonsalen), 110
 * [Grim](http://www.umeafolketshus.se/grim), 104
-* [Miklagård](http://www.umeafolketshus.se/miklagård), 96
+* [Miklagård](http://www.umeafolketshus.se/miklagard), 96
 * [Balder](http://www.umeafolketshus.se/balder), 95
 * [Loke](http://www.umeafolketshus.se/loke), 89
 * [Embla](http://www.umeafolketshus.se/embla), 40
