@@ -7,7 +7,7 @@ permalink: /sponsoring/
 
 ## Become a sponsor of NeIC 2017
 
-We are expecting participation of about 200 technical experts, researchers, and decision makers in computing and storage over four
+We are expecting participation of about 200 technical experts, researchers, and decision makers in HPC and Big Data over four
 days of workshops and conference programme.
 
 ### Platinum level, 60 000 SEK (max 4):
