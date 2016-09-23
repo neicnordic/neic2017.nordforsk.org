@@ -43,7 +43,7 @@ The conference has activities in the following rooms, with these maximum numbers
 * [Miklagård](http://www.umeafolketshus.se/miklagard), 96
 * [Balder](http://www.umeafolketshus.se/balder), 95
 * [Loke](http://www.umeafolketshus.se/loke), 89
-* [Embla](http://www.umeafolketshus.se/embla), 40
+* [Embla](http://www.umeafolketshus.se/embla), 54
 * [Ask](http://www.umeafolketshus.se/ask), 48
 * [Mimer](http://www.umeafolketshus.se/mimer), 40
 * [Tor](http://www.umeafolketshus.se/tor-tyr), 12
