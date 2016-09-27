@@ -25,3 +25,7 @@ permalink: /contact/
 ### Website
 
 - [Radovan Bast](mailto:radovan.bast@uit.no)
+
+### Practical matters
+- [Pål Pettersen](mailto:paal.pettersen@nordforsk.org) (chair)
+- [Mattias Wadenstein](mailto:maswan@ndgf.org) (local organizing committee)
