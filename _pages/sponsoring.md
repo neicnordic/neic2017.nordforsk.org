@@ -10,7 +10,7 @@ permalink: /sponsoring/
 We are expecting participation of about 200 technical experts, researchers, and decision makers in HPC, cloud, and Big Data over four
 days of workshops and conference programme.
 
-For more information or interested, contact [Mattias Wadenstein](mailto:maswan@ndgf.org)
+For more information or interested, contact [Mattias Wadenstein](mailto:maswan@ndgf.org) or [Pål Pettersen](mailto:paal.pettersen@nordforsk.org)
 
 ### Platinum level, 60 000 SEK (max 4):
 * Logo prominently displayed with link to the business' website on the conference website
