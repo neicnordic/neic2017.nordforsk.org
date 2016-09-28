@@ -7,3 +7,5 @@ permalink: /talks/6c-conclusions-and-prizes/
 session: s06
 abstract: none
 ---
+
+Abstract TBA.
