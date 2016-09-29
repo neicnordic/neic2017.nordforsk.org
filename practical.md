@@ -32,7 +32,7 @@ TBA.
 
 ### Rooms
 
-<img src="/assets/img/venue/floor-plan-ufh.jpg">
+<img src="/assets/img/venue/floor-plan-ufh.jpg" width="100%">
 
 The conference has activities in the following rooms, with these maximum numbers of seats:
 
