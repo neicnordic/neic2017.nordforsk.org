@@ -3,7 +3,7 @@ layout: schedule
 include: person
 name: Petri Myllymäki
 organization: HIIT Helsinki Institute of Information Technology
-photo: assets/img/people/petri-myllymäki.jpg
+photo: assets/img/people/petri-myllymaki.jpg
 ---
 
 Petri Myllymäki is a full professor at the Department of Computer Science of University of Helsinki, Finland, and the Director of 
