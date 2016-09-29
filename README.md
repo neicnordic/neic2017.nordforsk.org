@@ -30,6 +30,12 @@ Because some paths contain collections and collection directories seem to have
 to start with an underscore.
 
 
+## How to add photos and bios of speakers and chairs
+
+Take one of existing persons under `_people/` as example, copy, rename, and adapt. Also
+add the photo under `assets/img/people/`. Verify locally the result: http://127.0.0.1:4000/people/firstname-lastname/.
+
+
 ## Design decisions
 
 - Jekyll to leverage GitHub pages
