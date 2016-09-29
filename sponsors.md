@@ -2,7 +2,6 @@
 layout: master
 include: generic
 title: Sponsors of NeIC 2017
-permalink: /sponsors/
 ---
 
 ## Sponsors of NeIC 2017

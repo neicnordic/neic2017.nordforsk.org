@@ -36,11 +36,17 @@ host:    127.0.0.1
 baseurl: ""
 
 # outputting
-permalink: /:title.html
 timezone:  null
-
 quiet:    false
-defaults: []
+
+# https://github.com/jekyll/jekyll/issues/302
+permalink: pretty
+defaults:
+  -
+    scope:
+      type: "pages"
+    values:
+      permalink: /:path/:basename/
 
 # markdown processors
 rdiscount:
@@ -70,15 +76,11 @@ include: ['_pages']
 collections:
   workshops:
     output: true
-    permalink: /workshops/:path/
   people:
     output: true
-    permalink: /people/:path/
   sessions:
     output: true
-    permalink: /sessions/:path/
   talks:
     output: true
-    permalink: /talks/:path/
   schedule:
     output: false

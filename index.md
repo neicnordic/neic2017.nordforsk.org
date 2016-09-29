@@ -2,6 +2,7 @@
 layout: master
 include: index
 title: Welcome
+permalink: /
 ---
 
 #### About NeIC 2017

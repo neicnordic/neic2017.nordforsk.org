@@ -10,13 +10,7 @@ $ jekyll serve
 
 ## Which files to edit in order to modify the content
 
-Edit the following files:
-```
-index.md
-_pages/workshops.md
-_pages/contact.md
-```
-in order to modify the index, workshops, or the contact page content.
+Edit the `*.md` files to edit content. Edit `_include/*.html` to edit page layout and templating.
 
 
 ## Design decisions

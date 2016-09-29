@@ -2,7 +2,6 @@
 layout: master
 include: generic
 title: Practical information
-permalink: /practical/
 ---
 
 ## Practical information
