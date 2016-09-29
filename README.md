@@ -24,6 +24,12 @@ Edit the `*.md` files to edit content. Edit `_include/*.html` to edit page layou
 Edit `_data/nav.yml`.
 
 
+## Why do some paths such as `_talks` have underscores?
+
+Because some paths contain collections and collection directories seem to have
+to start with an underscore.
+
+
 ## Design decisions
 
 - Jekyll to leverage GitHub pages
