@@ -17,7 +17,7 @@
                                              {% if talk.abstract == 'none' %}
                                                  {{ talk.title }}
                                              {% else %}
-                                                 <a href="{{ site.baseurl }}{{ talk.permalink }}">{{ talk.title }}</a>
+                                                 <a href="{{ talk.url }}">{{ talk.title }}</a>
                                              {% endif %}
                                              ({{ day.day }}, session time: {{ section.time }})
                                          </li>

@@ -28,7 +28,7 @@
                                             {% for session in section.sessions %}
                                                 {% assign workshop = site.workshops | where: "session", session.name  | first %}
                                                 <td>
-                                                    <b><a href="{{ site.baseurl }}{{ workshop.permalink }}">{{ workshop.title }}</a></b>
+                                                    <b><a href="{{ workshop.url }}">{{ workshop.title }}</a></b>
                                                     <br>
                                                     Session chair:
                                                     {% comment  %}
@@ -55,7 +55,7 @@
                                                         {% if talk.abstract == 'none' %}
                                                             <b>{{ talk.title }}</b>
                                                         {% else %}
-                                                            <b><a href="{{ site.baseurl }}{{ talk.permalink }}">{{ talk.title }}</a></b>
+                                                            <b><a href="{{ talk.url }}">{{ talk.title }}</a></b>
                                                         {% endif %}
                                                     <br>
                                                     {% comment  %}

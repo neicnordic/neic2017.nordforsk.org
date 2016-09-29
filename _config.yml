@@ -76,11 +76,15 @@ include: ['_pages']
 collections:
   workshops:
     output: true
+    permalink: /workshops/:name/
   people:
     output: true
+    permalink: /people/:name/
   sessions:
     output: true
+    permalink: /sessions/:name/
   talks:
     output: true
+    permalink: /talks/:name/
   schedule:
     output: false

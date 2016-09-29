@@ -38,7 +38,7 @@
                 {% for talk in site.talks %}
                      {% if talk.session == page.session %}
                          <li>
-                             <a href="{{ site.baseurl }}{{ talk.permalink }}">{{ talk.title }}</a>
+                             <a href="{{ talk.url }}">{{ talk.title }}</a>
                              <br>
                              Speaker:
                              {% comment %}
