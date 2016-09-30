@@ -1,8 +1,8 @@
 ---
 layout: schedule
 include: talk
-title: TBA
-speaker: TBA
+title: NeIC and EISCAT_3D
+speaker: John White, NeIC EISCAT_3D Support project leader
 session: s03
 ---
 
