@@ -3,7 +3,7 @@ layout: schedule
 include: person
 name: Niklas Blomberg
 organization: ELIXIR-EU
-photo: assets/img/people/niklas-blomberg.png
+photo: assets/img/people/niklas-blomberg.jpg
 ---
 
 Niklas Blomberg is the Director of ELIXIR, the European infrastructure for bioinformatics and life-science data, 

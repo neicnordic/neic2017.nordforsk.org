@@ -35,6 +35,7 @@ to start with an underscore.
 Take one of existing persons under `_people/` as example, copy, rename, and adapt. Also
 add the photo under `assets/img/people/`.
 Make sure to not add a 5 MB photo - reduce it to a reasonable size before pushing it to the repo.
+Radovan has reduced the pictures to a width of 600 px. JPG is better (smaller) than PNG.
 Verify the result locally: http://127.0.0.1:4000/people/firstname-lastname/.
 
 
