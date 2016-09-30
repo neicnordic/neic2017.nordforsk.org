@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: Petri Myllymäki
-organization: HIIT Helsinki Institute of Information Technology
+organization: Helsinki Institute for Information Technology HIIT
 photo: assets/img/people/petri-myllymaki.jpg
 ---
 
