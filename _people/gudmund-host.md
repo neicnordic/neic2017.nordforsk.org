@@ -6,16 +6,13 @@ organization: NeIC
 photo: assets/img/people/gudmund-host.jpg
 ---
 
-Gudmund Høst is the Director of the NeIC, and is employed at NordForsk in Oslo.
+Gudmund Høst is Director of the Nordic e-Infrastructure Collaboration (NeIC).
 
-Prior to this he has held positions at the Research Council of Norway and the Department of Oceanography 
-and Wave Statistics at DNV, and was also Chief Research Scientist at the Norwegian Computing Center, where 
-he worked on statistical modelling of environmental data.
+Prior to this he held a position as Special Adviser to the Research Council of Norway, within e-Infrastructure, e-Science and computational mathematics. Previous positions include the position of Research Engineer at Det norske Veritas, Høvik, Norway, the Department of Oceanography and Wave Statistics, and also Chief Research Scientist at the Norwegian Computing Center working on statistical modeling of environmental data. 
 
-He has served as Chair of the Steering Board of Nordic Data Grid Facility, and has played a key role in the 
-planning of the Nordic eScience Initiative. He has participated in expert committees on e-Infrastructures 
-under the auspices of the US National Science Foundation and the European Commission, and in The Netherlands, 
-Sweden and South Africa. He served as Chair of the e-Infrastructures Reflection Group (e-IRG) from 2011 to 2012. 
-Høst holds a Master’s degree in Fluid Mechanics and a Ph.D. in Science and Mathematical Statistics, both from the 
-University of Oslo.
+During 2011-2012, he was Chair of the e-Infrastructures Reflection Group (e-IRG). He has been Chair of the Steering Board of Nordic Data Grid Facility, and has been central in the planning of the Nordic eScience Initiative and the development of the Nordic eScience Action Plan. He has participated in several expert committees on e-Infrastructure issues including assignments for the European Commission, the Netherlands, Norway, Sweden, South Africa and the USA. 
+
+He holds a Master’s degree in Fluid Mechanics and a Doctorate in Science, Mathematical Statistics, both from the University of Oslo.
+
+
 
