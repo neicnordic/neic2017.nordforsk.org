@@ -33,7 +33,9 @@ to start with an underscore.
 ## How to add photos and bios of speakers and chairs
 
 Take one of existing persons under `_people/` as example, copy, rename, and adapt. Also
-add the photo under `assets/img/people/`. Verify locally the result: http://127.0.0.1:4000/people/firstname-lastname/.
+add the photo under `assets/img/people/`.
+Make sure to not add a 5 MB photo - reduce it to a reasonable size before pushing it to the repo.
+Verify the result locally: http://127.0.0.1:4000/people/firstname-lastname/.
 
 
 ## Design decisions
