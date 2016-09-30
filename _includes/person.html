@@ -6,7 +6,7 @@
 
         <div class="col-lg-9">
             <h2>
-                {{ page.title }}
+                {{ page.name|default:page.title }}
                 <div class="lowlight">({{ page.organization }})</div>
             </h2>
             <p>{{ page.content | markdownify }}</p>
