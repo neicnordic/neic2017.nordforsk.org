@@ -2,7 +2,7 @@
 layout: schedule
 include: talk
 title: TBA
-speaker: TBA
+speaker: Oxana Smirnova, Lund University
 session: s06
 ---
 
