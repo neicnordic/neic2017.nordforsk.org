@@ -44,7 +44,7 @@ The following workshops have been accepted for the NeIC 2017 conference:
 * **DISCOVERY**: Fringe event; an open workshop for transatlantic cooperation in ICT research and innovation, main topic for discussion is how to strengthen the e-infrastructure collaboration between Europe, USA and Canada, including how to better facilitate access to e-infrastructure over the Atlantic. More information [here](http://discoveryproject.eu/).
 * **Knights landing**: Ole Saastad currently heads up the PRACE effort to produce a Best Practice
 Guide for the Knights Landing processor. His NeIC 2017 workshop will include both presentations and hands-on exercises in how to best utilize this type of processor. For reference, the webpage for Ole's more general workshop on accelerators during NeIC 2015 is available [here](http://neic2015.nordforsk.org/display/NeIC2015/WS+Accelerators).
-* **Pool competencies**: As one of NeIC's four strategic focus areas, pooling competencies is a core concern for NeIC.
+* **Pool Competences & Research Community Engagement**: As one of NeIC's four strategic focus areas, pooling competencies is a core concern for NeIC.
 * **Python notebooks and data analysis toolkits**: Cloud services for research.
 * **Security**: A new incarnation (with some upgrades) of Leif Nixon's workshop for offensive operational security. Link to [previous event](http://neic2015.nordforsk.org/display/NeIC2015/WS+Security).
 * **Sensitive data**: Considerations when working with sensitive data
