@@ -7,7 +7,13 @@
         <div class="col-lg-9">
             <h2>
                 {{ page.name|default:page.title }}
-                <div class="lowlight">({{ page.affiliation }})</div>
+                <div class="lowlight">
+                    {% if page.affiliation_url %}
+                        (<a href="{{ page.affiliation_url }}" target="_blank">{{ page.affiliation }}</a>)
+                    {% else %}
+                        ({{ page.affiliation }})
+                    {% endif %}
+                </div>
             </h2>
             <p>{{ page.content | markdownify }}</p>
         </div>
