@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: Peter Løngreen
-organization: DTU
+affiliation: DTU
 photo: assets/img/people/peter-longreen.jpg
 ---
 

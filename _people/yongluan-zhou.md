@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: Yongluan Zhou
-organization: University of Southern Denmark
+affiliation: University of Southern Denmark
 photo: assets/img/people/yongluan-zhou.jpg
 ---
 

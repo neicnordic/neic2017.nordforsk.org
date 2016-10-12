@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: Barend Mons
-organization: HLEG-EOSC Chair
+affiliation: HLEG-EOSC Chair
 photo: assets/img/people/barend-mons.jpg
 ---
 

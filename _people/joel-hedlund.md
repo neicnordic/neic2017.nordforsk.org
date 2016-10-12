@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: Joel Hedlund
-organization: NeIC
+affiliation: NeIC
 photo: assets/img/people/joel-hedlund.jpg
 ---
 

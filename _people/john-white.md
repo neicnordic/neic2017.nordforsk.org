@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: John White
-organization: NeIC
+affiliation: NeIC
 photo: assets/img/people/john-white.jpg
 ---
 

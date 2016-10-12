@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: Jørn Kristiansen
-organization: Norwegian Meteorological Institute
+affiliation: Norwegian Meteorological Institute
 photo: assets/img/people/joern-kristiansen.jpg
 ---
 

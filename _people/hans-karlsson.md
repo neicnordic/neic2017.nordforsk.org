@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: Hans Karlsson
-organization: SNIC
+affiliation: SNIC
 photo: assets/img/people/hans-karlsson.jpg
 ---
 

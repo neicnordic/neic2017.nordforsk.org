@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: Gudmund Høst
-organization: NeIC
+affiliation: NeIC
 photo: assets/img/people/gudmund-host.jpg
 ---
 

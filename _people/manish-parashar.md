@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: Manish Parashar
-organization: Rutgers University
+affiliation: Rutgers University
 photo: assets/img/people/manish-parashar.jpg
 ---
 

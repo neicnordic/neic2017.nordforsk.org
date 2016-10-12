@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: Oxana Smirnova
-organization: Lund University
+affiliation: Lund University
 photo: assets/img/people/oxana-smirnova.jpg
 ---
 

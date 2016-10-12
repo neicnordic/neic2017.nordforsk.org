@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: Gunnel Gustafsson
-organization: NordForsk
+affiliation: NordForsk
 photo: assets/img/people/gunnel-gustafsson.jpg
 ---
 

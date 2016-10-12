@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: Radovan Bast
-organization: UiT The Arctic University of Norway
+affiliation: UiT The Arctic University of Norway
 photo: assets/img/people/radovan-bast.jpg
 ---
 
