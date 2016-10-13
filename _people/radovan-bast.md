@@ -2,8 +2,7 @@
 layout: schedule
 include: person
 name: Radovan Bast
-affiliation: UiT The Arctic University of Norway
-affiliation_url: https://uit.no
+affiliation: 'NeIC <a href="http://coderefinery.org">CodeRefinery</a> project leader and <a href="https://uit.no">UiT</a>'
 photo: assets/img/people/radovan-bast.jpg
 ---
 

@@ -31,10 +31,14 @@
         <div class="col-lg-6">
             <p>
                 <div class="highlight">Speaker:</div>
-                {% comment %}
-                <a href="{{ site.baseurl }}/people/{{ page.speaker | downcase | replace:' ','-' }}">{{ page.speaker }}</a>
-                {% endcomment %}
-                {{ page.speaker }}
+                {% for p in site.people %}
+                    {% assign person_path = p.path | replace:'_people/',''  | replace:'.md','' %}
+                    {% if page.speaker == person_path %}
+                        {% assign person = p %}
+                        {% assign selected_person_path = person_path %}
+                    {% endif %}
+                {% endfor %}
+                <a href="{{ site.baseurl }}/people/{{ selected_person_path }}/">{{ person.name }}</a>
             </p>
             <p><div class="highlight">Session:</div> <a href="{{ site.baseurl }}/sessions/{{ page.session }}/">{{ session_title }}</a></p>
             <p><div class="highlight">Date:</div> {{ day }}</p>

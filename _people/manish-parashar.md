@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: Manish Parashar
-affiliation: Rutgers University
+affiliation: 'Rutgers <a href="http://rdi2.rutgers.edu">RDI²</a> institute and <a href="http://nsfcac.rutgers.edu">CAC</a> center director'
 photo: assets/img/people/manish-parashar.jpg
 ---
 

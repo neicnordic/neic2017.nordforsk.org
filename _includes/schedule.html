@@ -44,11 +44,17 @@
                                             <td>
                                                 <b><a href="{{ site.baseurl }}/sessions/{{ section.session }}">{{ session.title }}</a></b>
                                                 <br>
+
                                                 Session chair:
-                                                {% comment  %}
-                                                    <a href="{{ site.baseurl }}/people/{{ session.chair | downcase | replace:' ','-' }}">{{ session.chair }}</a>
-                                                {% endcomment %}
-                                                {{ session.chair }}
+                                                {% for p in site.people %}
+                                                    {% assign person_path = p.path | replace:'_people/',''  | replace:'.md','' %}
+                                                    {% if session.chair == person_path %}
+                                                        {% assign person = p %}
+                                                        {% assign selected_person_path = person_path %}
+                                                    {% endif %}
+                                                {% endfor %}
+                                                <a href="{{ site.baseurl }}/people/{{ selected_person_path }}/">{{ person.name }}</a>, {{ person.affiliation }}
+
                                                 {% assign talks = site.talks | where: "session", section.session %}
                                                 {% for talk in talks %}
                                                     <hr>
@@ -58,10 +64,18 @@
                                                             <b><a href="{{ talk.url }}">{{ talk.title }}</a></b>
                                                         {% endif %}
                                                     <br>
-                                                    {% comment  %}
-                                                        <a href="{{ site.baseurl }}/people/{{ talk.speaker | downcase | replace:' ','-' }}">{{ talk.speaker }}</a>
-                                                    {% endcomment %}
-                                                    {{ talk.speaker }}
+                                                    {% if talk.speaker == "TBA" %}
+                                                         TBA
+                                                    {% else %}
+                                                         {% for p in site.people %}
+                                                             {% assign person_path = p.path | replace:'_people/',''  | replace:'.md','' %}
+                                                             {% if talk.speaker == person_path %}
+                                                                 {% assign person = p %}
+                                                                 {% assign selected_person_path = person_path %}
+                                                             {% endif %}
+                                                         {% endfor %}
+                                                         <a href="{{ site.baseurl }}/people/{{ selected_person_path }}/">{{ person.name }}</a>, {{ person.affiliation }}
+                                                    {% endif %}
                                                 {% endfor %}
                                             </td>
                                         {% else %}

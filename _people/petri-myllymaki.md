@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: Petri Myllymäki
-affiliation: Helsinki Institute for Information Technology HIIT
+affiliation: '<a href="http://www.hiit.fi">HIIT</a> Director'
 photo: assets/img/people/petri-myllymaki.jpg
 ---
 

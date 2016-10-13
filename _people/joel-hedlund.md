@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: Joel Hedlund
-affiliation: NeIC
+affiliation: '<a href="http://neic.nordforsk.org">NeIC</a>'
 photo: assets/img/people/joel-hedlund.jpg
 ---
 
@@ -20,4 +20,3 @@ role, including a secure science gateway for Swedish bioscience research codes.
 
 Joel is the program committee chairman for NeIC 2017, as he was for the previous
 NeIC conference [NeIC 2015 in Espoo](http://neic2015.nordforsk.org/).
-

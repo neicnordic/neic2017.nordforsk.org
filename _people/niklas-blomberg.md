@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: Niklas Blomberg
-affiliation: ELIXIR-EU
+affiliation: '<a href="https://elixir-europe.org">ELIXIR</a> Director'
 photo: assets/img/people/niklas-blomberg.jpg
 ---
 

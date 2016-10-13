@@ -13,7 +13,15 @@
                                  {% if talk.session == section.session %}
                                      {% if talk.speaker != 'TBA' %}
                                          <li>
-                                             {{ talk.speaker }}:
+                                             {% for p in site.people %}
+                                                 {% assign person_path = p.path | replace:'_people/',''  | replace:'.md','' %}
+                                                 {% if talk.speaker == person_path %}
+                                                     {% assign person = p %}
+                                                     {% assign selected_person_path = person_path %}
+                                                 {% endif %}
+                                             {% endfor %}
+                                             <a href="{{ site.baseurl }}/people/{{ selected_person_path }}/">{{ person.name }}</a>:
+
                                              {% if talk.abstract == 'none' %}
                                                  {{ talk.title }}
                                              {% else %}

@@ -2,8 +2,8 @@
 layout: schedule
 include: person
 name: Jørn Kristiansen
-affiliation: Norwegian Meteorological Institute
-photo: assets/img/people/joern-kristiansen.jpg
+affiliation: '<a href="http://met.no">Norwegian Meteorological Institute</a>'
+photo: assets/img/people/jorn-kristiansen.jpg
 ---
 
 Jørn Kristiansen is Director of Development Centre for Weather Forecasting at

@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: Henrik Pedersen
-affiliation: University of Southern Denmark
+affiliation: '<a href="http://sdu.dk">University of Southern Denmark</a>'
 photo: assets/img/people/henrik-pedersen.jpg
 ---
 

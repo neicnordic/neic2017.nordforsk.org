@@ -1,9 +1,0 @@
----
-layout: schedule
-include: talk
-title: "NeIC: CodeRefinery project"
-speaker: "Radovan Bast, NeIC <a href='http://coderefinery.org/'>CodeRefinery</a> project leader"
-session: s04
----
-
-Abstract TBA.

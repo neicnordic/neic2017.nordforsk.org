@@ -2,7 +2,7 @@
 layout: schedule
 include: person
 name: John White
-affiliation: NeIC
+affiliation: '<a href="http://neic.nordforsk.org">NeIC</a> EISCAT_3D Support project leader'
 photo: assets/img/people/john-white.jpg
 ---
 
@@ -14,4 +14,3 @@ He was educated at the University of Victoria in Canada and holds a PhD in
 Physics focusing on LEP Standard Model measurements. He has worked since 1999 
 based at CERN and has experience in distributed computing since 2000 through the 
 series of European Grid projects.
-
