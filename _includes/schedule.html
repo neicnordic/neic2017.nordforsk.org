@@ -58,12 +58,14 @@
                                                 {% assign talks = site.talks | where: "session", section.session %}
                                                 {% for talk in talks %}
                                                     <hr>
+                                                    {% if talk.title != 'TBA' %}
                                                         {% if talk.abstract == 'none' %}
                                                             <b>{{ talk.title }}</b>
                                                         {% else %}
                                                             <b><a href="{{ talk.url }}">{{ talk.title }}</a></b>
                                                         {% endif %}
-                                                    <br>
+                                                        <br>
+                                                    {% endif %}
                                                     {% if talk.speaker == "TBA" %}
                                                          TBA
                                                     {% else %}
