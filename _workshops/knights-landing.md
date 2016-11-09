@@ -1,11 +1,10 @@
 ---
 layout: schedule
 include: workshop
-title: TBA
-chair: TBA
+title: Knights landing
+chair: ole-saastad
 sessions:
-    - ws-2-4-morning
-    - ws-2-4-afternoon
+    - ws-2-5-morning
 ---
 
 Detailed workshop description TBA.

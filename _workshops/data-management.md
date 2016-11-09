@@ -1,11 +1,10 @@
 ---
 layout: schedule
 include: workshop
-title: TBA
-chair: TBA
+title: Data management
+chair: henrik-pedersen
 sessions:
-    - ws-2-4-morning
-    - ws-2-4-afternoon
+    - ws-1-5-morning
 ---
 
 Detailed workshop description TBA.

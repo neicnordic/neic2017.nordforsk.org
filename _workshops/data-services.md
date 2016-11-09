@@ -1,11 +1,10 @@
 ---
 layout: schedule
 include: workshop
-title: TBA
-chair: TBA
+title: Data services
+chair: dejan-vitlacil
 sessions:
-    - ws-2-4-morning
-    - ws-2-4-afternoon
+    - ws-1-5-afternoon
 ---
 
 Detailed workshop description TBA.

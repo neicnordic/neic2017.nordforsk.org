@@ -1,11 +1,10 @@
 ---
 layout: schedule
 include: workshop
-title: TBA
-chair: TBA
+title: CodeRefinery
+chair: radovan-bast
 sessions:
-    - ws-2-4-morning
-    - ws-2-4-afternoon
+    - ws-1-3-afternoon
 ---
 
 Detailed workshop description TBA.

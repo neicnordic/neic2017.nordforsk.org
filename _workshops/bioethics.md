@@ -1,11 +1,10 @@
 ---
 layout: schedule
 include: workshop
-title: TBA
+title: Bioethics
 chair: TBA
 sessions:
-    - ws-2-4-morning
-    - ws-2-4-afternoon
+    - ws-1-3-morning
 ---
 
 Detailed workshop description TBA.

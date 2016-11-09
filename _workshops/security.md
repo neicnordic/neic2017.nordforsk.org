@@ -1,11 +1,11 @@
 ---
 layout: schedule
 include: workshop
-title: TBA
-chair: TBA
+title: Security
+chair: leif-nixon
 sessions:
-    - ws-2-4-morning
-    - ws-2-4-afternoon
+    - ws-1-1-morning
+    - ws-1-1-afternoon
 ---
 
 Detailed workshop description TBA.

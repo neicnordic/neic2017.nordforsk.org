@@ -1,11 +1,10 @@
 ---
 layout: schedule
 include: workshop
-title: TBA
+title: AAI
 chair: TBA
 sessions:
-    - ws-2-4-morning
-    - ws-2-4-afternoon
+    - ws-1-4-morning
 ---
 
 Detailed workshop description TBA.

@@ -1,11 +1,10 @@
 ---
 layout: schedule
 include: workshop
-title: TBA
-chair: TBA
+title: Python notebooks and data analytics
+chair: aleksi-kallio
 sessions:
-    - ws-2-4-morning
-    - ws-2-4-afternoon
+    - ws-2-5-afternoon
 ---
 
 Detailed workshop description TBA.

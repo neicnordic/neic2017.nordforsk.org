@@ -1,11 +1,10 @@
 ---
 layout: schedule
 include: workshop
-title: TBA
-chair: TBA
+title: Discovery
+chair: jostein-sundet
 sessions:
-    - ws-2-4-morning
-    - ws-2-4-afternoon
+    - ws-2-3-afternoon
 ---
 
 Detailed workshop description TBA.
