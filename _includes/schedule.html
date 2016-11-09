@@ -13,9 +13,9 @@
                         <div class="collapse" id="list_{{ forloop.index0 }}">
                     {% endif %}
                         <br>
-                        {% for section in day.sections %}
-                            <table class="table table-hover">
-                                <tbody>
+                        <table class="table table-hover">
+                            <tbody>
+                                {% for section in day.sections %}
                                     {% if section.type == 'workshop' %}
                                         <tr class="danger">
                                     {% elsif section.type == 'conference' %}
@@ -26,17 +26,31 @@
                                         <td style="width:120px">{{ section.time }}</td>
                                         {% if section.type == 'workshop' %}
                                             {% for session in section.sessions %}
-                                                {% assign workshop = site.workshops | where: "session", session.name  | first %}
                                                 <td>
-                                                    <b><a href="{{ workshop.url }}">{{ workshop.title }}</a></b>
-                                                    <br>
-                                                    Session chair:
-                                                    {% comment  %}
-                                                        <a href="{{ site.baseurl }}/people/{{ workshop.chair | downcase | replace:' ','-' }}">{{ workshop.chair }}</a>
-                                                    {% endcomment %}
-                                                    {{ workshop.chair }}
-                                                    <br>
-                                                    Room: {{ session.room }}
+                                                    {% for workshop in site.workshops %}
+                                                        {% for workshop_session in workshop.sessions %}
+                                                            {% if workshop_session == session.name %}
+                                                                <b><a href="{{ workshop.url }}">{{ workshop.title }}</a></b>
+                                                                <br>
+                                                                Workshop chair:
+                                                                <br>
+                                                                {% if workshop.chair == "TBA" %}
+                                                                    TBA
+                                                                {% else %}
+                                                                    {% for p in site.people %}
+                                                                        {% assign person_path = p.path | replace:'_people/',''  | replace:'.md','' %}
+                                                                        {% if workshop.chair == person_path %}
+                                                                            {% assign person = p %}
+                                                                            {% assign selected_person_path = person_path %}
+                                                                        {% endif %}
+                                                                    {% endfor %}
+                                                                    <a href="{{ site.baseurl }}/people/{{ selected_person_path }}/">{{ person.name }}</a>
+                                                                {% endif %}
+                                                                <br>
+                                                                Room: {{ session.room }}
+                                                            {% endif %}
+                                                        {% endfor %}
+                                                    {% endfor %}
                                                 </td>
                                             {% endfor %}
                                         {% elsif section.type == 'conference' %}
@@ -86,9 +100,9 @@
                                             </td>
                                         {% endif %}
                                     </tr>
-                                </tbody>
-                            </table>
-                        {% endfor %}
+                                {% endfor %}
+                            </tbody>
+                        </table>
                     </div>
                     <br>
                 {% endfor %}
