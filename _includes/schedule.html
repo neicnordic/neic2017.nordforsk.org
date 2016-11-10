@@ -32,10 +32,8 @@
                                                             {% if workshop_session == session.name %}
                                                                 <b><a href="{{ workshop.url }}">{{ workshop.title }}</a></b>
                                                                 <br>
-                                                                Workshop chair:
-                                                                <br>
                                                                 {% if workshop.chair == "TBA" %}
-                                                                    TBA
+                                                                    Workshop chair TBA
                                                                 {% else %}
                                                                     {% for p in site.people %}
                                                                         {% assign person_path = p.path | replace:'_people/',''  | replace:'.md','' %}
