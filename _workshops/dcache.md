@@ -3,6 +3,7 @@ layout: schedule
 include: workshop
 title: dCache (2d)
 chair: sibel-yasar
+color: "#ffcccc"
 sessions:
     - ws-1-2-morning
     - ws-1-2-afternoon

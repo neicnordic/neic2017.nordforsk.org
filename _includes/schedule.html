@@ -17,7 +17,7 @@
                             <tbody>
                                 {% for section in day.sections %}
                                     {% if section.type == 'workshop' %}
-                                        <tr class="danger">
+                                        <tr>
                                     {% elsif section.type == 'conference' %}
                                         <tr class="warning">
                                     {% else %}
@@ -36,10 +36,10 @@
                                         </td>
                                         {% if section.type == 'workshop' %}
                                             {% for session in section.sessions %}
-                                                <td style="width:160px">
-                                                    {% for workshop in site.workshops %}
-                                                        {% for workshop_session in workshop.sessions %}
-                                                            {% if workshop_session == session.name %}
+                                                {% for workshop in site.workshops %}
+                                                    {% for workshop_session in workshop.sessions %}
+                                                        {% if workshop_session == session.name %}
+                                                            <td style="width:160px; background-color: {{ workshop.color }};">
                                                                 <b><a href="{{ workshop.url }}">{{ workshop.title }}</a></b>
                                                                 <br>
                                                                 {% if workshop.chair == "TBA" %}
@@ -57,10 +57,10 @@
                                                                 <br>
                                                                 Room:
                                                                 <a href="{{ session.room_url }}" target="_blank">{{ session.room }}</a>
-                                                            {% endif %}
-                                                        {% endfor %}
+                                                            </td>
+                                                        {% endif %}
                                                     {% endfor %}
-                                                </td>
+                                                {% endfor %}
                                             {% endfor %}
                                         {% elsif section.type == 'conference' %}
                                             {% assign session = site.sessions | where: "session", section.session | first %}
