@@ -54,8 +54,13 @@
                                             {% endfor %}
                                         {% elsif section.type == 'conference' %}
                                             {% assign session = site.sessions | where: "session", section.session | first %}
+                                            {% assign anchor = session.title | downcase | replace:' ','' %}
                                             <td>
+                                                <a class="anchor" id="{{ anchor }}"></a>
                                                 <b><a href="{{ site.baseurl }}/sessions/{{ section.session }}">{{ session.title }}</a></b>
+                                                <div id="anchor" style="display: inline;">
+                                                    <a href="#{{ anchor }}">$</a>
+                                                </div>
                                                 <br>
 
                                                 Session chair:
