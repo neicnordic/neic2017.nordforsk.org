@@ -26,7 +26,7 @@
                                         <td style="width:120px">{{ section.time }}</td>
                                         {% if section.type == 'workshop' %}
                                             {% for session in section.sessions %}
-                                                <td>
+                                                <td style="width:160px">
                                                     {% for workshop in site.workshops %}
                                                         {% for workshop_session in workshop.sessions %}
                                                             {% if workshop_session == session.name %}
