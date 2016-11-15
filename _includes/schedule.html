@@ -45,7 +45,8 @@
                                                                     <a href="{{ site.baseurl }}/people/{{ selected_person_path }}/">{{ person.name }}</a>
                                                                 {% endif %}
                                                                 <br>
-                                                                Room: {{ session.room }}
+                                                                Room:
+                                                                <a href="{{ session.room_url }}" target="_blank">{{ session.room }}</a>
                                                             {% endif %}
                                                         {% endfor %}
                                                     {% endfor %}
