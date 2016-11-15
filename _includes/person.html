@@ -8,7 +8,7 @@
 
         <div class="col-lg-9">
             <h2>
-                {{ page.name|default:page.title }}
+                {{ page.name | default:page.title }}
             </h2>
             <h3>
                 <div class="lowlight">
@@ -18,6 +18,26 @@
                 </div>
             </h3>
             <p>{{ page.content | markdownify }}</p>
+
+            {% assign person_path = page.path | replace:'_people/',''  | replace:'.md','' %}
+
+            <ul>
+            {% for session in site.sessions %}
+                {% if session.chair == person_path %}
+                     <li>Session chair: <a href="{{ session.url }}">{{ session.title }}</a></li>
+                {% endif %}
+            {% endfor %}
+            {% for talk in site.talks %}
+                {% if talk.speaker == person_path %}
+                     <li>Talk: <a href="{{ talk.url }}">{{ talk.title }}</a></li>
+                {% endif %}
+            {% endfor %}
+            {% for workshop in site.workshops %}
+                {% if workshop.chair == person_path %}
+                     <li>Workshop chair: <a href="{{ workshop.url }}">{{ workshop.title }}</a></li>
+                {% endif %}
+            {% endfor %}
+            </ul>
         </div>
     </div>
 </div>
