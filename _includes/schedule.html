@@ -23,7 +23,17 @@
                                     {% else %}
                                         <tr class="success">
                                     {% endif %}
-                                        <td style="width:120px">{{ section.time }}</td>
+                                        <td style="width:120px">
+                                            {{ section.time }}
+                                            {% if section.break %}
+                                                <br>
+                                                <font color="#b0b0b0">
+                                                    break:
+                                                    <br>
+                                                    {{ section.break }}
+                                                </font>
+                                            {% endif %}
+                                        </td>
                                         {% if section.type == 'workshop' %}
                                             {% for session in section.sessions %}
                                                 <td style="width:160px">
