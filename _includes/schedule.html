@@ -73,15 +73,17 @@
                                                 </div>
                                                 <br>
 
-                                                Session chair:
-                                                {% for p in site.people %}
-                                                    {% assign person_path = p.path | replace:'_people/',''  | replace:'.md','' %}
-                                                    {% if session.chair == person_path %}
-                                                        {% assign person = p %}
-                                                        {% assign selected_person_path = person_path %}
-                                                    {% endif %}
-                                                {% endfor %}
-                                                <a href="{{ site.baseurl }}/people/{{ selected_person_path }}/">{{ person.name }}</a>, {{ person.affiliation }}
+                                                {% if session.chair %}
+                                                    Session chair:
+                                                    {% for p in site.people %}
+                                                        {% assign person_path = p.path | replace:'_people/',''  | replace:'.md','' %}
+                                                        {% if session.chair == person_path %}
+                                                            {% assign person = p %}
+                                                            {% assign selected_person_path = person_path %}
+                                                        {% endif %}
+                                                    {% endfor %}
+                                                    <a href="{{ site.baseurl }}/people/{{ selected_person_path }}/">{{ person.name }}</a>, {{ person.affiliation }}
+                                                {% endif %}
 
                                                 {% assign talks = site.talks | where: "session", section.session %}
                                                 {% for talk in talks %}
