@@ -5,8 +5,8 @@ title: System utilisation and health monitoring
 chair: torben-rasmussen
 color: "#cce4ff"
 sessions:
-    - ws-2-4-morning
-    - ws-2-4-afternoon
+    - ws-1-6-morning
+    - ws-1-6-afternoon
 ---
 
 Detailed workshop description TBA.
