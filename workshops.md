@@ -36,6 +36,7 @@ organizer to the [program committee chair](mailto:joel@nsc.liu.se).
 
 The following workshops have been accepted for the NeIC 2017 conference:
 
+* **Bioethics**: Open workshop with [the Nordic Committee on Bioethics](http://ncbio.org/). Link to [previous event](http://neic2015.nordforsk.org/display/NeIC2015/Bioethics).
 * **CodeRefinery**: NeIC initiative for collaboration on infrastructure support and training for sustainable scientific software. More information [here](http://coderefinery.org/).
 * **Containers**: Will deal with Docker containers.
 * **Data management**: How will we not drown in data?
