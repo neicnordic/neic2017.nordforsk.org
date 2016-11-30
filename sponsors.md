@@ -12,7 +12,7 @@ Interested in sponsoring the NeIC 2017 conference? See our [sponsoring opportuni
 
 ### Gold Sponsors
 
-<a href="http://shop.lenovo.com/dk/da/systems/solutions/hpc/#tab-hpc_unleashed"><img src="/assets/img/logo/LenovoImage-DCG-Ticker-scr-600.jpg">
+<a href="http://shop.lenovo.com/dk/da/systems/solutions/hpc/#tab-hpc_unleashed"><img src="/assets/img/logo/LenovoImage-DCG-Ticker-scr-600.jpg" alt="Lenovo">
 </a>
 
 ### Silver Sponsors
