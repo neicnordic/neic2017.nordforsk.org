@@ -22,9 +22,22 @@ title: Practical information
 
 ### Social events
 
-#### Get out!
+#### Experience Umeå
 
-As customarily, we will try to arrange some outdoors physical activity. Bring your training gear!
+Tuesday May 30 17:30-22:00. Choice of events (pending available seats):
+
+* Guitar museum
+* Whitewater rafting
+* Shrimping boat tour
+* Guided walk around Umeå
+* TBA
+* TBA
+
+Dinner included.
+
+#### NeIC Run
+
+Wednesday May 31 07:00. Meet up with us outside the hotel; at 07:00 we take off on a social 5km jog around Umeå!
 
 #### Conference dinner
 
