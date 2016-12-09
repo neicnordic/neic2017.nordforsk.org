@@ -28,7 +28,7 @@ As customarily, we will try to arrange some outdoors physical activity. Bring yo
 
 #### Conference dinner
 
-TBA.
+Wednesday May 31 19:00-22:00 at [Rådhusets Festsal](http://www.rexumea.com/salong/radhusets-festsal/).
 
 ### Rooms
 
