@@ -10,7 +10,7 @@ title: Practical information
 
 * 2016-12-14 Session titles final, speakers and chairs confirmed.
 * 2016-12-14 Workshop tiles, formats and abstracts sent in to program committee.
-* 2017-01-30 Registration opens.
+* 2017-01-16 Registration opens.
 * 2017-03-31 Presentation titles and abstracts sent in to program committee.
 * 2017-03-31 Workshop agendas sent in to program committee.
 * 2017-03-31 Recommended: Workshop organizers send out pre-workshop surveys to participants.
