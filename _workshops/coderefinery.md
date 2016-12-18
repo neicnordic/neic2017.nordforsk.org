@@ -5,7 +5,36 @@ title: CodeRefinery
 chair: radovan-bast
 color: "#ccffcc"
 sessions:
-    - ws-1-3-afternoon
+    - ws-1-7-afternoon
 ---
 
-Detailed workshop description TBA.
+### Mixed Martial Arts: Interfacing Fortran, C, C++, and Python for Great Good!
+
+**Target audience**:
+
+The programming languages Fortran, C, C++, and Python each have their strengths and weaknesses and their own fan base. This workshop is for people who would like to be able to combine these languages within one code project:
+
+- When writing a high-level abstraction layer or interface to a “bare metal” legacy software written for instance in Fortran or C.
+- When writing an efficient backend to a code mainly written in a high-level language such as Python.
+- When combining modules written in different programming languages.
+- Write a Python interface to a software in C or C++ or Fortran to leverage the wealth of libraries available in Python.
+
+**Topics**:
+
+- Exercise interfacing Fortran, C, C++, and Python with iso_c_binding and Python CFFI
+- Comparing the above with Boost Numpy bindings, SWIG, F2PY, and Cython
+- Building mixed-language projects with CMake
+- Automated testing of a dynamically linked Fortran library with Python
+- Modular API design
+
+**Format**:
+
+Hands-on interactive workshops with type-along type of presentations, live coding and demos.
+
+**Prerequisites**:
+
+- Own laptop
+- Basic Git knowledge and GitHub account
+- Fortran, C, and C++ compilers installed on the laptop (e.g. the GNU compilers)
+- CMake installed on the laptop
+- Access to Numerical Recipes
