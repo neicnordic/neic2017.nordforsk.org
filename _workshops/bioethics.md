@@ -8,7 +8,7 @@ sessions:
     - ws-1-4-morning
 ---
 
-### Bioethics and sensitive data
+### Bioethics of databanks and datasharing
 
 Nordic committee on bioethics – workshop at the 2016 NeIC conference
 
@@ -29,6 +29,10 @@ process. The challenge is to build safeguards that protects individuals but also
 enable use of the data for society, research or business. This session is
 organized to raise awareness about the ethical and legal issues in relation to
 sensitive data storing and sharing, with focus on the Nordic countries.
+
+This workshop will feature presentations by invited speakers, and short summary
+discussion towards the end, similar as in the
+[NeIC 2015 Bioethics Workshop](http://neic2015.nordforsk.org/display/NeIC2015/Bioethics).
 
 More information about the Nordic committee on bioethics:
 [http://ncbio.org/english/](http://ncbio.org/english/)
