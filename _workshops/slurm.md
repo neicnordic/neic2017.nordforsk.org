@@ -1,7 +1,7 @@
 ---
 layout: schedule
 include: workshop
-title: SLURM
+title: Slurm
 chair: dmytro-karpenko
 color: "#adef97"
 sessions:
@@ -9,7 +9,7 @@ sessions:
     - ws-2-4-afternoon
 ---
 
-### SLURM
+### SLURM_WORKSHOP
 
 SLURM has become a de-facto standard for the scientific computing sites in the
 Nordics. Many sites have used SLURM for long time, many have switched recently.
