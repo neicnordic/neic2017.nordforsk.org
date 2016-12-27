@@ -8,7 +8,7 @@ sessions:
     - ws-2-5-afternoon
 ---
 
-### Hackathon for Notebooks in training
+## Hackathon for Notebooks in training
 
 Format: Hands-on Hackathon
 

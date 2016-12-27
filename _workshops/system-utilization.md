@@ -9,7 +9,7 @@ sessions:
     - ws-1-6-afternoon
 ---
 
-### Monitoring HPC system utilisation
+## Monitoring HPC system utilisation
 
 HPC and e-Science infrastructures are tasked with providing compute systems and
 services to, in many cases, a wide and varied range of scientific domains and/or

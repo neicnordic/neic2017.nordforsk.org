@@ -8,7 +8,7 @@ sessions:
     - ws-1-5-afternoon
 ---
 
-### 3rd Nordic Data Services Workshop
+## 3rd Nordic Data Services Workshop
 
 The 3rd Nordic Data Services Workshop will focus on
 services operated by the National e-Infrastructure Providers, National

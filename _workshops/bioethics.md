@@ -8,7 +8,7 @@ sessions:
     - ws-1-3-morning
 ---
 
-### Bioethics of databanks and datasharing
+## Bioethics of databanks and datasharing
 
 Nordic committee on bioethics – workshop at the 2016 NeIC conference
 

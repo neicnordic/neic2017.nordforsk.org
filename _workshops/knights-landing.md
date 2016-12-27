@@ -8,7 +8,7 @@ sessions:
     - ws-2-5-morning
 ---
 
-### Experiences with the Knights Landing processor
+## Experiences with the Knights Landing processor
 
 Presentation of Best Practices using Knights Landing. Presentation of
 the [PRACE Knights Landing Best Practice Guide](http://www.prace-ri.eu/best-practice-guides/).
@@ -23,5 +23,3 @@ installed in Oslo.
 Discussion of the usability of Knights Landing as a HPC processor in
 comparison with Skylake and other modern processors (AMD-ZEN, OpenPower,
 ARM-64, SunWei etc). For what workloads will KNL be the best option?
-
-
