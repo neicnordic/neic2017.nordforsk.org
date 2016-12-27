@@ -1,14 +1,14 @@
 ---
 layout: schedule
 include: workshop
-title: CodeRefinery
+title: Mixed Martial Arts with CodeRefinery
 chair: radovan-bast
 color: "#ccffcc"
 sessions:
     - ws-1-7-afternoon
 ---
 
-### Mixed Martial Arts: Interfacing Fortran, C, C++, and Python for Great Good!
+## Interfacing Fortran, C, C++, and Python for Great Good!
 
 **Target audience**:
 
