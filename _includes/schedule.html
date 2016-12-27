@@ -38,23 +38,25 @@
                                             {% for session in section.sessions %}
                                                 {% for workshop in site.workshops %}
                                                     {% for workshop_session in workshop.sessions %}
+                                                        {% assign i = forloop.index %}
                                                         {% if workshop_session == session.name %}
                                                             <td style="background-color: {{ workshop.color }};">
-                                                                {% if workshop.title == "TBA" %}
-                                                                {% else %}
-                                                                    <b><a href="{{ workshop.url }}">{{ workshop.title }}</a></b>
-                                                                    <br>
-                                                                    {% for p in site.people %}
-                                                                        {% assign person_path = p.path | replace:'_people/',''  | replace:'.md','' %}
-                                                                        {% if workshop.chair == person_path %}
-                                                                            {% assign person = p %}
-                                                                            {% assign selected_person_path = person_path %}
-                                                                        {% endif %}
-                                                                    {% endfor %}
-                                                                    <a href="{{ site.baseurl }}/people/{{ selected_person_path }}/">{{ person.name }}</a>
-                                                                    <br>
-                                                                    Room:
-                                                                    <a href="{{ session.room_url }}" target="_blank">{{ session.room }}</a>
+                                                                {% if workshop.title != "TBA" %}
+                                                                    {% if i == 1 %}
+                                                                        <b><a href="{{ workshop.url }}">{{ workshop.title }}</a></b>
+                                                                        <br>
+                                                                        {% for p in site.people %}
+                                                                            {% assign person_path = p.path | replace:'_people/',''  | replace:'.md','' %}
+                                                                            {% if workshop.chair == person_path %}
+                                                                                {% assign person = p %}
+                                                                                {% assign selected_person_path = person_path %}
+                                                                            {% endif %}
+                                                                        {% endfor %}
+                                                                        <a href="{{ site.baseurl }}/people/{{ selected_person_path }}/">{{ person.name }}</a>
+                                                                        <br>
+                                                                        Room:
+                                                                        <a href="{{ session.room_url }}" target="_blank">{{ session.room }}</a>
+                                                                    {% endif %}
                                                                 {% endif %}
                                                             </td>
                                                         {% endif %}
