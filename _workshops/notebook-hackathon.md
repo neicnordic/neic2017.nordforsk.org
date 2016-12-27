@@ -20,3 +20,8 @@ making it easy to create interactive step-by-step exercises. In this workshop we
 develop and adapt notebooks to fit your training needs and ideas. The notebook
 environment is provided from CSC’s cloud service and previous experience with
 the technology is not strictly necessary.
+
+The workshop is aimed at participants who give training, technical support for
+training or are otherwise interested in hacking notebooks. Programming
+experience will be useful, but the idea is to have different people working
+together and sharing their skill-sets.
