@@ -45,7 +45,7 @@ Wednesday May 31 19:00-22:00 at [Rådhusets Festsal](http://www.rexumea.com/salo
 
 ### Rooms
 
-<img src="/assets/img/venue/floor-plan-ufh.jpg" width="100%">
+<img src="/assets/img/venue/floor-plan-ufh.jpg" width="70%">
 
 The conference has activities in the following rooms, with these maximum numbers of seats:
 
