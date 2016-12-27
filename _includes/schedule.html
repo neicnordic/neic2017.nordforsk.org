@@ -13,7 +13,7 @@
                         <div class="collapse" id="list_{{ forloop.index0 }}">
                     {% endif %}
                         <br>
-                        <table class="table table-hover">
+                        <table class="table table-hover" style="table-layout: fixed;">
                             <tbody>
                                 {% for section in day.sections %}
                                     {% if section.type == 'workshop' %}
@@ -23,7 +23,7 @@
                                     {% else %}
                                         <tr class="success">
                                     {% endif %}
-                                        <td style="width:120px">
+                                        <td style="width: 130px">
                                             {{ section.time }}
                                             {% if section.break %}
                                                 <br>
@@ -39,12 +39,11 @@
                                                 {% for workshop in site.workshops %}
                                                     {% for workshop_session in workshop.sessions %}
                                                         {% if workshop_session == session.name %}
-                                                            <td style="width:160px; background-color: {{ workshop.color }};">
-                                                                <b><a href="{{ workshop.url }}">{{ workshop.title }}</a></b>
-                                                                <br>
-                                                                {% if workshop.chair == "TBA" %}
-                                                                    Workshop chair TBA
+                                                            <td style="background-color: {{ workshop.color }};">
+                                                                {% if workshop.title == "TBA" %}
                                                                 {% else %}
+                                                                    <b><a href="{{ workshop.url }}">{{ workshop.title }}</a></b>
+                                                                    <br>
                                                                     {% for p in site.people %}
                                                                         {% assign person_path = p.path | replace:'_people/',''  | replace:'.md','' %}
                                                                         {% if workshop.chair == person_path %}
@@ -53,10 +52,10 @@
                                                                         {% endif %}
                                                                     {% endfor %}
                                                                     <a href="{{ site.baseurl }}/people/{{ selected_person_path }}/">{{ person.name }}</a>
+                                                                    <br>
+                                                                    Room:
+                                                                    <a href="{{ session.room_url }}" target="_blank">{{ session.room }}</a>
                                                                 {% endif %}
-                                                                <br>
-                                                                Room:
-                                                                <a href="{{ session.room_url }}" target="_blank">{{ session.room }}</a>
                                                             </td>
                                                         {% endif %}
                                                     {% endfor %}
