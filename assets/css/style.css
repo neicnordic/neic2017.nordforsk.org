@@ -251,20 +251,3 @@ ul {
     font-weight: 700;
     margin-bottom: 40px;
 }
-
-
-a.anchor {
-    display: block;
-    position: relative;
-    top: -150px;
-    visibility: hidden;
-}
-
-
-#anchor a:link,
-#anchor a:visited {
-   color: #d0d0d0;
-}
-#anchor a:hover {
-   color: #000000;
-}
