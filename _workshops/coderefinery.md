@@ -12,7 +12,9 @@ sessions:
 
 **Target audience**:
 
-The programming languages Fortran, C, C++, and Python each have their strengths and weaknesses and their own fan base. This workshop is for people who would like to be able to combine these languages within one code project:
+The programming languages Fortran, C, C++, and Python each have their strengths
+and weaknesses and their own fan base. This workshop is for people who would
+like to be able to combine these languages within one code project:
 
 - When writing a high-level abstraction layer or interface to a “bare metal” legacy software written for instance in Fortran or C.
 - When writing an efficient backend to a code mainly written in a high-level language such as Python.
@@ -37,4 +39,4 @@ Hands-on interactive workshops with type-along type of presentations, live codin
 - Basic Git knowledge and GitHub account
 - Fortran, C, and C++ compilers installed on the laptop (e.g. the GNU compilers)
 - CMake installed on the laptop
-- Access to Numerical Recipes
+- A couple of Python packages installed through Anaconda or VirtualEnv (installation instructions will be communicated to the workshop participants before the workshop)
