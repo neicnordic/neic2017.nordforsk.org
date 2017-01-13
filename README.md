@@ -2,12 +2,55 @@
 
 ## How to serve this page locally
 
-Before committing changes or filing pull requests, please verify your
-modifications on your computer:
-```
+tl;dr:
+```bash
 $ jekyll serve
 ```
 
+Before committing changes or filing pull requests, please verify your
+modifications on your computer.
+
+How to set up jekyll right:
+
+1. Install rbenv and bundler
+2. Use rbenv and bundler to set up Jekyll and dependencies correctly.
+
+For longer instructions, read on below.
+
+### Install rbenv and bundler
+
+This site uses GitHub default packages and versions, as noted in the
+[/Gemfile](/Gemfile). This lets you use rbenv with ruby-build and ruby-bundler
+plugins in the next step to install correct versions of all dependencies for
+you.
+
+References:
+
+* https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/
+* http://dan.carley.co/blog/2012/02/07/rbenv-and-bundler/
+
+```bash
+$ sudo apt install rbenv
+$ git clone https://github.com/rbenv/ruby-build.git ~/.rbenv/plugins/ruby-build
+$ git clone git://github.com/carsomyr/rbenv-bundler.git ~/.rbenv/plugins/bundler
+$ eval "$(rbenv init -)"
+$ cd ~/.rbenv/plugins/ruby-build; git pull; cd - # optional: refresh list of available ruby versions.
+$ rbenv install 2.3.3
+$ rbenv global 2.3.3
+$ gem install bundler # do this once for each new ruby version you install.
+```
+
+### Use rbenv and bundler to set up Jekyll and dependencies correctly
+
+```bash
+$ eval "$(rbenv init -)" # Use rbenv if you don't already.
+$ git clone git@github.com:neicnordic/neic2017.nordforsk.org.git # Get the sources
+$ cd neic2017.nordforsk.org
+$ rbenv local 2.3.3 # This site (dir) uses this version of Ruby
+$ bundle install # Set up jekyll just the way GitHub has it.
+$ rbenv rehash # Ensure rbenv knows to launch the right Jekyll.
+$ jekyll serve # Pages now build and serve exactly like they will on GitHub. Happy hacking!
+```
 
 ## How to add new pages
 
