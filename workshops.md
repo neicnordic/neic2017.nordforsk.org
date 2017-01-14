@@ -6,8 +6,6 @@ title: Workshops
 
 ## Open Call for Workshops
 
-**Application deadline is 2016-12-14**
-
 NeIC has an open call for hosting workshops for Nordic communities at the NeIC
 2017 conference in Umeå.
 
