@@ -27,6 +27,7 @@ body {
     color: #384452;
     font-family: 'Lato', sans-serif;
     font-weight: 400;
+    padding-bottom: 200px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -120,7 +121,7 @@ ul {
 }
 
 .navbar-default {
-    background-color: #384452;
+    background-color: #311736;
     border-color: transparent;
 }
 
@@ -225,29 +226,10 @@ ul {
     display: inline;
 }
 
-.centering {
-    text-align: center;
+.space100 {
+    margin-top: 100px;
 }
 
-#title {
-    font-size: 30px;
-    color: #ffffff;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 700;
-}
-
-#title_top {
-    font-size: 20px;
-    color: #ffffff;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 700;
-    margin-top: 40px;
-}
-
-#title_bottom {
-    font-size: 20px;
-    color: #ffffff;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 700;
-    margin-bottom: 40px;
+.space50 {
+    margin-top: 50px;
 }

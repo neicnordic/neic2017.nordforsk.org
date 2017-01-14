@@ -5,8 +5,6 @@ title: Welcome
 permalink: /
 ---
 
-#### About NeIC 2017
-
 Building on the enthusiasm from the first two Nordic e-Infrastructure
 Conferences in 2013 and 2015, we are happy to announce the next NeIC
 Conference, to be hosted by
@@ -23,6 +21,7 @@ conferences we aim to organise NeIC 2017 as a collaboration between
 [SNIC](http://www.snic.vr.se),
 and
 [UNINETT Sigma2](https://www.sigma2.no).
+
 
 #### Registration will open 2017-01-16
 
