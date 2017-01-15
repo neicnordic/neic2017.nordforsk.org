@@ -11,7 +11,7 @@ sessions:
 ## Data Management of Health Data and Register-based Research as a Driver for Innovation
 
 Data Management of Life Science uses a series of tools in constant
-development to work on an increasing amount of data and often the
+development to work on an increasing amount of fx'omics data and often the
 research is concerned with sensitive personal data.
 
 This workshop will be concerned with ideas of how to create a more effective
