@@ -42,8 +42,8 @@
                             {% if workshop_session == session.name %}
                               <td style="background-color: {{ workshop.color }};">
                                 {% if workshop.title != "TBA" %}
+                                  <b><a href="{{ workshop.url }}">{{ workshop.title }}</a></b>
                                   {% if i == 1 %}
-                                    <b><a href="{{ workshop.url }}">{{ workshop.title }}</a></b>
                                     <br>
                                     {% for p in site.people %}
                                       {% assign person_path = p.path | replace:'_people/',''  | replace:'.md','' %}
@@ -56,6 +56,8 @@
                                     <br>
                                     Room:
                                     <a href="{{ session.room_url }}" target="_blank">{{ session.room }}</a>
+                                  {% else %}
+                                    (continued)
                                   {% endif %}
                                 {% endif %}
                               </td>
