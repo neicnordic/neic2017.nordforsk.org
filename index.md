@@ -25,7 +25,7 @@ and
 [UNINETT Sigma2](https://www.sigma2.no).
 
 
-#### Registration will open 2017-01-16
+#### Registration will open soon
 
 Please follow this page for upcoming information about [workshops](workshops/),
 sessions, invited speakers, and travel to NeIC 2017.
