@@ -48,5 +48,5 @@ Guide for the Knights Landing processor. His NeIC 2017 workshop will include bot
 * **Python notebooks and data analysis toolkits**: Cloud services for research.
 * **Security**: A new incarnation (with some upgrades) of Leif Nixon's workshop for offensive operational security. Link to [previous event](http://neic2015.nordforsk.org/display/NeIC2015/WS+Security).
 * **Sensitive data**: Considerations when working with sensitive data
-* **SLURM**: Nordic technical experts on the SLURM batch queuing system meet up and exchange ideas.
+* **Slurm**: Nordic technical experts on the Slurm batch queuing system meet up and exchange ideas.
 * **System utilisation and health monitoring**: Demonstrations and discussions on how to implement and improve tools to monitor resource utilisation per job, user, software etc, to enable users, sysadmins and support to better understand and improve usage patterns, and to improve benchmarking and procurement.
