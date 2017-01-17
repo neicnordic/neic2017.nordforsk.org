@@ -233,3 +233,11 @@ ul {
 .space50 {
     margin-top: 50px;
 }
+
+
+@media screen and (max-width: 640px) {
+	table {
+		overflow-x: auto;
+		display: block;
+	}
+}
