@@ -10,7 +10,9 @@ Conferences in 2013 and 2015, we are happy to announce the next NeIC
 Conference, to be hosted by
 [NeIC](https://neic.nordforsk.org)
 and
-[SNIC](http://www.snic.vr.se).
+[SNIC](http://www.snic.vr.se)
+at the [Umeå Folkets Hus](http://www.umeafolketshus.se).
+
 Similar to the first two NeIC
 conferences we aim to organise NeIC 2017 as a collaboration between
 [CSC](https://www.csc.fi),

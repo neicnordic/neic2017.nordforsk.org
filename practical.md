@@ -6,6 +6,7 @@ title: Practical information
 
 ## Practical information
 
+
 ### Deadlines
 
 * 2016-12-14 Session titles final, speakers and chairs confirmed.
@@ -19,6 +20,12 @@ title: Practical information
 * 2017-05-28 Optional: Workshop materials sent in to program committee.
 * 2017-05-29 Event opens.
 * 2017-06-29 Workshop report sent in to conference reporting.
+
+
+### Venue
+
+The venue is [Umeå Folkets Hus](http://www.umeafolketshus.se).
+
 
 ### Social events
 
