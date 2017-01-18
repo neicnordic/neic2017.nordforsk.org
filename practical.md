@@ -50,7 +50,7 @@ function toggleMapSize() {
 }
 </script>
 <div id="mapcontainer" style="float: right; height: 300px; width: 400px; border: 1px solid black; margin-bottom: 2em; text-align: center;">
- <div id="map" style="width: 100%; height: 100%; border: 1px solid black;"></div>
+ <div id="mapwidget" style="width: 100%; height: 100%; border: 1px solid black;"></div>
  <div><a id="map-size-toggle" onClick="javascript:toggleMapSize();" style="font: small;">Enlarge map</a></div>
 </div>
 <!-- Replace the value of the key parameter with your own API key. -->
@@ -87,7 +87,7 @@ markers = {
 var map, neighborhood, greaterarea;
 
 function initMap() {
-  map = new google.maps.Map(document.getElementById('map'), {
+  map = new google.maps.Map(document.getElementById('mapwidget'), {
     zoom: 14,
     center: {lat: 63.8268491, lng: 20.2643658} //{lat: 63.812277, lng: 20.273830}
   });
