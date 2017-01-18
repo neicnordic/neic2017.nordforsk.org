@@ -35,7 +35,7 @@ function toggleMapSize() {
   toggle = document.getElementById('map-size-toggle');
   if (bigmap) {
     mapcontainer.style.width = "400px";
-    mapcontainer.style.height = "300px";
+    mapcontainer.style.height = "350px";
     mapcontainer.style.float = "right";
     toggle.innerHTML = "Enlarge map"
   } else  {
@@ -49,7 +49,7 @@ function toggleMapSize() {
   map.setCenter(center);
 }
 </script>
-<div id="mapcontainer" style="float: right; height: 300px; width: 400px; border: 1px solid black; margin-bottom: 2em; text-align: center;">
+<div id="mapcontainer" style="float: right; height: 300px; width: 350px; border: 1px solid black; margin-bottom: 2em; text-align: center;">
  <div id="mapwidget" style="width: 100%; height: 100%; border: 1px solid black;"></div>
  <div><a id="map-size-toggle" onClick="javascript:toggleMapSize();" style="font: small;">Enlarge map</a></div>
 </div>
@@ -68,18 +68,18 @@ markers = {
     position: {lat: 63.8252303, lng: 20.2604695},
     zone: 1,
     link: "https://www.google.se/maps/place/Rex+R%C3%A5dhuset/@63.8252303,20.2604695,17z/data=!3m1!4b1!4m5!3m4!1s0x467c5b0c403f451b:0x57e6970530451681!8m2!3d63.825228!4d20.2626582?hl=en"},
-  "mimer": {
-    name: "Elite Hotel Mimer",
-    label: "M",
-    position: {lat: 63.8252071, lng: 20.2672122},
-    zone: 1,
-    link: "https://www.google.se/maps/place/Elite+Hotel+Mimer/@63.8252071,20.2672122,17z/data=!3m1!4b1!4m5!3m4!1s0x467c5b0ef30d1fab:0xa7d43a431cddc70e!8m2!3d63.8252048!4d20.2694009?hl=en"},
   "winn": {
     name: "Comfort Hotel Winn",
     label: "W",
     position: {lat: 63.8261357, lng: 20.2635817},
     zone: 1,
     link: "https://www.google.se/maps/place/Comfort+Hotel+Winn,+Ume%C3%A5/@63.8261357,20.2635817,17z/data=!4m12!1m6!3m5!1s0x467c5b0c2b2bffb5:0x63c0421bed2f5a92!2sComfort+Hotel+Winn,+Ume%C3%A5!8m2!3d63.8261334!4d20.2657704!3m4!1s0x467c5b0c2b2bffb5:0x63c0421bed2f5a92!8m2!3d63.8261334!4d20.2657704?hl=en"},
+  "mimer": {
+    name: "Elite Hotel Mimer",
+    label: "M",
+    position: {lat: 63.8252071, lng: 20.2672122},
+    zone: 1,
+    link: "https://www.google.se/maps/place/Elite+Hotel+Mimer/@63.8252071,20.2672122,17z/data=!3m1!4b1!4m5!3m4!1s0x467c5b0ef30d1fab:0xa7d43a431cddc70e!8m2!3d63.8252048!4d20.2694009?hl=en"},
   "ume": {
     name: "U&Me Hotel",
     label: "U",
@@ -93,11 +93,12 @@ markers = {
     position: {lat: 63.7930184, lng: 20.2870913},
     link: "https://www.google.se/maps/place/Ume%C3%A5+Airport/@63.7930184,20.2870913,17z/data=!4m12!1m6!3m5!1s0x467c5a4bd0eefb9b:0x5d6a5a12f7557933!2sUme%C3%A5+Airport!8m2!3d63.793016!4d20.28928!3m4!1s0x467c5a4bd0eefb9b:0x5d6a5a12f7557933!8m2!3d63.793016!4d20.28928?hl=en"},
   "sculpturepark": {
-    name: "Umeå Sculpture Park",
+    name: "Umedalen Sculpture Park",
     label: "S",
     zone: 3,
-    position: {lat: 63.8334501, lng: 20.143216},
-    link: "https://www.google.se/maps/place/Umedalen+Sculpture+Park/@63.8334501,20.143216,12z/data=!4m16!1m10!4m9!1m0!1m6!1m2!1s0x467c5cf38f49648f:0x5adbc4dff45cc8c0!2sUmedalen+Sculpture+Park,+Aktrisgr%C3%A4nd+34,+903+64+Ume%C3%A5!2m2!1d20.1599554!2d63.8377417!3e2!3m4!1s0x467c5cf38f49648f:0x5adbc4dff45cc8c0!8m2!3d63.8377417!4d20.1599554?hl=en"},
+    position: {lat: 63.838844, lng: 20.159763},
+    link:
+    "https://www.google.se/maps/place/Guided+tours+in+Umedalen+Sculpture+park/@63.8381553,20.1579393,17z/data=!4m13!1m7!3m6!1s0x0:0x0!2zNjPCsDUwJzE3LjQiTiAyMMKwMDknMzYuNSJF!3b1!8m2!3d63.838153!4d20.160128!3m4!1s0x0:0xe8e1e137c76975e5!8m2!3d63.8385511!4d20.15852?hl=en"},
 };
 
 var map, neighborhood, surroundings, greaterarea;
@@ -185,7 +186,7 @@ Tuesday May 30 17:30-22:00. Choice of events (pending available seats):
 * Guided tour of the Umeå Sculpture Park
 * TBA
 
-Dinner included.
+All the social activities will have options for dinner.
 
 #### NeIC Run
 
