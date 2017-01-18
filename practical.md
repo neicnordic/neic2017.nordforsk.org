@@ -34,8 +34,8 @@ function toggleMapSize() {
   mapcontainer = document.getElementById('mapcontainer');
   toggle = document.getElementById('map-size-toggle');
   if (bigmap) {
-    mapcontainer.style.width = "400px";
-    mapcontainer.style.height = "350px";
+    mapcontainer.style.width = "300px";
+    mapcontainer.style.height = "300px";
     mapcontainer.style.float = "right";
     toggle.innerHTML = "Enlarge map"
   } else  {
@@ -49,7 +49,7 @@ function toggleMapSize() {
   map.setCenter(center);
 }
 </script>
-<div id="mapcontainer" style="float: right; height: 300px; width: 350px; border: 1px solid black; margin-bottom: 2em; text-align: center;">
+<div id="mapcontainer" style="float: right; height: 300px; width: 300px; border: 1px solid black; margin-bottom: 2em; text-align: center;">
  <div id="mapwidget" style="width: 100%; height: 100%; border: 1px solid black;"></div>
  <div><a id="map-size-toggle" onClick="javascript:toggleMapSize();" style="font: small;">Enlarge map</a></div>
 </div>
