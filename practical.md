@@ -34,14 +34,14 @@ function toggleMapSize() {
   mapcontainer = document.getElementById('mapcontainer');
   toggle = document.getElementById('map-size-toggle');
   if (bigmap) {
-    mapcontainer.style.width = "300px";
+    mapcontainer.style.width = "400px";
     mapcontainer.style.height = "300px";
     mapcontainer.style.float = "right";
     toggle.innerHTML = "Enlarge map"
   } else  {
-    mapcontainer.style.width = "70%";
+    mapcontainer.style.width = "90%";
     mapcontainer.style.height = "500px";
-    mapcontainer.style.float = "";
+    mapcontainer.style.float = "none";
     toggle.innerHTML = "Shrink map"
   }
   bigmap = !bigmap;
@@ -49,7 +49,7 @@ function toggleMapSize() {
   map.setCenter(center);
 }
 </script>
-<div id="mapcontainer" style="float: right; height: 300px; width: 300px; border: 1px solid black; margin-bottom: 2em; text-align: center;">
+<div id="mapcontainer" style="border: 1px solid black; margin-bottom: 2em; text-align: center;">
  <div id="mapwidget" style="width: 100%; height: 100%; border: 1px solid black;"></div>
  <div><a id="map-size-toggle" onClick="javascript:toggleMapSize();" style="font: small;">Enlarge map</a></div>
 </div>
@@ -157,16 +157,16 @@ src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCkuFwKigZgzcnX3s9Zd4yRTrt
 Click to navigate the map: <br>
 <a onClick="map.fitBounds(neighborhood);">Conference neighborhood</a><br/>
 <a onClick="map.fitBounds(greaterarea);">Greater area</a><br/>
-<div id="location-list">
+<div id="map-location-list">
 </div>
 <script>
 window.onload = function() {
-  locationlist = document.getElementById("location-list");
-  var res = locationlist.innerHTML + 'Markers: <table>';
+  locationlist = document.getElementById("map-location-list");
+  var res = locationlist.innerHTML + 'Markers: <table style>';
   for (var key in markers) {
     if (markers.hasOwnProperty(key)) {
       var m = markers[key];
-      res = res + '<tr><td><b>' + m.label + '</b> &nbsp; </td><td><a data-name="' + key + '" onClick="goToMarker(this.dataset.name);" onMouseOver="bounceMarker(this.dataset.name);" onMouseOut="stopMarker(this.dataset.name);">' + m.name + '</a><td></tr>\n';
+      res = res + '<tr><td>' + m.label + '</td><td><a data-name="' + key + '" onClick="goToMarker(this.dataset.name);" onMouseOver="bounceMarker(this.dataset.name);" onMouseOut="stopMarker(this.dataset.name);">' + m.name + '</a><td></tr>\n';
     }
   }
   res = res + "</table>"

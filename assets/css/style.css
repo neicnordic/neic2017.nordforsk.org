@@ -234,10 +234,34 @@ ul {
     margin-top: 50px;
 }
 
+#map-location-list tr {
+  vertical-align: top;
+}
+#map-location-list tr td:first-child {
+  padding-right: 1ex;
+  font-weight: bold;
+}
 
 @media screen and (max-width: 640px) {
 	table {
 		overflow-x: auto;
 		display: block;
+	}
+
+  #mapcontainer {
+		width: 90%;
+    height: 300px;
+	}
+
+  #map-size-toggle {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 641px) {
+  #mapcontainer {
+		width: 400px;
+    height: 300px;
+    float: right;
 	}
 }
