@@ -60,31 +60,47 @@ markers = {
     name: "Umeå Folkets Hus #NeIC2017",
     label: "N",
     position: {lat: 63.8268491, lng: 20.2643658},
+    zone: 1,
     link: "https://www.google.se/maps/place/Ume%C3%A5+Folkets+Hus/@63.8261357,20.2635817,17z/data=!4m12!1m6!3m5!1s0x467c5b0c2b2bffb5:0x63c0421bed2f5a92!2sComfort+Hotel+Winn,+Ume%C3%A5!8m2!3d63.8261334!4d20.2657704!3m4!1s0x467c5b0c2a97ed89:0x39a2b1ce7ce0c4a4!8m2!3d63.8268468!4d20.2665545?hl=en"},
-  "winn": {
-    name: "Comfort Hotel Winn",
-    label: "W",
-    position: {lat: 63.8261357, lng: 20.2635817},
-    link: "https://www.google.se/maps/place/Comfort+Hotel+Winn,+Ume%C3%A5/@63.8261357,20.2635817,17z/data=!4m12!1m6!3m5!1s0x467c5b0c2b2bffb5:0x63c0421bed2f5a92!2sComfort+Hotel+Winn,+Ume%C3%A5!8m2!3d63.8261334!4d20.2657704!3m4!1s0x467c5b0c2b2bffb5:0x63c0421bed2f5a92!8m2!3d63.8261334!4d20.2657704?hl=en"},
+  "radhuset": {
+    name: "Rex Rådhusets Festsal #NeIC2017 Dinner",
+    label: "D",
+    position: {lat: 63.8252303, lng: 20.2604695},
+    zone: 1,
+    link: "https://www.google.se/maps/place/Rex+R%C3%A5dhuset/@63.8252303,20.2604695,17z/data=!3m1!4b1!4m5!3m4!1s0x467c5b0c403f451b:0x57e6970530451681!8m2!3d63.825228!4d20.2626582?hl=en"},
   "mimer": {
     name: "Elite Hotel Mimer",
     label: "M",
     position: {lat: 63.8252071, lng: 20.2672122},
+    zone: 1,
     link: "https://www.google.se/maps/place/Elite+Hotel+Mimer/@63.8252071,20.2672122,17z/data=!3m1!4b1!4m5!3m4!1s0x467c5b0ef30d1fab:0xa7d43a431cddc70e!8m2!3d63.8252048!4d20.2694009?hl=en"},
+  "winn": {
+    name: "Comfort Hotel Winn",
+    label: "W",
+    position: {lat: 63.8261357, lng: 20.2635817},
+    zone: 1,
+    link: "https://www.google.se/maps/place/Comfort+Hotel+Winn,+Ume%C3%A5/@63.8261357,20.2635817,17z/data=!4m12!1m6!3m5!1s0x467c5b0c2b2bffb5:0x63c0421bed2f5a92!2sComfort+Hotel+Winn,+Ume%C3%A5!8m2!3d63.8261334!4d20.2657704!3m4!1s0x467c5b0c2b2bffb5:0x63c0421bed2f5a92!8m2!3d63.8261334!4d20.2657704?hl=en"},
   "ume": {
     name: "U&Me Hotel",
     label: "U",
     position: {lat: 63.8249167, lng: 20.2586882},
+    zone: 1,
     link: "https://www.google.se/maps/place/U%26Me+Hotel/@63.8249167,20.2586882,17z/data=!4m12!1m6!3m5!1s0x467c5b0c65c1fcb1:0x52c931daddf18921!2sU%26Me+Hotel!8m2!3d63.8249167!4d20.2608769!3m4!1s0x467c5b0c65c1fcb1:0x52c931daddf18921!8m2!3d63.8249167!4d20.2608769?hl=en"},
   "airport": {
     name: "Umeå Airport",
     label: "A",
-    greaterarea: true,
+    zone: 2,
     position: {lat: 63.7930184, lng: 20.2870913},
     link: "https://www.google.se/maps/place/Ume%C3%A5+Airport/@63.7930184,20.2870913,17z/data=!4m12!1m6!3m5!1s0x467c5a4bd0eefb9b:0x5d6a5a12f7557933!2sUme%C3%A5+Airport!8m2!3d63.793016!4d20.28928!3m4!1s0x467c5a4bd0eefb9b:0x5d6a5a12f7557933!8m2!3d63.793016!4d20.28928?hl=en"},
+  "sculpturepark": {
+    name: "Umeå Sculpture Park",
+    label: "S",
+    zone: 3,
+    position: {lat: 63.8334501, lng: 20.143216},
+    link: "https://www.google.se/maps/place/Umedalen+Sculpture+Park/@63.8334501,20.143216,12z/data=!4m16!1m10!4m9!1m0!1m6!1m2!1s0x467c5cf38f49648f:0x5adbc4dff45cc8c0!2sUmedalen+Sculpture+Park,+Aktrisgr%C3%A4nd+34,+903+64+Ume%C3%A5!2m2!1d20.1599554!2d63.8377417!3e2!3m4!1s0x467c5cf38f49648f:0x5adbc4dff45cc8c0!8m2!3d63.8377417!4d20.1599554?hl=en"},
 };
 
-var map, neighborhood, greaterarea;
+var map, neighborhood, surroundings, greaterarea;
 
 function initMap() {
   map = new google.maps.Map(document.getElementById('mapwidget'), {
@@ -93,6 +109,7 @@ function initMap() {
   });
   var infowindow = new google.maps.InfoWindow();
   neighborhood = new google.maps.LatLngBounds();
+  surroundings = new google.maps.LatLngBounds();
   greaterarea = new google.maps.LatLngBounds();
   for (var key in markers) {
     if (markers.hasOwnProperty(key)) {
@@ -107,14 +124,17 @@ function initMap() {
         };
       })(marker,"<b><a target='_blank' href='" + m.link + "'>" + m.label + ": " + m.name + "</a></b>",infowindow)); //_
       greaterarea.extend(marker.position);
-      if (!m.greaterarea) {
-        neighborhood.extend(marker.position);
+      if (m.zone <= 2) {
+        surroundings.extend(marker.position);
+        if (m.zone == 1) {
+          neighborhood.extend(marker.position);
+        }
       }
     }
   }
 }
-function goToMarker(obj) {
-  var marker = markers[obj.dataset.name].marker;
+function goToMarker(name) {
+  var marker = markers[name].marker;
   for (var key in markers) {
     if (markers.hasOwnProperty(key)) {
       markers[key]["marker"].setAnimation(null);
@@ -122,11 +142,11 @@ function goToMarker(obj) {
   }
   map.panTo(marker.getPosition());
 }
-function bounceMarker(obj) {
-  markers[obj.dataset.name].marker.setAnimation(google.maps.Animation.BOUNCE);  
+function bounceMarker(name) {
+  markers[name].marker.setAnimation(google.maps.Animation.BOUNCE);  
 }
-function stopMarker(obj) {
-  markers[obj.dataset.name].marker.setAnimation(null);  
+function stopMarker(name) {
+  markers[name].marker.setAnimation(null);  
 }
 </script>
 <script async defer
@@ -144,7 +164,7 @@ window.onload = function() {
   for (var key in markers) {
     if (markers.hasOwnProperty(key)) {
       var m = markers[key];
-      res = res + '<tr><td>' + m.label + ': &nbsp; </td><td><a data-name="' + key + '" onClick="goToMarker(this);" onMouseOver="bounceMarker(this);" onMouseOut="stopMarker(this);">' + m.name + '</a><td></tr>\n';
+      res = res + '<tr><td><b>' + m.label + '</b> &nbsp; </td><td><a data-name="' + key + '" onClick="goToMarker(this.dataset.name);" onMouseOver="bounceMarker(this.dataset.name);" onMouseOut="stopMarker(this.dataset.name);">' + m.name + '</a><td></tr>\n';
     }
   }
   res = res + "</table>"
@@ -162,14 +182,14 @@ Tuesday May 30 17:30-22:00. Choice of events (pending available seats):
 * Whitewater rafting
 * Shrimping boat tour
 * Guided walk around Umeå
-* TBA
+* Guided tour of the Umeå Sculpture Park
 * TBA
 
 Dinner included.
 
 #### NeIC Run
 
-Wednesday May 31 07:00. Meet up with us outside the hotel; at 07:00 we take off on a social 5km jog around Umeå!
+Wednesday May 31 07:00. Meet up with us outside Hotel Mimer (<a href="#map" onMouseOver="bounceMarker('mimer');" onMouseOut="stopMarker('mimer');" onClick="map.fitBounds(neighborhood); goToMarker('mimer'); return true;">map marker M</a>); at 07:00 we take off on a social 5km jog around Umeå!
 
 #### Conference dinner
 
