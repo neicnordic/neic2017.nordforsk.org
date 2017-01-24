@@ -15,7 +15,7 @@ More and more researchers, from more and more disciplines, need basic computatio
 
 [Software Carpentry](software-carpentry.org) and [Data Carpentry](datacarpentry.org), and more recently, [Library Carpentry](https://librarycarpentry.github.io/), have been offering researchers training in "the computing skills they need to get more done in less time and with less pain" globally. A  team of volunteer instructors organises hundreds of workshops serving thousands of scientists globally on a yearly basis.
 
-At the University of Oslo, in collaboration with the Science Library and USIT, we have built, and are expanding, a community of instructors offering regular Carpentry workshops on several essential skills (unix shell, version control, python, R, SQL, Make, data management) attracting many researchers from the Oslo area.
+At the University of Oslo, in collaboration with the Science Library and USIT, we have built, and are expanding, [a community of instructors offering regular Carpentry workshops](http://uio.no/carpentry) on several essential skills (unix shell, version control, python, R, SQL, Make, data management) attracting many researchers from the Oslo area.
 
 In this workshop, you will become acquainted with the 'Carpentry' model of teaching, and experience first-hand how a workshop is being run. You will learn about how lesson material is developed collectively, and how volunteers can become certified instructors. You will learn how the Carpentry effort at the University of Oslo is organised, and how you can initiate or promote/stimulate such an effort at your home institution or in your area/country.
 
