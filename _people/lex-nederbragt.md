@@ -15,5 +15,5 @@ for eInfrastructure at the University of Oslo. Lex is a Software Carpentry
 instructor, teaching computational lab skills to scientists in the Nordic
 countries. He is an advocate of open source software, and reproducible
 computational biology, sharing his work not only through publications, but also
-on his science blog. His presentations can be found on slideshare and FigShare,
+on his [science blog](https://flxlexblog.wordpress.com/). His presentations can be found on slideshare and FigShare,
 and he am active on twitter ([@lexnederbragt](https://twitter.com/lexnederbragt)).
