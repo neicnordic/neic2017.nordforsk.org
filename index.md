@@ -24,8 +24,5 @@ conferences we aim to organise NeIC 2017 as a collaboration between
 and
 [UNINETT Sigma2](https://www.sigma2.no).
 
-
-#### Registration will open soon
-
 Please follow this page for upcoming information about [workshops](workshops/),
 sessions, invited speakers, and travel to NeIC 2017.

@@ -19,5 +19,7 @@ main:
     text: 'Practical'
   - url: '/sponsors/'
     text: 'Sponsors'
+  - url: '/registration/'
+    text: 'Registration'
   - url: '/contact/'
     text: 'Contact'
