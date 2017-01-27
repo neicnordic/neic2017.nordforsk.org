@@ -5,10 +5,6 @@ main:
     links:
       - url: '/schedule/'
         text: 'Overview'
-#     - url: '/people/'
-#       text: 'Speakers and session chairs'
-#     - url: '/workshops/'
-#       text: 'Workshops'
       - url: '/sessions/'
         text: 'Conference sessions'
       - url: '/talks/'
