@@ -7,7 +7,7 @@ title: Registration
 ## Registration
 
 You may register online using our [secure
-server](http://axacoair.se/go?ywfJetDh). Payment is by credit card (American
+server](https://axacoair.se/go?ywfJetDh). Payment is by credit card (American
 Express, Mastercard, Diners or VISA).  You will automatically receive a receipt
 by email after payment has been completed. Online registration will be accepted
 until 19 May 2017. After this date, only desk registration (in Umeå) is
