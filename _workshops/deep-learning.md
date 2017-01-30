@@ -1,18 +1,20 @@
 ---
 layout: schedule
 include: workshop
-title: Deep learning with nVidia
-chair: jonna-schoppmann
+title: Deep learning with NVIDIA
+chair: gunter-roth
 color: "#fff3b9"
 sessions:
     - ws-1-7-morning
 ---
 
-## Deep learning with nVidia
+<img class="img-reactive" src="/assets/img/logo/16_DeepLearningInstitute_Logo_R11-RGB_BroughToYouBy.png">
+
+## Deep learning with NVIDIA
 
 Format: Lectures and hands-on exercises.
 
-This workshop will cover materials from two courses from the nVidia Deep
+This workshop will cover materials from two courses from the NVIDIA Deep
 Learning Institute, in accelerated computing using GPUs, an in deep learning.
 
 ### Introduction to Accelerated Computing
