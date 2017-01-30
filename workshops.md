@@ -47,6 +47,7 @@ Guide for the Knights Landing processor. His NeIC 2017 workshop will include bot
 * **Pool Competencies & Research Community Engagement**: As one of NeIC's four strategic focus areas, pooling competencies is a core concern for NeIC.
 * **Python notebooks and data analysis toolkits**: Cloud services for research.
 * **Security**: A new incarnation (with some upgrades) of Leif Nixon's workshop for offensive operational security. Link to [previous event](http://neic2015.nordforsk.org/display/NeIC2015/WS+Security).
-* **Sensitive data**: Considerations when working with sensitive data
+* **Sensitive data**: Considerations when working with sensitive data.
 * **Slurm**: Nordic technical experts on the Slurm batch queuing system meet up and exchange ideas.
+* **Software Carpentry**: Everything you wanted to know about Software Carpentry and Data Carpentry, their model of teaching, how workshops are run, how to become a certified instructor and how to initiate or promote \*Carpentry workshops at your home institution or in your area/country. Bonus: let's start a Nordic network of \*Carpentry enthusiasts!
 * **System utilisation and health monitoring**: Demonstrations and discussions on how to implement and improve tools to monitor resource utilisation per job, user, software etc, to enable users, sysadmins and support to better understand and improve usage patterns, and to improve benchmarking and procurement.
