@@ -16,3 +16,5 @@ Interested in sponsoring the NeIC 2017 conference? See our [sponsoring opportuni
 </a>
 
 ### Silver Sponsors
+<a href="http://www.nvidia.com"><img src="/assets/img/logo/16_DeepLearningInstitute_Logo_R11-RGB_BroughToYouBy.png" alt="NVIDIA Deel Learning Insitute">
+</a>
