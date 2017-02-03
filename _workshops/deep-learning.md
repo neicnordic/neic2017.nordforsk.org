@@ -8,7 +8,7 @@ sessions:
     - ws-1-7-morning
 ---
 
-<img class="img-reactive" src="/assets/img/logo/16_DeepLearningInstitute_Logo_R11-RGB_BroughToYouBy.png">
+<a href="https://www.nvidia.co.uk/dli" target="_blank"><img class="img-reactive" src="/assets/img/logo/16_DeepLearningInstitute_Logo_R11-RGB_BroughToYouBy.png"></a>
 
 ## Deep learning with NVIDIA
 
