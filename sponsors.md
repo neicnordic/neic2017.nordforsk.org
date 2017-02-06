@@ -16,5 +16,5 @@ Interested in sponsoring the NeIC 2017 conference? See our [sponsoring opportuni
 </a>
 
 ### Silver Sponsors
-<a href="http://www.nvidia.com"><img src="/assets/img/logo/16_DeepLearningInstitute_Logo_R11-RGB_BroughToYouBy-357.png" alt="NVIDIA Deep Learning Insitute">
+<a href="http://www.nvidia.se"><img src="/assets/img/logo/NVLogo_2D-350.png" alt="NVIDIA">
 </a>
