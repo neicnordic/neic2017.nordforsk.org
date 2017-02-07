@@ -13,7 +13,7 @@ sessions:
 
 More and more researchers, from more and more disciplines, need basic computational skill to be able to effectively collect, process, report on, and share their research data. For many students, these skills are not taught as part of their undergraduate curriculum. This leads to a demand for postgraduate training in the use of eInfrastructures and programming.
 
-[Software Carpentry](software-carpentry.org) and [Data Carpentry](datacarpentry.org), and more recently, [Library Carpentry](https://librarycarpentry.github.io/), have been offering researchers training in "the computing skills they need to get more done in less time and with less pain" globally. A  team of volunteer instructors organises hundreds of workshops serving thousands of scientists globally on a yearly basis.
+[Software Carpentry](https://software-carpentry.org) and [Data Carpentry](http://www.datacarpentry.org), and more recently, [Library Carpentry](https://librarycarpentry.github.io/), have been offering researchers training in "the computing skills they need to get more done in less time and with less pain" globally. A  team of volunteer instructors organises hundreds of workshops serving thousands of scientists globally on a yearly basis.
 
 At the University of Oslo, in collaboration with the Science Library and USIT, we have built, and are expanding, [a community of instructors offering regular Carpentry workshops](http://uio.no/carpentry) on several essential skills (unix shell, version control, python, R, SQL, Make, data management) attracting many researchers from the Oslo area.
 
