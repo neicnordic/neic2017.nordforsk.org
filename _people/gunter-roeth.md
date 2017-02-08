@@ -1,9 +1,9 @@
 ---
 layout: schedule
 include: person
-name: Gunter Roth
+name: Gunter Roeth
 affiliation: '<a href="http://nvidia.com" target="_blank">NVIDIA</a>'
-photo:
+photo: assets/img/people/gunter-roeth.jpg
 ---
 
 Gunter Roeth joined NVIDIA as a Solution Architect two years ago having

@@ -2,7 +2,7 @@
 layout: schedule
 include: workshop
 title: Deep learning with NVIDIA
-chair: gunter-roth
+chair: gunter-roeth
 color: "#fff3b9"
 sessions:
     - ws-1-7-morning
