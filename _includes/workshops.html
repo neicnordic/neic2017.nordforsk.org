@@ -1,0 +1,14 @@
+<div class="container mtt">
+    <div class="row">
+        <div class="col-lg-12">
+            {{ page.content | markdownify }}
+
+            <h2>Accepted workshops</h2>
+            <ul>
+                {% for workshop in site.workshops %}
+                   <li><a href="{{ workshop.url }}">{{ workshop.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</div>

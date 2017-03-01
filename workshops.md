@@ -1,6 +1,6 @@
 ---
 layout: master
-include: generic
+include: workshops
 title: Workshops
 ---
 
@@ -29,25 +29,3 @@ of the workshop organizer.
 
 Applications to NeIC to host a conference workshop are sent by the workshop
 organizer to the [program committee chair](mailto:joel@nsc.liu.se).
-
-## Accepted workshops
-
-The following workshops have been accepted for the NeIC 2017 conference:
-
-* **Bioethics**: Open workshop with [the Nordic Committee on Bioethics](http://ncbio.org/). Link to [previous event](http://neic2015.nordforsk.org/display/NeIC2015/Bioethics).
-* **CodeRefinery**: NeIC initiative for collaboration on infrastructure support and training for sustainable scientific software. More information [here](http://coderefinery.org/).
-* **Containers**: Will deal with Docker containers.
-* **Data management**: How will we not drown in data?
-* **Data services**: The 3rd Nordic data services workshop. Link to [previous event](https://wiki.neic.no/wiki/2nd_Nordic_data_services_workshop).
-* **dCache**: The 11th International dCache workshop is an event in a series of workshops, meant to build and maintain an active dCache community and to strengthen the relationship between dCache system administrators and dCache developers. Link to [previous event](https://indico.desy.de/conferenceDisplay.py?confId=13786).
-* **Deep learning**: Introduction to deep learning by the NVIDIA Deep Learning Institute.
-* **DISCOVERY**: Fringe event; an open workshop for transatlantic cooperation in ICT research and innovation, main topic for discussion is how to strengthen the e-infrastructure collaboration between Europe, USA and Canada, including how to better facilitate access to e-infrastructure over the Atlantic. More information [here](http://discoveryproject.eu/).
-* **Knights landing**: Ole Saastad currently heads up the PRACE effort to produce a Best Practice
-Guide for the Knights Landing processor. His NeIC 2017 workshop will include both presentations and hands-on exercises in how to best utilize this type of processor. For reference, the webpage for Ole's more general workshop on accelerators during NeIC 2015 is available [here](http://neic2015.nordforsk.org/display/NeIC2015/WS+Accelerators).
-* **Pool Competencies & Research Community Engagement**: As one of NeIC's four strategic focus areas, pooling competencies is a core concern for NeIC.
-* **Python notebooks and data analysis toolkits**: Cloud services for research.
-* **Security**: A new incarnation (with some upgrades) of Leif Nixon's workshop for offensive operational security. Link to [previous event](http://neic2015.nordforsk.org/display/NeIC2015/WS+Security).
-* **Sensitive data**: Considerations when working with sensitive data.
-* **Slurm**: Nordic technical experts on the Slurm batch queuing system meet up and exchange ideas.
-* **Software Carpentry**: Everything you wanted to know about Software Carpentry and Data Carpentry, their model of teaching, how workshops are run, how to become a certified instructor and how to initiate or promote \*Carpentry workshops at your home institution or in your area/country. Bonus: let's start a Nordic network of \*Carpentry enthusiasts!
-* **System utilisation and health monitoring**: Demonstrations and discussions on how to implement and improve tools to monitor resource utilisation per job, user, software etc, to enable users, sysadmins and support to better understand and improve usage patterns, and to improve benchmarking and procurement.
