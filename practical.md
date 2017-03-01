@@ -174,6 +174,10 @@ window.onload = function() {
 };
 </script>
 
+### Accomodation
+
+We have reservations in several hotels in Umeå that you can book a room at in our registration form.
+
 ### Social events
 
 #### Experience Umeå
