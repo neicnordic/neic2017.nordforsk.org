@@ -5,6 +5,11 @@ title: Welcome
 permalink: /
 ---
 
+**Crossing boundaries &mdash; changing the world**
+
+Join 200 technical experts, researchers, and decision makers in computing and
+storage over four days of workshops and conference program.
+
 Building on the enthusiasm from the first two Nordic e-Infrastructure
 Conferences in 2013 and 2015, we are happy to announce the next NeIC
 Conference, to be hosted by
