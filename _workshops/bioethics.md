@@ -82,7 +82,7 @@ Centre for Research Ethics & Bioethics, Uppsala University.
 
 ##### 12:15 – 12:30 Plenary forum with speakers
 
-Chairs: From, Isabelle Budin Ljøsne / Hallvard Kvale / Janne Nikkinen 
+Chairs: Isabelle Budin Ljøsne / Hallvard Kvale / Janne Nikkinen 
 
 ### Abstracts
 
