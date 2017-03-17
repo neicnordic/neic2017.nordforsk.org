@@ -30,7 +30,7 @@ More information about the Nordic committee on bioethics:
 
 ### Agenda
 
-##### 9:00 – 9:10 Opening remarks AP.
+##### 9:00 – 9:10 Opening remarks
 
 Chair: TBD
 
@@ -63,7 +63,7 @@ Centre for Demographic and Aging Research, Umeå University.
 
 Chair: TBD
 
-##### 11:00 – 11:25  Biobanks for public good or private gains. The case of deCODE examined.
+##### 11:00 – 11:25  Biobanks for public good or private gains. The case of deCODE examined
 
 [Einar Arnason](http://uni.hi.is/einararn/) –
 Faculty of Life- and Environmental Sciences, University of Iceland.
@@ -80,11 +80,9 @@ Faculty of Law, University of Copenhagen.
 [Deborah Mascalzoni](http://crb.uu.se/staff/deborah-mascalzoni/) –
 Centre for Research Ethics & Bioethics, Uppsala University.
 
-##### 12:15 – 12:30 Plenary forum with speakers.
+##### 12:15 – 12:30 Plenary forum with speakers
 
-IBL, HK, JN moderate. KOK concludes the meeting.
-
-Chairs: From, Isabelle Budin Ljøsne / Hallvard Kvale / Janne Nikkinen
+Chairs: From, Isabelle Budin Ljøsne / Hallvard Kvale / Janne Nikkinen 
 
 ### Abstracts
 
