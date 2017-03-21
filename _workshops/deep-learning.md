@@ -17,6 +17,14 @@ Format: Lectures and hands-on exercises.
 This workshop will cover materials from two courses from the NVIDIA Deep
 Learning Institute, in accelerated computing using GPUs, an in deep learning.
 
+#### Workshop attendee instructions
+
+* [Create a qwikLABS account](https://nvlabs.qwiklab.com/) prior to getting to the conference.
+* Ensure qwikLABS runs smoothly on your laptop by going to [http://websocketstest.com/](http://websocketstest.com/).
+  *	Make sure that WebSockets work for you by seeing under Environment, WebSockets is supported and Data Receive, Send and Echo Test all check Yes under WebSockets (Port 80).
+  *	If there are issues with WebSockets, try updating your browser. Best browsers for qwikLABS are Chrome, FireFox and Safari. The labs will run in IE but it is not an optimal experience.
+* You must bring your own laptop to this workshop.
+
 ### Introduction to Accelerated Computing
 
 Learn about the three techniques for accelerating code on a GPU; Libraries,
