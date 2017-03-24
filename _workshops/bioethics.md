@@ -35,7 +35,7 @@ More information about the Nordic committee on bioethics:
 Chair: TBD
 
 
-##### 9:10 – 9:35 The impact of large-scale data sharing on individual privacy
+##### 9:10 – 9:35 Governing large-scale data sharing through individual consent and privacy
 
 [Kjetil Rommetveit](http://www.uib.no/en/persons/Kjetil.Rommetveit) –
 Centre for the Study of the Sciences and the Humanities, University of Bergen.
@@ -82,7 +82,7 @@ Centre for Research Ethics & Bioethics, Uppsala University.
 
 ##### 12:15 – 12:30 Plenary forum with speakers
 
-Chairs: Isabelle Budin Ljøsne / Hallvard Kvale / Janne Nikkinen 
+Chairs: Isabelle Budin Ljøsne / Hallvard Kvale / Janne Nikkinen
 
 ### Abstracts
 
