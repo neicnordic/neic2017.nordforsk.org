@@ -49,3 +49,22 @@ Hands-on interactive workshops with type-along type of presentations, live codin
 - Fortran, C, and C++ compilers installed on the laptop (e.g. the GNU compilers)
 - CMake installed on the laptop
 - A couple of Python packages installed through Anaconda or VirtualEnv (installation instructions will be communicated to the workshop participants before the workshop)
+
+
+### Agenda
+
+#### First session (13:30 - 15:00)
+
+- Motivation (legacy code, higher level tooling, parallelization)
+- Overview over different approaches (SWIG, F2PY, Cython, CFFI, Boost, PyBind11)
+- Building mixed-language projects with CMake
+- Hands-on example using PyBind11 for unit testing and prototyping of C++ code
+
+#### Second session (15:30 - 17:00)
+
+- API design
+- How to write a C interface
+- iso_c_binding to bind C and Fortran
+- Python interfaces via CFFI
+- Hands-on example for testing a Fortran code with Pytest and deploying the test to Travis CI
+- Roadmap for migrating and modularizing legacy code
