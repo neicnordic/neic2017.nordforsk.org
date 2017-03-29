@@ -10,30 +10,39 @@ sessions:
 
 ## Interfacing Fortran, C, C++, and Python for Great Good!
 
-**Target audience**:
+### Instructors
+
+- Bjørn Lindi
+- Radovan Bast
+
+
+### Target audience
 
 The programming languages Fortran, C, C++, and Python each have their strengths
 and weaknesses and their own fan base. This workshop is for people who would
 like to be able to combine these languages within one code project:
 
 - When writing a high-level abstraction layer or interface to a “bare metal” legacy software written for instance in Fortran or C.
-- When writing an efficient backend to a code mainly written in a high-level language such as Python.
+- When writing an efficient back-end to a code mainly written in a high-level language such as Python.
 - When combining modules written in different programming languages.
-- Write a Python interface to a software in C or C++ or Fortran to leverage the wealth of libraries available in Python.
+- When writing a Python interface to a software in C or C++ or Fortran to leverage the wealth of libraries available in Python.
 
-**Topics**:
 
-- Exercise interfacing Fortran, C, C++, and Python with iso_c_binding and Python CFFI
+### Topics
+
+- Exercise interfacing Fortran, C, C++, and Python with iso_c_binding, Python CFFI, and PyBind11
 - Comparing the above with Boost Numpy bindings, SWIG, F2PY, and Cython
 - Building mixed-language projects with CMake
 - Automated testing of a dynamically linked Fortran library with Python
 - Modular API design
 
-**Format**:
+
+### Format
 
 Hands-on interactive workshops with type-along type of presentations, live coding and demos.
 
-**Prerequisites**:
+
+### Prerequisites
 
 - Own laptop
 - Basic Git knowledge and GitHub account
