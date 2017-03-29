@@ -10,7 +10,7 @@ We are expecting participation of about 200 technical experts, researchers, and 
 days of workshops and conference programme.
 
 Interested in sponsoring, or just want more information?
-Please contact [Mattias Wadenstein](mailto:maswan@ndgf.org) or [Pål Pettersen](mailto:paal.pettersen@nordforsk.org).
+Please contact [Mattias Wadenstein](mailto:maswan@ndgf.org) or [Kine Nordstokkå](mailto:kine.nordstokka@nordforsk.org).
 
 
 ### Platinum level, 60 000 SEK (max 4):

@@ -20,7 +20,8 @@ title: Contact
 - [Joel Hedlund](mailto:joel@nsc.liu.se) (chair)
 - [Radovan Bast](mailto:radovan.bast@uit.no) (deputy chair)
 - [Niclas Jareborg](mailto:niclas.jareborg@bils.se)
-- [Pål Pettersen](mailto:paal.pettersen@nordforsk.org)
+- [Kine Nordstokkå](mailto:kine.nordstokka@nordforsk.org)
+- Pål Pettersen
 
 
 ### Website
@@ -30,5 +31,5 @@ title: Contact
 
 ### Practical matters
 
-- [Pål Pettersen](mailto:paal.pettersen@nordforsk.org) (chair)
+- [Kine Nordstokkå](mailto:kine.nordstokka@nordforsk.org) (chair)
 - [Mattias Wadenstein](mailto:maswan@ndgf.org) (local organizing committee)
