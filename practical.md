@@ -196,7 +196,7 @@ All the social activities will have options for dinner.
 
 #### NeIC Run
 
-Wednesday May 31 07:00. Meet up with us outside Hotel Mimer (<a href="#map" onMouseOver="bounceMarker('mimer');" onMouseOut="stopMarker('mimer');" onClick="map.fitBounds(neighborhood); goToMarker('mimer'); return true;">map marker M</a>); at 07:00 we take off on a social 5km jog around Umeå!
+Wednesday May 31 07:00. Meet up with us outside Hotel Winn (<a href="#map" onMouseOver="bounceMarker('winn');" onMouseOut="stopMarker('winn');" onClick="map.fitBounds(neighborhood); goToMarker('winn'); return true;">map marker W</a>); at 07:00 we take off on a social 5km jog around Umeå!
 
 #### Conference dinner
 
