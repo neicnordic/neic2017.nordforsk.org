@@ -279,7 +279,7 @@ infrastructures.
 
 #### 13:30 – 17:00
 
-##### INDIGO-DataCloud: CDMI/QoS &
+##### INDIGO-DataCloud: CDMI/QoS
 Marina Sahakyan  & Anupam Ashish ~ 40 min
 
 INDIGO-DataCloud (INtegrating Distributed data Infrastructures for Global
