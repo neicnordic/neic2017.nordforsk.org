@@ -30,3 +30,18 @@ coming to the workshop use Slurm on their sites and have at least the
 understanding of how it works and how to configure the simplest Slurm instance.
 No hands-on tutorial is planned, this is rather the place to exchange
 experiences and ideas.
+
+## Agenda
+
+* 09:00 - 09:15 **Welcome**. Personal presentations (who you are, what are your experience with Slurm). Schedule introduction.
+* 09:15 - 10:00 **Ole Holm Neilsen**. Why is it so difficult to get started with Slurm? An answer from Denmark.
+* 10:00 - 10:30 **Bjørn-Helge Mevik**. Slurm at Abel cluster. The running experience.
+* 10:30 - 11:00 *Coffee*
+* 11:00 - 11:30 **Magnus Jonsson**. Advanced Slurm: mount plugin and the heterogenous nodes' setup.
+* 11:30 - 12:30 **Abdulrahman Azab**. Running Docker containers in Slurm.
+* 12:30 - 13:30 *Lunch*
+* 13:30 - 14:00 **Espen Tangen**. Slurm site report from Tromsø.
+* 14:00 - 14:15 **Unconference start**. Explaining the principle, proposing the topics, voting on topics.
+* 14:15 - 15:00 **Unconference** (discussion duration for each topic will be determined by the number of topics and their priority)
+* 15:00 - 15:30 *Coffee*
+* 15:30 - 17:00 **Unconference**
