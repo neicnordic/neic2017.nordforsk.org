@@ -1,7 +1,7 @@
 ---
 layout: schedule
 include: workshop
-title: Data management
+title: Data Management
 chair: henrik-pedersen
 color: "#ffd1b3"
 sessions:

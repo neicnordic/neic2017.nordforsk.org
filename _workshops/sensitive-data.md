@@ -1,7 +1,7 @@
 ---
 layout: schedule
 include: workshop
-title: Sensitive data
+title: Sensitive Data
 chair: antti-pursula
 color: "#cceeff"
 sessions:

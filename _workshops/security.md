@@ -1,7 +1,7 @@
 ---
 layout: schedule
 include: workshop
-title: Offensive security
+title: Offensive Security
 chair: leif-nixon
 color: "#fff5cc"
 sessions:
@@ -10,7 +10,7 @@ sessions:
 ---
 
 
-## Offensive security
+## Offensive Security
 
 Do you ever feel like Michael Douglas in Falling Down? Do you ever get
 the urge to just rip all the badly written software apart? This

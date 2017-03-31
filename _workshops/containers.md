@@ -9,7 +9,7 @@ sessions:
     - ws-1-4-afternoon
 ---
 
-## Building and managing Linux containers for local deployment and HPC
+## Building and Managing Linux Containers for Local Deployment and HPC
 
 **Format**: Hands-on Tutorial
 

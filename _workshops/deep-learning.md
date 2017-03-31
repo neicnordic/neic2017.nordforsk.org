@@ -1,7 +1,7 @@
 ---
 layout: schedule
 include: workshop
-title: Deep learning with NVIDIA
+title: Deep Learning with NVIDIA
 chair: gunter-roeth
 color: "#fff3b9"
 sessions:

@@ -13,7 +13,7 @@ sessions:
 
 <img src="/assets/img/logo/indigo.png">
 
-## 11th international dCache workshop
+## 11th International dCache Workshop
 
 We are happy to announce the 11th International dCache workshop, collocated with
 NeIC 2017 Conference in Umeå from 2017-05-29 to 2017-05-30.

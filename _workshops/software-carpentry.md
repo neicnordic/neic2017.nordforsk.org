@@ -9,7 +9,7 @@ sessions:
 ---
 
 
-## Teaching researchers basic skills for computational research: the Software Carpentry model
+## Teaching Researchers Basic Skills for Computational Research: the Software Carpentry Model
 
 More and more researchers, from more and more disciplines, need basic computational skill to be able to effectively collect, process, report on, and share their research data. For many students, these skills are not taught as part of their undergraduate curriculum. This leads to a demand for postgraduate training in the use of eInfrastructures and programming.
 

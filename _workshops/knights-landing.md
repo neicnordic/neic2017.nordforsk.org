@@ -8,7 +8,7 @@ sessions:
     - ws-2-5-morning
 ---
 
-## Experiences with the Knights Landing processor
+## Experiences with the Knights Landing Processor
 
 This workshop will concern programming the Knights Landing accelerator,
 based on findings in the [PRACE Knights Landing Best Practice Guide](http://www.prace-ri.eu/best-practice-guide-knights-landing-january-2017/).

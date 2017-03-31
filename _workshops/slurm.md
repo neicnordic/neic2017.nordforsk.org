@@ -9,7 +9,7 @@ sessions:
     - ws-2-4-afternoon
 ---
 
-## Slurm workshop
+## Slurm Workshop
 
 Slurm has become a de-facto standard for the scientific computing sites in the
 Nordics. Many sites have used Slurm for long time, many have switched recently.

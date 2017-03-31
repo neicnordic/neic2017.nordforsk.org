@@ -1,7 +1,7 @@
 ---
 layout: schedule
 include: workshop
-title: Monitoring HPC system utilisation
+title: Monitoring HPC System Utilisation
 chair: torben-rasmussen
 color: "#cce4ff"
 sessions:
@@ -9,7 +9,7 @@ sessions:
     - ws-1-6-afternoon
 ---
 
-## Monitoring HPC system utilisation
+## Monitoring HPC System Utilisation
 
 HPC and e-Science infrastructures are tasked with providing compute systems and
 services to, in many cases, a wide and varied range of scientific domains and/or

@@ -1,14 +1,14 @@
 ---
 layout: schedule
 include: workshop
-title: Pool competencies and research community engagement
+title: Pool Competencies and Research Community Engagement
 chair: lene-krol-andersen
 color: "#e0e0e0"
 sessions:
     - ws-2-3-morning
 ---
 
-## Community engagement challenges for novel digital services and competences
+## Community Engagement Challenges for Novel Digital Services and Competences
 
 Modern research requires novel digital services and competences that combine
 software, tools, data and computing across different institutions and across

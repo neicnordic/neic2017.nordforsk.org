@@ -1,14 +1,14 @@
 ---
 layout: schedule
 include: workshop
-title: Hackathon for Notebooks in training
+title: Hackathon for Notebooks in Training
 chair: aleksi-kallio
 color: "#ff9999"
 sessions:
     - ws-2-5-afternoon
 ---
 
-## Hackathon for Notebooks in training
+## Hackathon for Notebooks in Training
 
 Format: Hands-on Hackathon
 
