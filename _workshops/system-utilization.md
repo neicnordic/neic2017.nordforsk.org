@@ -44,3 +44,47 @@ operational services aimed at helping users to utilise e-Science and HPC systems
 and services, then this workshop is for you.
 
 Workshop format: Presentations followed by discussions
+
+Workshop organizers:
+
+* Torben Rasmussen, NSC, SE
+* Bjørn-Helge Mevik, USIT, NO
+* Martin Dahlö, UPPMAX, SE
+
+## Agenda
+
+##### 9:00 - 9:30 Presentation of our ideas with the workshop and potential items for the discussions
+Torben/Martin/Bjørn-Helge
+
+##### 9:30 - 10:15 Thoughts and overview of various types of inefficiency in an academic HPC system
+Peter Kjellström, NSC, SE
+
+##### 10:15 - 10:45 Coffee
+
+##### 10:45 - 11:15 Implementation and experiences from UPPMAX
+Martin Dahlö, UPPMAX, SE
+
+##### 11:15 - 11:45 Proposal for software utilisation monitoring in SNIC
+TBD
+
+##### 11:45 - 12:15 Software utilisation monitoring from NO
+Henrik R. Nagel, NTNU, NO
+
+##### 12:30 - 13:30 Lunch
+
+##### 13:30 - 14:00 Experiences from NSC
+Peter Bortas, NSC, SE
+
+##### 14:00 - 14:30 Presentation of Computerome dashboard
+Erland Hochheim, DTU, DK
+
+##### 14:30 - 15:15 Monitoring of MPI lib usage at NSC
+Peter Kjellström, NSC, SE
+
+##### 15:15 - 15:45 Coffee
+
+##### 15:45 - 16:15 Slurm-ganglia integration (Tromsø)
+Roy Dragseth, UiT, NO
+
+##### 16:15 - 17:00 Discussions and closing conclusions
+All
