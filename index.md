@@ -7,6 +7,9 @@ permalink: /
 
 **Crossing boundaries &mdash; changing the world**
 
+Meet the people who design the infrastructure that you use every day. Influence
+the infrastructure that you will use tomorrow.
+
 Join 200 technical experts, researchers, and decision makers in computing and
 storage over four days of workshops and conference program.
 
