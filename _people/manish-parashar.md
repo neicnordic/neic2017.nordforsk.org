@@ -11,10 +11,9 @@ University. He is also the founding Director of the Rutgers Discovery
 Informatics Institute (RDI2). His research interests are in the broad areas of
 Parallel and Distributed Computing and Computational and Data-Enabled Science
 and Engineering. Manish is founding chair of the IEEE Technical Consortium on
-High Performance Computing (TCHPC) serves on the editorial boards and
-organizing committees of a large number of journals and international
-conferences and workshops, and has deployed several software systems that are
-widely used. He has received a number of awards for his research and
-leadership. Manish is Fellow of AAAS, Fellow of IEEE/IEEE Computer Society and
-ACM Distinguished Scientist. For more information please visit
-http://parashar.rutgers.edu/.
+High Performance Computing (TCHPC), and serves on the editorial boards and
+organizing committees of a number of journals and international conferences and
+workshops. He has also and has deployed several software systems that are widely
+used. He has received several awards for his research and leadership. Manish is
+Fellow of AAAS, Fellow of IEEE/IEEE Computer Society and ACM Distinguished
+Scientist. For more information please visit http://parashar.rutgers.edu/.
