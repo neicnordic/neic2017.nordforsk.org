@@ -15,7 +15,7 @@ sessions:
 Format: Lectures and hands-on exercises.
 
 This workshop will cover materials from two courses from the NVIDIA Deep
-Learning Institute, in accelerated computing using GPUs, an in deep learning.
+Learning Institute, in accelerated computing using GPUs, and in deep learning.
 
 #### Workshop attendee instructions
 
