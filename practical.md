@@ -181,6 +181,13 @@ We have reservations in several hotels in Umeå that you can book a room at in o
 
 ### Social events
 
+#### Opening Get Together
+
+On the evening of the 29th May we invite all our conference participants to
+join us for an opening get together at Folkets Hus between 19.00-22.00. There
+will be a light meal, drinks and plenty of opportunities to meet old friends or
+make new acquaintances.
+
 #### Experience Umeå
 
 Tuesday May 30 17:30-22:00. Choice of events (pending available seats):
