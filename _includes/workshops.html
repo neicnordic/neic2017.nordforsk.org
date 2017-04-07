@@ -6,7 +6,9 @@
             <h2>Accepted workshops</h2>
             <ul>
                 {% for workshop in site.workshops %}
-                   <li><a href="{{ workshop.url }}">{{ workshop.title }}</a></li>
+                    {% if workshop.title != "empty" %}
+                        <li><a href="{{ workshop.url }}">{{ workshop.title }}</a></li>
+                    {% endif %}
                 {% endfor %}
             </ul>
         </div>

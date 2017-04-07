@@ -1,7 +1,7 @@
 ---
 layout: schedule
 include: workshop
-title: TBA
+title: empty
 chair: TBA
 sessions:
     - ws-1-3-afternoon
@@ -13,5 +13,3 @@ sessions:
     - ws-2-8-morning
     - ws-2-8-afternoon
 ---
-
-Detailed workshop description TBA.
