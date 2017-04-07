@@ -41,3 +41,43 @@ of using sensitive data and on the solution that implement them.
 Format: The workshop programme will feature presentations on the above
 mentioned topics: secure IT services, related ethics and legal topics, user
 stories, and technical topics
+
+### Agenda
+
+#### 9:00 Opening
+<br/>
+
+#### 9:30 Ethical Legal and Societal Issues (ELSI)
+
+ _This session includes talks on ethical, legal and societal issues concerning the use of sensitive and/or personal data for research purposes._
+
+<br/>
+
+#### _10:30 Coffee break_
+<br/>
+
+#### 11:00 Current initiatives on sensitive data
+
+ _This session includes talks on current projects and initiatives that aim to support the use of cross-border and/or cross-organizational use of sensitive data._
+
+<br/>
+
+#### _12:30 Lunch_
+<br/>
+
+#### 13:30 Solutions for handing of sensitive data
+
+ _This session includes talks on existing and emerging solutions for storing, managing, processing and accessing of sensitive data._
+
+<br/>
+
+#### _15:00 Coffee break_
+<br/>
+
+#### 15:30 Use cases and success stories
+_This section includes talks on the use of sensitive data for research from user and/or researcher perspective._
+
+<br/>
+
+#### 17:00 Closing
+<br/>
