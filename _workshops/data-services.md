@@ -32,9 +32,13 @@ Agenda
 ----------------
 
 13:30 - 13:40 Welcome (Dejan Vitlacil SNIC)
+
 13:40 - 14:00 Swedish National Data Service (Max Petzold)  
+
 14:00 - 14:20 Norwegian Centre for Research Data (Vigdis Kvalheim)  
+
 14:20 - 14:40 UNINETT Sigma2 AS (Andreas O. Jaunsen)
+
 14:40 - 15:00 Lund University Library (Monica Lassi)
  
 15:00 - 15:30 Coffee Break
