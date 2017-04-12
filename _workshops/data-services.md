@@ -36,9 +36,9 @@ Agenda
 14:00 - 14:20 Norwegian Centre for Research Data (Vigdis Kvalheim)  
 14:20 - 14:40 UNINETT Sigma2 AS (Andreas O. Jaunsen)
 14:40 - 15:00 Lund University Library (Monica Lassi)
-
+ 
 15:00 - 15:30 Coffee Break
-
+ 
 15:30 - 15:50 Swedish National Data Service (Johan Fihn)
 15:50 - 16-10 Stockholm University Library (Sabina Anderberg) 
 16:10 - 16:30 Johan Rung (SciLifeLab)
