@@ -30,3 +30,36 @@ This workshop is mainly a hands-on tutorial that is organized as follows:
 - Docker: Installation, building and managing Docker containers
 - Singularity: Installation, building and running Singularity containers, and creating Singularity containers from Docker containers
 - Containers for HPC: using Docker and Singularity containers in HPC job scripts
+
+### Agenda
+
+##### 09:00 - 09:20 Introduction to containers
+
+##### 09:20 - 10:00 Docker Images and containers
+
+##### 10:00 - 10:30 Building Docker images 1
+
+##### 10:30 - 11:00 _Coffee break_
+
+##### 11:00 - 11:30 Building Docker images 2
+
+##### 11:30 - 12:00 Managing Docker containers
+
+##### 12:00 - 12:30 Docker in continuous integration
+
+##### 12:30 - 13:30 _Lunch_
+
+##### 13:30 - 14:00 Docker Swarm
+
+##### 14:00 - 15:00 Docker with HTCondor and Slurm
+
+##### 15:00 - 15:30 _Coffee break_
+
+##### 15:30 - 15:45 Introduction to Singularity
+
+##### 15:45 - 16:00 Installing Singularity
+
+##### 16:00 - 16:30 Building and managing Singularity containers
+
+##### 16:30 - 17:00 Advanced Docker and Singularity stuff
+
