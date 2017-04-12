@@ -47,9 +47,9 @@ Agenda
 
 15:50 - 16-10 Stockholm University Library (Sabina Anderberg) 
 
-16:10 - 16:30 Johan Rung (SciLifeLab)
+16:10 - 16:30 SciLifeLab (Johan Rung)
 
-16:30 . 16:50 Jonathan Taylor (ESS)
+16:30 . 16:50 ESS (Jonathan Taylor)
 
-16:50 - 17:00 Closing and discussions (Dejan Vitlacil SNIC) 
+16:50 - 17:00 Closing (Dejan Vitlacil SNIC) 
 
