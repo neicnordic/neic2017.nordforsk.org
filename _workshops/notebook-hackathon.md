@@ -25,3 +25,13 @@ The workshop is aimed at participants who give training, technical support for
 training or are otherwise interested in hacking notebooks. Programming
 experience will be useful, but the idea is to have different people working
 together and sharing their skill-sets.
+
+### Preliminary agenda
+
+- 13:30 Welcome and practicalities (Aleksi Kallio)
+- 13:45 Introduction to hacking notebooks with Pebbles (Jyry Suvilehto)
+- 14:00 Working with hackathon challenges
+- 15:00 Coffee available
+- 15:30 Working with hackathon challenges 
+- 16:30 Wrap-up of hackathon task results
+- 17:00 End of hackathon
