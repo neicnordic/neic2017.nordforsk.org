@@ -49,7 +49,7 @@ Agenda
 
 16:10 - 16:30 SciLifeLab (Johan Rung)
 
-16:30 . 16:50 ESS (Jonathan Taylor)
+16:30 . 16:50 Data Management and Software Centre at European Spallation Source (Jonathan Taylor)
 
 16:50 - 17:00 Closing (Dejan Vitlacil SNIC) 
 
