@@ -20,7 +20,7 @@ Registration fees (all prices are excluding VAT):
 - Early bird 1500 SEK (until 10 March)
 - Normal 2000 SEK
 - Student fee: 1200 SEK
-- Onsite registration: 2200 SEK
+- Onsite registration: 3000 SEK
 - Workshop program only (29-30 May): 1200 SEK
 - Conference session only (31 May – 01 Jun): 1200 SEK
 - Conference Dinner 600 SEK
