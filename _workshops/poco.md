@@ -61,7 +61,7 @@ by <a href="http://neic2017.nordforsk.org/people/peter-longreen/">Peter Løngree
 
 11:30-11:45:	Break
 
-11:45-12:15: 	<b>Panel debate on future directions for community engagement, <\br>competence building and the integration of novel digital tools</b>
+11:45-12:15: 	<b>Panel debate on future directions for community engagement, competence building and the integration of novel digital tools</b>
 by workshop presenters & moderator: <a href="http://neic2017.nordforsk.org/people/lene-krol-andersen/">Lene Krøl Andersen</a>
 
 12:15-12:30: 	<b>Closing remarks</b> by
