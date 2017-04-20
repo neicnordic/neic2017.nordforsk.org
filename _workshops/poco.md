@@ -57,7 +57,7 @@ by Damien Lecarpentier, Project Manager, EUDAT
 by Chris Johnson, Applications Consultant at EPCC, PRACE
 
 11:10-11:30: 	<b>Domain specific community engagement & competence building within Life Sciences, ELIXIR</b>
-by Peter Løngreen, Deputy head of the Danish ELIXIR node
+by <a href="http://neic2017.nordforsk.org/people/peter-longreen/">Peter Løngreen</a>, Deputy head of the Danish ELIXIR node
 
 11:30-11:45:	Break
 
