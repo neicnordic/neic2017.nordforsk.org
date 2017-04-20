@@ -36,33 +36,33 @@ The workshop will provide recommendations for future directions on how to implem
 
 <h3 id="agenda">Workshop Program</h3>
 
-09:00-09:15: 	Welcome & Introduction to the workshop 					by Lene Krøl Andersen, Head of eScience Center, DeIC
+09:00-09:15: 	<b>Welcome & Introduction to the workshop</b> 					by <a href="http://neic2017.nordforsk.org/people/lene-krol-andersen/">Lene Krøl Andersen</a>, Head of eScience Center, DeIC
 
-09:15-09:35: 	Nordic community engagement & competence building
+09:15-09:35: 	<b>Nordic community engagement & competence building</b>
  by Michaela Barth, Program Manager for Pool Competencies, NeIC 
 
-09:35-09:55: European community engagement within eScience 
+09:35-09:55: 	<b>European community engagement within eScience</b>
 by Patrick Aerts, Chairman, Platforform of National eScience Centers	in Europe (PLAN-E)
 
-09:55-10:15: European community engagement within EGI
+09:55-10:15: 	<b>European community engagement within EGI</b>
 		by Gergely Sipos, Customer & Technical outreach manager, EGI
 
 10:15-10:30: 	Break
 
-10:30-10:50: 	European community engagement within EUDAT
+10:30-10:50: 	<b>European community engagement within EUDAT</b>
 		By Damien Lecarpentier, Project Manager, EUDAT
 
-10:50-11:10	European community engagement & competence building			within PRACE 
+10:50-11:10	<b>European community engagement & competence building</b>			within PRACE 
 by Chris Johnson, Applications Consultant at EPCC, PRACE
 
-11:10-11:30: 	Domain specific community engagement & competence building within Life Sciences, ELIXIR 
+11:10-11:30: 	<b>Domain specific community engagement & competence building within Life Sciences, ELIXIR</b>
 by Peter Løngreen, Deputy head of the Danish ELIXIR node
 
 11:30-11:45:	Break
 
-11:45-12:15: Panel debate on future directions for community engagement, 		competence building and the integration of novel digital tools
-by workshop presenters & moderator: Lene Krøl Andersen
+11:45-12:15: 	<b>Panel debate on future directions for community engagement, <\br>competence building and the integration of novel digital tools</b>
+by workshop presenters & moderator: <a href="http://neic2017.nordforsk.org/people/lene-krol-andersen/">Lene Krøl Andersen</a>
 
-12:15-12:30: Closing remarks
-		by Lene Krøl Andersen
+12:15-12:30: 	<b>Closing remarks</b> by
+		<a href="http://neic2017.nordforsk.org/people/lene-krol-andersen/">Lene Krøl Andersen</a>
 
