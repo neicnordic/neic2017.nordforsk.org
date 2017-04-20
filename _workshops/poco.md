@@ -42,7 +42,7 @@ The workshop will provide recommendations for future directions on how to implem
  by Michaela Barth, Program Manager for Pool Competencies, NeIC 
 
 09:35-09:55: 	<b>European community engagement within eScience</b>
-by Patrick Aerts, Chairman, Platforform of National eScience Centers	in Europe (PLAN-E)
+by Patrick Aerts, Chairman, Platform of National eScience Centers	in Europe (PLAN-E)
 
 09:55-10:15: 	<b>European community engagement within EGI</b>
 		by Gergely Sipos, Customer & Technical outreach manager, EGI
