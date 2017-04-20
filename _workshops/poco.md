@@ -36,23 +36,24 @@ The workshop will provide recommendations for future directions on how to implem
 
 <h3 id="agenda">Workshop Program</h3>
 
-09:00-09:15: 	<b>Welcome & Introduction to the workshop</b> 					by <a href="http://neic2017.nordforsk.org/people/lene-krol-andersen/">Lene Krøl Andersen</a>, Head of eScience Center, DeIC
+09:00-09:15: 	<b>Welcome & Introduction to the workshop</b>
+by <a href="http://neic2017.nordforsk.org/people/lene-krol-andersen/">Lene Krøl Andersen</a>, Head of eScience Center, DeIC
 
 09:15-09:35: 	<b>Nordic community engagement & competence building</b>
- by Michaela Barth, Program Manager for Pool Competencies, NeIC 
+by Michaela Barth, Program Manager for Pool Competencies, NeIC 
 
 09:35-09:55: 	<b>European community engagement within eScience</b>
-by Patrick Aerts, Chairman, Platform of National eScience Centers	in Europe (PLAN-E)
+by Patrick Aerts, Chairman, Platform of National eScience Centers in Europe (PLAN-E)
 
 09:55-10:15: 	<b>European community engagement within EGI</b>
-		by Gergely Sipos, Customer & Technical outreach manager, EGI
+by Gergely Sipos, Customer & Technical outreach manager, EGI
 
 10:15-10:30: 	Break
 
 10:30-10:50: 	<b>European community engagement within EUDAT</b>
-		By Damien Lecarpentier, Project Manager, EUDAT
+by Damien Lecarpentier, Project Manager, EUDAT
 
-10:50-11:10	<b>European community engagement & competence building</b>			within PRACE 
+10:50-11:10	<b>European community engagement & competence building within PRACE</b>
 by Chris Johnson, Applications Consultant at EPCC, PRACE
 
 11:10-11:30: 	<b>Domain specific community engagement & competence building within Life Sciences, ELIXIR</b>
