@@ -10,7 +10,7 @@ sessions:
 
 ## Community Engagement Challenges for Novel Digital Services and Competences
 
-Modern research requires novel digital services and competences that combine
+<!--Modern research requires novel digital services and competences that combine
 software, tools, data and computing across different institutions and across
 heterogeneous environments. This session will explore the experiences from
 different community engagement set-ups and share best practice on how these
@@ -22,3 +22,47 @@ novel digital services. The workshop will host a panel debate between the
 workshop speakers and workshop attendances, in order to openly reflect upon
 existing challenges and best practices to improve community and competence
 integration across disciplines, institutions and countries.
+-->
+
+Novel digital services are not always domain specific – in fact our services and digital tools turn stronger and reach a wider audience when we start adjusting and integrating them across scientific disciplines. How can we change this great imbalance that exists among the usage of novel digital tools and services between the scientific domains? Can we base our tools and competence building on type of data instead of type of research?
+
+How do we address this issue? Can natural scientists work with digital humanists and vice versa? Can silo-experts become interdisciplinary? How can cross-disciplinary integration be attractive to domain specific experts? 
+
+These are some of the issues that will be debated during this workshop. We will explore community engagement challenges and share best practices from different types of digital service and competence providers/enablers.
+
+The workshop will round off with a panel debate amongst the presenters and audience discussing common ground and individual gain when it comes to community engagement across scientific disciplines.
+
+The workshop will provide recommendations for future directions on how to implement novel digital services across scientific domains alongside building competences.
+
+<h3 id="agenda">Workshop Program</h3>
+
+09:00-09:15: 	Welcome & Introduction to the workshop 					by Lene Krøl Andersen, Head of eScience Center, DeIC
+
+09:15-09:35: 	Nordic community engagement & competence building
+ by Michaela Barth, Program Manager for Pool Competencies, NeIC 
+
+09:35-09:55: European community engagement within eScience 
+by Patrick Aerts, Chairman, Platforform of National eScience Centers	in Europe (PLAN-E)
+
+09:55-10:15: European community engagement within EGI
+		by Gergely Sipos, Customer & Technical outreach manager, EGI
+
+10:15-10:30: 	Break
+
+10:30-10:50: 	European community engagement within EUDAT
+		By Damien Lecarpentier, Project Manager, EUDAT
+
+10:50-11:10	European community engagement & competence building			within PRACE 
+by Chris Johnson, Applications Consultant at EPCC, PRACE
+
+11:10-11:30: 	Domain specific community engagement & competence building within Life Sciences, ELIXIR 
+by Peter Løngreen, Deputy head of the Danish ELIXIR node
+
+11:30-11:45:	Break
+
+11:45-12:15: Panel debate on future directions for community engagement, 		competence building and the integration of novel digital tools
+by workshop presenters & moderator: Lene Krøl Andersen
+
+12:15-12:30: Closing remarks
+		by Lene Krøl Andersen
+
