@@ -6,6 +6,8 @@ title: Practical information
 
 ## Practical information
 
+Anything missing? In this case please [contact us](/contact).
+
 
 ### Deadlines
 
