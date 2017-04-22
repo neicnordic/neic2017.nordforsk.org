@@ -30,9 +30,10 @@ Afternoon Session 13:30-17:00
 
 ### Agenda 
 
-##### 13:30 - 13:40 Opening remarks (Dejan Vitlacil PDC-KTH SNIC)
+##### 13:30 - 13:40 Opening remarks 
 
-Chair: Dejan Vitlacil (PDC-KTH SNIC)
+[Dejan Vitlacil](http://neic2017.nordforsk.org/people/dejan-vitlacil/) – 
+PDC Center for High Performance Computing at the KTH Royal Institute of Technology
 
 13:40 - 14:00 Swedish National Data Service (Max Petzold)  
 
