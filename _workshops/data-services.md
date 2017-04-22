@@ -45,9 +45,11 @@ Chair: Dejan Vitlacil (PDC-KTH SNIC)
 [Monica Lassi](http://www.nateko.lu.se/monica-lassi) – 
 Lund University Library.
 
+<br />
 
 ##### 15:00 - 15:30 Coffee Break
 
+<br />
 
 15:30 - 15:50 Swedish National Data Service (Johan Fihn)
 
