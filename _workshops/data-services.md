@@ -39,7 +39,8 @@ Agenda
 
 14:20 - 14:40 UNINETT Sigma2 AS (Andreas O. Jaunsen)
 
-14:40 - 15:00 Lund University Library (Monica Lassi)
+14:40 - 15:00 Research data services at Lund University Library - managing data on climate, insect eyes and more
+              (Monica Lassi - Lund University Library)
  
 15:00 - 15:30 Coffee Break
  
