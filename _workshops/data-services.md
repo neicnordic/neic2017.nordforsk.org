@@ -28,10 +28,11 @@ Link to previous event: [2nd Nordic data services workshop](https://wiki.neic.no
 Monday, May 29 
 Afternoon Session 13:30-17:00
 
-Agenda 
-----------------
+### Agenda 
 
-13:30 - 13:40 Welcome (Dejan Vitlacil SNIC)
+##### 13:30 - 13:40 Opening remarks (Dejan Vitlacil PDC-KTH SNIC)
+
+Chair: Dejan Vitlacil (PDC-KTH SNIC)
 
 13:40 - 14:00 Swedish National Data Service (Max Petzold)  
 
@@ -39,10 +40,12 @@ Agenda
 
 14:20 - 14:40 UNINETT Sigma2 AS (Andreas O. Jaunsen)
 
-14:40 - 15:00 Research data services at Lund University Library - managing data on climate, insect eyes and more <br />
-              (Monica Lassi - Lund University Library)
+##### 14:40 - 15:00 Research data services at Lund University Library - managing data on climate, insect eyes and more
+
+[Monica Lassi](http://www.nateko.lu.se/monica-lassi) – 
+Lund University Library.
  
-15:00 - 15:30 Coffee Break
+##### 15:00 - 15:30 Coffee Break
  
 15:30 - 15:50 Swedish National Data Service (Johan Fihn)
 
@@ -52,5 +55,5 @@ Agenda
 
 16:30 . 16:50 Data Management and Software Centre at European Spallation Source (Jonathan Taylor)
 
-16:50 - 17:00 Closing (Dejan Vitlacil SNIC) 
+16:50 - 17:00 Closing 
 
