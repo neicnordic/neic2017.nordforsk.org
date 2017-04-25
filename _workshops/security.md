@@ -25,3 +25,14 @@ There will be hands-on sessions.
 
 Bring your laptops, preferably with with some unixoid operating system
 (like Linux or OS X).
+
+
+## Agenda
+
+**09:00 - 10:00  Introduction  
+10:00 - 17:00  Hands-on work (rest of the day).**  
+
+**Breaks**:  
+10:30 - 11:00  Coffee  
+12:30 - 13:30  Lunch  
+15:00 - 15:30  Coffee
