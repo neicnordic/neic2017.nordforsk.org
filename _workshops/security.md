@@ -27,7 +27,7 @@ Bring your laptops, preferably with with some unixoid operating system
 (like Linux or OS X).
 
 
-## Agenda
+### Agenda
 
 **09:00 - 10:00  Introduction  
 10:00 - 17:00  Hands-on work (rest of the day).**  

@@ -30,3 +30,15 @@ Links:
 
 * [PRACE Knights Landing Best Practice Guide](http://www.prace-ri.eu/best-practice-guide-knights-landing-january-2017/) ([pdf](http://www.prace-ri.eu/IMG/pdf/Best-Practice-Guide-Knights-Landing.pdf)).
 * [Other PRACE best practice guides](http://www.prace-ri.eu/best-practice-guides/).
+
+
+### Agenda
+
+**09:00 Introduction  
+09:10 Overview of the KNL processor and programming model  
+09:45 Presentation of the PRACE KNL Best Practice Guide**  
+10:30 - 11:00  Coffee  
+**11:00 Experiences from different sites  
+11:15 Hands on experience, ssh access to UiO KNL systems.  
+12:00 Discussion of usage, feasibility, performance, suitability of KNL**  
+12:30 Lunch, Workshop closes
