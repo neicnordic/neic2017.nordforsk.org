@@ -35,7 +35,10 @@ Afternoon Session 13:30-17:00
 [Dejan Vitlacil](http://neic2017.nordforsk.org/people/dejan-vitlacil/) – 
 PDC Center for High Performance Computing at the KTH Royal Institute of Technology (SNIC)
 
-13:40 - 14:00 Swedish National Data Service (Max Petzold)  
+##### 13:40 - 14:00 SND 2.0 - the new distributed system for data sharing 
+
+[Max Petzold](https://snd.gu.se/sv/om-oss/medarbetare) – 
+Swedish National Data Service 
 
 14:00 - 14:20 Norwegian Centre for Research Data (Vigdis Kvalheim)  
 
