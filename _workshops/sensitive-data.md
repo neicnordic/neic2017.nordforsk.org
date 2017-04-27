@@ -40,7 +40,9 @@ of using sensitive data and on the solution that implement them.
 
 Format: The workshop programme will feature presentations on the above
 mentioned topics: secure IT services, related ethics and legal topics, user
-stories, and technical topics
+stories, and technical topics.
+A report on the current status of sensitive data topics in the Nordic countries
+will be jointly prepared based on the workshop.
 
 ### Agenda
 
