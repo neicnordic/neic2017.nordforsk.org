@@ -46,40 +46,48 @@ will be jointly prepared based on the workshop.
 
 ### Agenda
 
-#### 9:00 Opening
-<br/>
+#### Opening session (9:00 - 10:30) ####
 
-#### 9:30 Ethical Legal and Societal Issues (ELSI)
+- 9:00 *Opening and goals of the workshop*, **Antti Pursula**, NeIC Tryggve project manager
+- 9:20 *The value of research: biobanks, results, and autonomy*, prof. **Hallvard Fossheim**, University of Bergen
+- 9:50 *Secure use of sequence data at the Norwegian Cancer Genomics Consortium (title tbc.)*, prof. **Eivind Hovig**, University of Oslo (tbc.)
+- 10:10 Speaker tba
 
- _This session includes talks on ethical, legal and societal issues concerning the use of sensitive and/or personal data for research purposes._
+#### Coffee break (10:30 - 11:00) ####
 
-<br/>
+#### Service provider presentations (11:00 - 12:30) ####
 
-#### _10:30 Coffee break_
-<br/>
+- 11:00 *Tryggve2 sensitive data project*, **Joel Hedlund**, NeIC Tryggve2 Scientific Manager
+- 11:20 *European Genome-phenome Archive EGA*, **Dylan Spalding**, EMBL-EBI
+- 11:40 *Danish Biobank Register (title tbc.)*, **Bart Wilkowski**, SSI / Danish national biobank
+- 12:00 *Sensitive data in SciLifeLab*, **Hanna Kultima**, SciLifeLab Data Office
+- 12:15 *Estonian Genome Center (title tbc.)*, **Kristjan Metsalu**, Estonian Genome Center
 
-#### 11:00 Current initiatives on sensitive data
+#### Lunch (12:30 - 13:30) ####
 
- _This session includes talks on current projects and initiatives that aim to support the use of cross-border and/or cross-organizational use of sensitive data._
+#### Solutions and tools for managing sensitive data (13:30 - 15:00) ####
 
-<br/>
+Lightning talks (10+2 mins each)
 
-#### _12:30 Lunch_
-<br/>
+- 13:30 *TSD - Services for Sensitive data*, **Maria Francesca Iozzi**, USIT
+- 13:42 *Services for sensitive data at Computerome*, **Ali Syed**, DTU (tbc.)
+- 13:54 *ePouta secure cloud service*, **Jaakko Leinonen**, CSC
+- 14:06 *Mosler service for sensitive data*, **Niclas Jareborg**, NBIS
+- 14:18 *SNIC SENS and Bianca (tbc.)*, **Peter Ankerstål**, SNIC / UPPMAX
+- 14:30 *REMS - Solving  access rights management for sensitive data*, **Tommi Jalkanen**, CSC
+- 14:42 *Pseudonymization tool CPRAS (title tbc.)*, **Piotr Dworzynski**, SSI (tbc.)
 
-#### 13:30 Solutions for handing of sensitive data
+#### Coffee break (15:00 - 15:30) ####
 
- _This session includes talks on existing and emerging solutions for storing, managing, processing and accessing of sensitive data._
+#### Use of register data for research (15:30 - 16:50) ####
 
-<br/>
+- 15:30 *Nordic collaboration of statistics institutes (title tbc.)*, **Claus-Göran Hjelm**, Statistics Sweden
+- 15:50 *Status and plans for research use of sensitive data at Statistics Finland*, **Valtteri Valkonen**, Statistics Finland
+- 16:10 *Infrastructure for sensitive data at NIASC and KI*, **Davit Bzhalava**, KI
+- 16:30 *Metadata tool RUT (title tbc.)*, **Fredrik Quistgaard**, VR
 
-#### _15:00 Coffee break_
-<br/>
+#### Conclusions ####
 
-#### 15:30 Use cases and success stories
-_This section includes talks on the use of sensitive data for research from user and/or researcher perspective._
+- 16:50 *Conclusions*, **Tommi Nyrönen**, ELIXIR Finland
 
-<br/>
-
-#### 17:00 Closing
-<br/>
+#### 17:00 End of workshop ####
