@@ -40,7 +40,10 @@ PDC Center for High Performance Computing at the KTH Royal Institute of Technolo
 [Max Petzold](https://snd.gu.se/sv/om-oss/medarbetare) – 
 Swedish National Data Service 
 
-14:00 - 14:20 Norwegian Centre for Research Data (Vigdis Kvalheim)  
+##### 14:00 - 14:20  SND2.0 - Technical approaches
+
+[Johan Fihn](https://snd.gu.se/sv/om-oss/medarbetare) – 
+Swedish National Data Service 
 
 14:20 - 14:40 UNINETT Sigma2 AS (Andreas O. Jaunsen)
 
@@ -55,10 +58,7 @@ Lund University Library.
 
 <br />
 
-##### 15:30 - 15:50 SND2.0 - Technical approaches
-
-[Johan Fihn](https://snd.gu.se/sv/om-oss/medarbetare) – 
-Swedish National Data Service 
+15:30 - 15:50 Norwegian Centre for Research Data (Vigdis Kvalheim)  
 
 15:50 - 16-10 Stockholm University Library (Sabina Anderberg) 
 
