@@ -55,7 +55,10 @@ Lund University Library.
 
 <br />
 
-15:30 - 15:50 Swedish National Data Service (Johan Fihn)
+##### 15:30 - 15:50 SND2.0 - Technical approaches
+
+[Johan Fihn](https://snd.gu.se/sv/om-oss/medarbetare) – 
+Swedish National Data Service 
 
 15:50 - 16-10 Stockholm University Library (Sabina Anderberg) 
 
