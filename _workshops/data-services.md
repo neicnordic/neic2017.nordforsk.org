@@ -38,12 +38,12 @@ PDC Center for High Performance Computing at the KTH Royal Institute of Technolo
 ##### 13:40 - 14:00 SND 2.0 - the new distributed system for data sharing 
 
 [Max Petzold](https://snd.gu.se/sv/om-oss/medarbetare) – 
-Swedish National Data Service 
+Swedish National Data Service (SND)
 
 ##### 14:00 - 14:20  SND2.0 - Technical approaches
 
 [Johan Fihn](https://snd.gu.se/sv/om-oss/medarbetare) – 
-Swedish National Data Service 
+Swedish National Data Service (SND)
 
 14:20 - 14:40 UNINETT Sigma2 AS (Andreas O. Jaunsen)
 
