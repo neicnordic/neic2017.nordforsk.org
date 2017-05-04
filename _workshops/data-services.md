@@ -45,7 +45,10 @@ Swedish National Data Service (SND)
 [Johan Fihn](https://snd.gu.se/sv/om-oss/medarbetare) – 
 Swedish National Data Service (SND)
 
-14:20 - 14:40 UNINETT Sigma2 AS (Andreas O. Jaunsen)
+##### 14:20 - 14:40 Creating Data Management Plans
+
+[Adil Hasan](https://www.sigma2.no/content/about-sigma2) – 
+UNINETT Sigma2 AS
 
 ##### 14:40 - 15:00 Research data services at Lund University Library - managing data on climate, insect eyes and more
 
