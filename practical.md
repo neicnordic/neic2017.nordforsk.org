@@ -194,14 +194,15 @@ make new acquaintances.
 
 Tuesday May 30 17:30-22:00. Choice of events (pending available seats):
 
-* Guitar museum
-* Whitewater rafting
-* Shrimping boat tour
-* Guided walk around Umeå
-* Guided tour of the Umeå Sculpture Park
-* TBA
+* Guided tour of the [Umeå Guitars museum](http://www.guitarsthemuseum.com/)
+* Whitewater rafting in the [Vindel river](http://www.forsranning.se/)
+* Shrimp dinner on a [boat cruise of Umeå river delta](http://www.sjobris.nu/m-s-sandsk%C3%A4r-33915137)
+* Guided tour and dinner at the [Moose farm](http://www.algenshus.se/)
+* Guided walk around [Umeå](https://www.visitumea.se/sv/boka/se-gora/a472876/guidade-stadsvandringar-i-umea/detaljer)
+* Guided tour of the [Umeå Sculpture Park](http://www.umedalenskulptur.se/)
 
-All the social activities will have options for dinner.
+These events are available free of charge, in the expectation that you will get
+to know your fellow participants better.
 
 #### NeIC Run
 
