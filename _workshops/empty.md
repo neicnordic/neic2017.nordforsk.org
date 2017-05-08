@@ -5,6 +5,7 @@ title: empty
 chair: TBA
 sessions:
     - ws-1-3-afternoon
+    - ws-1-5-morning
     - ws-1-8-afternoon
     - ws-2-3-afternoon
     - ws-2-6-morning
