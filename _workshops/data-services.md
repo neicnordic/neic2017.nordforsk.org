@@ -63,11 +63,17 @@ Lund University Library.
 
 15:30 - 15:50 Norwegian Centre for Research Data (Vigdis Kvalheim)  
 
-15:50 - 16-10 Stockholm University Library (Sabina Anderberg) 
+##### 15:50 - 16-10 Development and implementation of RDM services at Stockholm University
+
+[Sabina Anderberg](http://www.su.se/english/profiles/saan8840) – 
+Stockholm University Library.
 
 16:10 - 16:30 SciLifeLab (Johan Rung)
 
-16:30 . 16:50 Data Management and Software Centre at European Spallation Source (Jonathan Taylor)
+##### 16:30 . 16:50 Data management and scientific computing at the European Spallation source
+
+[Jonathan Taylor](https://europeanspallationsource.se/data-management-and-software-centre)
+Data Management and Software Centre (DMSC) - European Spallation SourceESS
 
 16:50 - 17:00 Closing 
 
