@@ -40,7 +40,7 @@ The workshop will provide recommendations for future directions on how to implem
 by <a href="http://neic2017.nordforsk.org/people/lene-krol-andersen/">Lene Krøl Andersen</a>, Head of eScience Center, DeIC
 
 09:15-09:35: 	<b>Nordic community engagement & competence building</b>
-by Michaela Barth, Program Manager for Pool Competencies, NeIC 
+by <a href="https://neic.nordforsk.org/about/team/#barth">Michaela Barth</a>, Program Manager for Pool Competencies, NeIC 
 
 09:35-09:55: 	<b>European community engagement within eScience</b>
 by Patrick Aerts, Chairman, Platform of National eScience Centers in Europe (PLAN-E)
