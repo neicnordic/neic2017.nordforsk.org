@@ -81,7 +81,6 @@ Faculty of Law, University of Copenhagen.
 Centre for Research Ethics & Bioethics, Uppsala University.
 
 ##### 12:15 – 12:25 Plenary forum with speaker, Isabelle Sylvie Budin Ljøsne moderates.
-<br/>
 
 ##### 12:25 - 12:30 Closing remarks: Kirsten Ohm Kyvik, chair of the Nordic committee on bioethics.
 
