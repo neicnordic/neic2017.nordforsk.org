@@ -86,7 +86,11 @@ Chairs: Isabelle Budin Ljøsne / Hallvard Kvale / Janne Nikkinen
 
 ##### 12:25 - 12:30 Closing remarks: Kirsten Ohm Kyvik, chair of the Nordic committee on bioethics.
 
+<br/>
+
 This is the second workshop that Nordic committee on bioethics organizes at NeIC event, see information on the [NeIC 2015 Bioethics Workshop](http://neic2015.nordforsk.org/display/NeIC2015/Bioethics).
+
+<br/>
 
 ### Abstracts
 
