@@ -5,7 +5,7 @@ title: Knights Landing
 chair: ole-saastad
 color: "#f2ffcc"
 sessions:
-    - ws-2-5-morning
+    - ws-2-2-morning
 ---
 
 ## Experiences with the Knights Landing Processor

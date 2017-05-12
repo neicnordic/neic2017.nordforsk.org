@@ -5,7 +5,7 @@ title: Hackathon for Notebooks in Training
 chair: aleksi-kallio
 color: "#ff9999"
 sessions:
-    - ws-2-5-afternoon
+    - ws-2-2-afternoon
 ---
 
 ## Hackathon for Notebooks in Training

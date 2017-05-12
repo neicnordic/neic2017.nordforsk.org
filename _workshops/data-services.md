@@ -5,7 +5,7 @@ title: Data Services
 chair: dejan-vitlacil
 color: "#ccffee"
 sessions:
-    - ws-1-5-afternoon
+    - ws-1-2-afternoon
 ---
 
 ## 3rd Nordic Data Services Workshop
