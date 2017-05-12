@@ -2,12 +2,12 @@
 layout: schedule
 include: person
 name: Bo Kågström
-affiliation: '<a href="http://www.nlafet.eu" target="_blank">NLAFET</a>, <a href="https://www.hpc2n.umu.se/" target="_blank">HPC2N</a>'
+affiliation: '<a href="https://www.hpc2n.umu.se/" target="_blank">Dept. of Computing Science and HPC2N, Umeå University</a>'
 photo: assets/img/people/bo-kagstrom.jpg
 ---
 
 Professor and HPC2N Director
 
-Dept. of Computing Science and HPC2N
+Dept. of Computing Science and [HPC2N](https://www.hpc2n.umu.se/).
 
-Coordinator and Scientific Coordinator of NLAFET
+Coordinator and Scientific Coordinator of [NLAFET](http://www.nlafet.eu).
