@@ -9,6 +9,12 @@ title: Practical information
 Anything missing? In this case please [contact us](/contact).
 
 
+### Rooms for side-meetings
+
+Booking rooms for side-meetings is possible. If you wish to do so, please
+contact the [program committee](/contact/#program-committee).
+
+
 ### Deadlines
 
 * 2016-12-14 Session titles final, speakers and chairs confirmed.
