@@ -61,7 +61,9 @@ Lund University Library.
 
 <br />
 
-15:30 - 15:50 Norwegian Centre for Research Data (Vigdis Kvalheim)  
+##### 15:30 - 15:50 Norwegian Centre for Research Data 
+
+[Atle Alvheim](http://www.uib.no/en/persons/Atle.Alvheim)  
 
 ##### 15:50 - 16-10 Development and implementation of RDM services at Stockholm University
 
