@@ -27,6 +27,23 @@ same thing?
 In this Birds-of-a-Feather session we will discuss the challenges in Data
 management that we are currently facing in Nordic research and e-infrastructure.
 
+### Topics for discussion
+
+To prepare for fruitful discussions during this session, participants and any
+others who take an interest in Nordic data management are invited to propose
+topics and link presentations in this document:
+
+**[Please add your topics and presentations here: https://goo.gl/AQywk8](https://goo.gl/AQywk8)**
+
+Please consider contributing if you:
+
+* Want to raise an issue for discussion?
+* Want to present some new and interesting results?
+* Want to ask someone else to present their new and interesting results?
+
+Please feel welcome to add links to documents or presentations of interest
+to the workshop.
+
 ### Agenda
 
 ##### 09:00 - 10:30 Discussion
