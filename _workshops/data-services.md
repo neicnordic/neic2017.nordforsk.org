@@ -63,7 +63,7 @@ Lund University Library.
 
 ##### 15:30 - 15:50 NSD 2.0:  Norwegian Open Research Data Infrastructure (NORDi)
 
-[Atle Alvheim](http://www.uib.no/en/persons/Atle.Alvheim)  
+[Atle Alvheim](http://www.uib.no/en/persons/Atle.Alvheim) – 
 Norwegian Centre for Research Data 
 
 ##### 15:50 - 16-10 Development and implementation of RDM services at Stockholm University
@@ -75,7 +75,7 @@ Stockholm University Library.
 
 ##### 16:30 . 16:50 Data management and scientific computing at the European Spallation source
 
-[Jonathan Taylor](https://europeanspallationsource.se/data-management-and-software-centre)
+[Jonathan Taylor](https://europeanspallationsource.se/data-management-and-software-centre) – 
 Data Management and Software Centre (DMSC) - European Spallation SourceESS
 
 16:50 - 17:00 Closing 
