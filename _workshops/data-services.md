@@ -61,9 +61,10 @@ Lund University Library.
 
 <br />
 
-##### 15:30 - 15:50 Norwegian Centre for Research Data 
+##### 15:30 - 15:50 NSD 2.0:  Norwegian Open Research Data Infrastructure (NORDi)
 
 [Atle Alvheim](http://www.uib.no/en/persons/Atle.Alvheim)  
+Norwegian Centre for Research Data 
 
 ##### 15:50 - 16-10 Development and implementation of RDM services at Stockholm University
 
