@@ -11,17 +11,41 @@ sessions:
 
 ## Teaching Researchers Basic Skills for Computational Research: the Software Carpentry Model
 
-More and more researchers, from more and more disciplines, need basic computational skill to be able to effectively collect, process, report on, and share their research data. For many students, these skills are not taught as part of their undergraduate curriculum. This leads to a demand for postgraduate training in the use of eInfrastructures and programming.
+More and more researchers, from more and more disciplines, need basic
+computational skill to be able to effectively collect, process, report on, and
+share their research data. For many students, these skills are not taught as
+part of their undergraduate curriculum. This leads to a demand for postgraduate
+training in the use of eInfrastructures and programming.
 
-[Software Carpentry](https://software-carpentry.org) and [Data Carpentry](http://www.datacarpentry.org), and more recently, [Library Carpentry](https://librarycarpentry.github.io/), have been offering researchers training in "the computing skills they need to get more done in less time and with less pain" globally. A  team of volunteer instructors organises hundreds of workshops serving thousands of scientists globally on a yearly basis.
+[Software Carpentry](https://software-carpentry.org) and [Data
+Carpentry](http://www.datacarpentry.org), and more recently, [Library
+Carpentry](https://librarycarpentry.github.io/), have been offering researchers
+training in "the computing skills they need to get more done in less time and
+with less pain" globally. A  team of volunteer instructors organises hundreds
+of workshops serving thousands of scientists globally on a yearly basis.
 
-At the University of Oslo, in collaboration with the Science Library and USIT, we have built, and are expanding, [a community of instructors offering regular Carpentry workshops](http://uio.no/carpentry) on several essential skills (unix shell, version control, python, R, SQL, Make, data management) attracting many researchers from the Oslo area.
+At the University of Oslo, in collaboration with the Science Library and USIT,
+we have built, and are expanding, [a community of instructors offering regular
+Carpentry workshops](http://uio.no/carpentry) on several essential skills (unix
+shell, version control, python, R, SQL, Make, data management) attracting many
+researchers from the Oslo area.
 
-In this workshop, you will become acquainted with the 'Carpentry' model of teaching, and experience first-hand how a workshop is being run. You will learn about how lesson material is developed collectively, and how volunteers can become certified instructors. You will learn how the Carpentry effort at the University of Oslo is organised, and how you can initiate or promote/stimulate such an effort at your home institution or in your area/country.
+In this workshop, you will become acquainted with the 'Carpentry' model of
+teaching, and experience first-hand how a workshop is being run. You will learn
+about how lesson material is developed collectively, and how volunteers can
+become certified instructors. You will learn how the Carpentry effort at the
+University of Oslo is organised, and how you can initiate or promote/stimulate
+such an effort at your home institution or in your area/country.
 
-We aim to both bring Nordic Software Carpentry and Data Carpentry folks together to initiate a network, as well as recruit others to become involved. As a result, we aim to broaden the geographic areas in the Nordics that are able to offer Carpentry workshops.
+We aim to both bring Nordic Software Carpentry and Data Carpentry folks
+together to initiate a network, as well as recruit others to become involved.
+As a result, we aim to broaden the geographic areas in the Nordics that are
+able to offer Carpentry workshops.
 
-The workshop organiser is Lex Nederbragt. He is an experienced instructor, as well as an instructor trainer, for Software Carpentry and Data Carpentry, as well as the main driver of the Software Carpentry and Data Carpentry effort at the University of Oslo.
+The workshop organiser is Lex Nederbragt. He is an experienced instructor, as
+well as an instructor trainer, for Software Carpentry and Data Carpentry, as
+well as the main driver of the Software Carpentry and Data Carpentry effort at
+the University of Oslo.
 
 Who should participate:
 
