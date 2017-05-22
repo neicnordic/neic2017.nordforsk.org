@@ -59,10 +59,10 @@ Who should participate:
 
 ### Agenda
 
-- 09:00 - 09:20 short round of who is who, role they play at their institute, previous experience with the Carpentries
-- 09:20 - 10:00 history of Software Carpentry at UiO, organisation, status, and outlook, Q&A
-- 10:00 - 10:15 coffee break
-- 10:15 - 11:15 short hands-on: experiencing a workshop (as a learner), subject to be determined
-- 11:15 - 11:30 coffee break
-- 11:30 - 12:30 round-table discussion: how to initiate or promote/stimulate Carpentry workshops at your home institution or in your area/country; initiating a Nordic Software Carpentry and Data Carpentry network?
-- 12:30 finish
+- 09:00 - 09:20: short round of who is who, role they play at their institute, previous experience with the Carpentries
+- 09:20 - 10:00: history of Software Carpentry at UiO, organisation, status, and outlook, Q&A
+- 10:00 - 10:15: coffee break
+- 10:15 - 11:15: short hands-on: experiencing a workshop (as a learner), subject to be determined
+- 11:15 - 11:30: coffee break
+- 11:30 - 12:30: round-table discussion: how to initiate or promote/stimulate Carpentry workshops at your home institution or in your area/country; initiating a Nordic Software Carpentry and Data Carpentry network?
+- 12:30: finish
