@@ -187,6 +187,12 @@ window.onload = function() {
 
 We have reservations in several hotels in Umeå that you can book a room at in our registration form.
 
+### Information about Umeå
+
+Umeå Airport is close to the city center, if the weather is agreeable it is a 5 km walk. Otherwise a taxi ride costs about 200 SEK, and a bus ride costs 45 SEK (if you buy the ticket in the vending machine, 60 SEK from the driver). Taxis accept cash and credit cards, buses only accept credit/debit cards - no cash.
+
+The weather at this time is the breakpoint between spring and summer. If we are lucky that means 20⁰C and sunny, but 10⁰C and raining is also a possiblity. It might be a good idea to bring a coat and/or keep an eye on the [weather forecast](https://www.yr.no/sted/Sverige/V%C3%A4sterbotten/Ume%C3%A5/langtidsvarsel.html)
+
 ### Social events
 
 #### Opening Get Together
