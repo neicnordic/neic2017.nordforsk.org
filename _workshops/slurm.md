@@ -41,7 +41,7 @@ experiences and ideas.
 * 11:30 - 12:30 **Abdulrahman Azab**. Running Docker containers in Slurm.
 * 12:30 - 13:30 *Lunch*
 * 13:30 - 14:00 **Espen Tangen**. Slurm site report from Tromsø.
-* 14:00 - 14:15 **Unconference start**. Explaining the principle, proposing the topics, voting on topics.
+* 14:00 - 14:15 **[Unconference](https://en.wikipedia.org/wiki/Unconference) start**. Explaining the principle, proposing the topics, voting on topics.
 * 14:15 - 15:00 **Unconference** (discussion duration for each topic will be determined by the number of topics and their priority)
 * 15:00 - 15:30 *Coffee*
-* 15:30 - 17:00 **[Unconference](https://en.wikipedia.org/wiki/Unconference)**
+* 15:30 - 17:00 **Unconference**
