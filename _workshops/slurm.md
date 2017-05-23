@@ -44,4 +44,4 @@ experiences and ideas.
 * 14:00 - 14:15 **Unconference start**. Explaining the principle, proposing the topics, voting on topics.
 * 14:15 - 15:00 **Unconference** (discussion duration for each topic will be determined by the number of topics and their priority)
 * 15:00 - 15:30 *Coffee*
-* 15:30 - 17:00 **Unconference**
+* 15:30 - 17:00 **[Unconference](https://en.wikipedia.org/wiki/Unconference)**
