@@ -67,4 +67,4 @@ by workshop presenters & moderator: <a href="https://neic.nordforsk.org/about/te
 12:15-12:30: 	<b>Closing remarks</b> by
 		<a href="http://neic2017.nordforsk.org/people/lene-krol-andersen/">Lene Krøl Andersen</a>
 
-Minutes will be taken by Vigdis Guldseth
+Minutes will be taken by Vigdis Guldseth, Senior Advisor, UNINETT Sigma2
