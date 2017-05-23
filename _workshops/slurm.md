@@ -34,7 +34,7 @@ experiences and ideas.
 ## Agenda
 
 * 09:00 - 09:15 **Welcome**. Personal presentations (who you are, what are your experience with Slurm). Schedule introduction.
-* 09:15 - 10:00 **Ole Holm Nielsen**. Why is it so difficult to get started with Slurm? An answer from Denmark.
+* 09:15 - 10:00 **Ole Holm Nielsen**. Why is it so difficult to get started with Slurm? An answer from Denmark. ([https://drive.google.com/open?id=0B7u1qVPmgaeZcUk1SmltaVRDZUk](Slides))
 * 10:00 - 10:30 **Bjørn-Helge Mevik**. Slurm at Abel cluster. The running experience.
 * 10:30 - 11:00 *Coffee*
 * 11:00 - 11:30 **Magnus Jonsson**. Advanced Slurm: mount plugin and the heterogenous nodes' setup.
