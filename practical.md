@@ -14,7 +14,7 @@ Anything missing? In this case please [contact us](/contact).
 Booking rooms for side-meetings is possible. If you wish to do so, please
 contact the [program committee](/contact/#program-committee).
 
-Room booking schedule: [available here](https://goo.gl/NF5gY7)
+Room booking schedule is [available here](https://goo.gl/NF5gY7).
 
 
 
