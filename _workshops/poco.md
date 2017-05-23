@@ -46,7 +46,7 @@ by <a href="https://neic.nordforsk.org/about/team/#barth">Michaela Barth</a>, Pr
 by Patrick Aerts, Chairman, Platform of National eScience Centers in Europe (PLAN-E)
 
 09:55-10:15: 	<b>European community engagement within EGI</b>
-by Gergely Sipos, Customer & Technical outreach manager, EGI
+by  <a href="https://www.egi.eu/about/egi-foundation/team/gergely-sipos/">Gergely Sipos</a>, Customer & Technical outreach manager, EGI
 
 10:15-10:30: 	Break
 
@@ -54,7 +54,7 @@ by Gergely Sipos, Customer & Technical outreach manager, EGI
 by Damien Lecarpentier, Project Manager, EUDAT
 
 10:50-11:10	<b>European community engagement & competence building within PRACE</b>
-by Chris Johnson, Applications Consultant at EPCC, PRACE
+by <a href="https://www.epcc.ed.ac.uk/about/staff/dr-christopher-johnson">Chris Johnson</a>, Applications Consultant at EPCC, PRACE
 
 11:10-11:30: 	<b>Domain specific community engagement & competence building within Life Sciences, ELIXIR</b>
 by <a href="http://neic2017.nordforsk.org/people/peter-longreen/">Peter Løngreen</a>, Deputy head of the Danish ELIXIR node
@@ -62,7 +62,7 @@ by <a href="http://neic2017.nordforsk.org/people/peter-longreen/">Peter Løngree
 11:30-11:45:	Break
 
 11:45-12:15: 	<b>Panel debate on future directions for community engagement, competence building and the integration of novel digital tools</b>
-by workshop presenters & moderator: Anne-Marie Bach
+by workshop presenters & moderator: <a href="https://neic.nordforsk.org/about/team#ambach">Anne-Marie Bach</a>, Training Programme manager, NeIC
 
 12:15-12:30: 	<b>Closing remarks</b> by
 		<a href="http://neic2017.nordforsk.org/people/lene-krol-andersen/">Lene Krøl Andersen</a>
