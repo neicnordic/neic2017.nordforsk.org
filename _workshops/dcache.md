@@ -5,10 +5,10 @@ title: dCache
 chair: sibel-yasar
 color: "#ffcccc"
 sessions:
-    - ws-1-5-morning
-    - ws-1-5-afternoon
-    - ws-2-5-morning
-    - ws-2-5-afternoon
+    - ws-1-1-morning
+    - ws-1-1-afternoon
+    - ws-2-1-morning
+    - ws-2-1-afternoon
 ---
 
 <img src="/assets/img/logo/indigo.png">

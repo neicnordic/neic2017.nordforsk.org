@@ -5,8 +5,8 @@ title: Containers
 chair: abdulrahman-azab
 color: "#c6c6ec"
 sessions:
-    - ws-1-4-morning
-    - ws-1-4-afternoon
+    - ws-1-8-morning
+    - ws-1-8-afternoon
 ---
 
 ## Building and Managing Linux Containers for Local Deployment and HPC
@@ -62,4 +62,3 @@ This workshop is mainly a hands-on tutorial that is organized as follows:
 ##### 16:00 - 16:30 Building and managing Singularity containers
 
 ##### 16:30 - 17:00 Advanced Docker and Singularity stuff
-

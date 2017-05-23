@@ -5,7 +5,7 @@ title: Pool Competencies and Research Community Engagement
 chair: lene-krol-andersen
 color: "#e0e0e0"
 sessions:
-    - ws-2-3-morning
+    - ws-2-2-morning
 ---
 
 ## Community Engagement Challenges for Novel Digital Services and Competences
@@ -26,7 +26,7 @@ integration across disciplines, institutions and countries.
 
 Novel digital services are not always domain specific – in fact our services and digital tools turn stronger and reach a wider audience when we start adjusting and integrating them across scientific disciplines. How can we change this great imbalance that exists among the usage of novel digital tools and services between the scientific domains? Can we base our tools and competence building on type of data instead of type of research?
 
-How do we address this issue? Can natural scientists work with digital humanists and vice versa? Can silo-experts become interdisciplinary? How can cross-disciplinary integration be attractive to domain specific experts? 
+How do we address this issue? Can natural scientists work with digital humanists and vice versa? Can silo-experts become interdisciplinary? How can cross-disciplinary integration be attractive to domain specific experts?
 
 These are some of the issues that will be debated during this workshop. We will explore community engagement challenges and share best practices from different types of digital service and competence providers/enablers.
 
@@ -40,7 +40,7 @@ The workshop will provide recommendations for future directions on how to implem
 by <a href="http://neic2017.nordforsk.org/people/lene-krol-andersen/">Lene Krøl Andersen</a>, Head of eScience Center, DeIC
 
 09:15-09:35: 	<b>Nordic community engagement & competence building</b>
-by <a href="https://neic.nordforsk.org/about/team/#barth">Michaela Barth</a>, Program Manager for Pool Competencies, NeIC 
+by <a href="https://neic.nordforsk.org/about/team/#barth">Michaela Barth</a>, Program Manager for Pool Competencies, NeIC
 
 09:35-09:55: 	<b>European community engagement within eScience</b>
 by Patrick Aerts, Chairman, Platform of National eScience Centers in Europe (PLAN-E)

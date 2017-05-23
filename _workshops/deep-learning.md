@@ -5,7 +5,7 @@ title: Deep Learning with NVIDIA
 chair: gunter-roeth
 color: "#fff3b9"
 sessions:
-    - ws-1-7-morning
+    - ws-1-6-morning
 ---
 
 <a href="https://www.nvidia.co.uk/dli" target="_blank"><img class="img-reactive" src="/assets/img/logo/16_DeepLearningInstitute_Logo_R11-RGB_BroughToYouBy.png"></a>

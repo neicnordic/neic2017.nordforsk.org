@@ -5,8 +5,8 @@ title: Sensitive Data
 chair: antti-pursula
 color: "#cceeff"
 sessions:
-    - ws-2-1-morning
-    - ws-2-1-afternoon
+    - ws-2-3-morning
+    - ws-2-3-afternoon
 ---
 
 ## Sensitive Data Workshop

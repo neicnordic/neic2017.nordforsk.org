@@ -5,7 +5,7 @@ title: Data Management BoF
 chair: dejan-vitlacil
 color: "#ffd1b3"
 sessions:
-    - ws-1-2-morning
+    - ws-1-5-morning
 ---
 
 ## Data Management Birds-of-a-Feather

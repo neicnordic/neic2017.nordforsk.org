@@ -5,7 +5,7 @@ title: Bioethics
 chair: arnar-palsson
 color: "#e3fd94"
 sessions:
-    - ws-1-3-morning
+    - ws-1-2-morning
 ---
 
 ## Bioethics of Databanks and Datasharing

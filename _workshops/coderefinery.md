@@ -5,7 +5,7 @@ title: Mixed Martial Arts with CodeRefinery
 chair: radovan-bast
 color: "#ccffcc"
 sessions:
-    - ws-1-7-afternoon
+    - ws-1-6-afternoon
 ---
 
 ## Interfacing Fortran, C, C++, and Python for Great Good!

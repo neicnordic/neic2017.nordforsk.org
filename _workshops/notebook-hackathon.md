@@ -5,7 +5,7 @@ title: Hackathon for Notebooks in Training
 chair: aleksi-kallio
 color: "#ff9999"
 sessions:
-    - ws-2-2-afternoon
+    - ws-2-5-afternoon
 ---
 
 ## Hackathon for Notebooks in Training
@@ -32,6 +32,6 @@ together and sharing their skill-sets.
 - 13:45 Introduction to hacking notebooks with Pebbles (Jyry Suvilehto)
 - 14:00 Working with hackathon challenges
 - 15:00 Coffee available
-- 15:30 Working with hackathon challenges 
+- 15:30 Working with hackathon challenges
 - 16:30 Wrap-up of hackathon task results
 - 17:00 End of hackathon

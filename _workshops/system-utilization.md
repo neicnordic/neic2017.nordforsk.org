@@ -5,8 +5,8 @@ title: Monitoring HPC System Utilisation
 chair: torben-rasmussen
 color: "#cce4ff"
 sessions:
-    - ws-1-6-morning
-    - ws-1-6-afternoon
+    - ws-1-4-morning
+    - ws-1-4-afternoon
 ---
 
 ## Monitoring HPC System Utilisation

@@ -5,7 +5,7 @@ title: Software Carpentry
 chair: lex-nederbragt
 color: "#f7ccff"
 sessions:
-    - ws-1-8-morning
+    - ws-1-7-morning
 ---
 
 

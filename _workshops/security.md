@@ -5,8 +5,8 @@ title: Offensive Security
 chair: leif-nixon
 color: "#fff5cc"
 sessions:
-    - ws-1-1-morning
-    - ws-1-1-afternoon
+    - ws-1-3-morning
+    - ws-1-3-afternoon
 ---
 
 
