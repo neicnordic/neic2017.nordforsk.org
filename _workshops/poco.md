@@ -51,10 +51,10 @@ by  <a href="https://www.egi.eu/about/egi-foundation/team/gergely-sipos/">Gergel
 10:15-10:30: 	Break
 
 10:30-10:50: 	<b>European community engagement within EUDAT</b>
-by Damien Lecarpentier, Project Manager, EUDAT
+by Damien Lecarpentier, Project Manager, <a href="https://www.eudat.eu/EUDAT">EUDAT</a>
 
 10:50-11:10	<b>European community engagement & competence building within PRACE</b>
-by <a href="https://www.epcc.ed.ac.uk/about/staff/dr-christopher-johnson">Chris Johnson</a>, Applications Consultant at EPCC, PRACE
+by <a href="https://www.epcc.ed.ac.uk/about/staff/dr-christopher-johnson">Chris Johnson</a>, Applications Consultant at EPCC, <a href="http://www.prace-ri.eu/PRACE">PRACE</a>
 
 11:10-11:30: 	<b>Domain specific community engagement & competence building within Life Sciences, ELIXIR</b>
 by <a href="http://neic2017.nordforsk.org/people/peter-longreen/">Peter Løngreen</a>, Deputy head of the Danish ELIXIR node
