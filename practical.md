@@ -196,6 +196,12 @@ Umeå Airport is close to the city center, if the weather is agreeable it is a 5
 
 The weather at this time is the breakpoint between spring and summer. If we are lucky that means 20⁰C and sunny, but 10⁰C and raining is also a possiblity. It might be a good idea to bring a coat and/or keep an eye on the [weather forecast](https://www.yr.no/sted/Sverige/V%C3%A4sterbotten/Ume%C3%A5/langtidsvarsel.html)
 
+#### Biking in Umeå
+
+Bikes is a common mode of transport in Umeå. Some hotels even have bikes availalbe for borrowing, otherwise you can rent bikes at [Cykel- och mopedhandlaren](https://www.visitumeacity.se/en/book/to-do/a500561/bike-rental-at-cykel-och-mopedhandlaren/showdetails?filter=t%3DBike)
+
+For recreational use, if you have an early flight in or leaving late, here are some tips on nice bike rides: [NeIC 2017 Bike trips](https://drive.google.com/open?id=14JfujxAi9j-z-pGn_HnG-F-vJDE&usp=sharing)
+
 ### Social events
 
 #### Opening Get Together
