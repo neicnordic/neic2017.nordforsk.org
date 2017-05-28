@@ -16,6 +16,14 @@ sessions:
 - Radovan Bast
 
 
+### Workshop material
+
+- [https://coderefinery.github.io/mma/](https://coderefinery.github.io/mma/)
+- [https://github.com/bast/python-cffi-demo](https://github.com/bast/python-cffi-demo)
+- [https://github.com/bast/cffi-mem-alloc-example](https://github.com/bast/cffi-mem-alloc-example)
+- [https://github.com/bast/context-api-example](https://github.com/bast/context-api-example)
+
+
 ### Target audience
 
 The programming languages Fortran, C, C++, and Python each have their strengths
