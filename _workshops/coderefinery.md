@@ -15,6 +15,10 @@ sessions:
 - Bjørn Lindi
 - Radovan Bast
 
+### Installation instructions
+
+- [https://github.com/coderefinery/mma-installation/blob/master/README.md](https://github.com/coderefinery/mma-installation/blob/master/README.md)
+
 
 ### Workshop material
 
