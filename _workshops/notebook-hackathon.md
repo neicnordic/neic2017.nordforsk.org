@@ -10,6 +10,8 @@ sessions:
 
 ## Hackathon for Notebooks in Training
 
+- [Live document](https://hackmd.io/CwVmA5gUwTnBaAxgBgGbPsGwDs8BG+MU8qIqAhlgGxUgBMqQA===)
+
 Format: Hands-on Hackathon
 
 Jupyter Notebooks and other similar interactive web-based tools have quickly
