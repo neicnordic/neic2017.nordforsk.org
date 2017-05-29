@@ -44,7 +44,7 @@ stories, and technical topics.
 A report on the current status of sensitive data topics in the Nordic countries
 will be jointly prepared based on the workshop.
 
-Open document to write conclusions and findings of the workshop: [https://goo.gl/ehUavM]https://goo.gl/ehUavM
+Open document to write conclusions and findings of the workshop: [https://goo.gl/ehUavM](https://goo.gl/ehUavM)
 
 ### Agenda
 
