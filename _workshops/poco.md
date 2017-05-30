@@ -36,6 +36,8 @@ The workshop will provide recommendations for future directions on how to implem
 
 <h3 id="agenda">Workshop Program</h3>
 
+All slides and live minutes are found in <a href="https://drive.google.com/drive/folders/0B9tCS2R8WVYFN2cwVnVHdDZtT3M">a shared google drive</a>
+
 09:00-09:15: 	<b>Welcome & Introduction to the workshop</b>
 by <a href="http://neic2017.nordforsk.org/people/lene-krol-andersen/">Lene Krøl Andersen</a>, Head of eScience Center, DeIC
 
