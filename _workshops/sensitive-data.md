@@ -44,13 +44,15 @@ stories, and technical topics.
 A report on the current status of sensitive data topics in the Nordic countries
 will be jointly prepared based on the workshop.
 
+Open document to write conclusions and findings of the workshop: [https://goo.gl/ehUavM](https://goo.gl/ehUavM)
+
 ### Agenda
 
 #### Opening session (9:00 - 10:30) ####
 
 - 9:00 *Opening and goals of the workshop*, **Antti Pursula**, NeIC Tryggve project manager
 - 9:20 *The value of research: biobanks, results, and autonomy*, prof. **Hallvard Fossheim**, University of Bergen
-- 9:50 *Secure use of sequence data at the Norwegian Cancer Genomics Consortium (title tbc.)*, prof. **Eivind Hovig**, University of Oslo
+- 9:50 *Secure use of sequence data at the Norwegian Cancer Genomics Consortium*, prof. **Eivind Hovig**, University of Oslo
 - 10:10 *Judicious use of personal data for optimization of healthcare*, prof. **Joakim Dillner**, Karolinska Institutet
 
 #### Coffee break (10:30 - 11:00) ####
@@ -61,7 +63,7 @@ will be jointly prepared based on the workshop.
 - 11:20 *European Genome-phenome Archive EGA*, **Dylan Spalding**, EMBL-EBI
 - 11:40 *Danish Biobank Register – a way to overview aggregated health and biological sample data*, **Bart Wilkowski**, SSI / Danish national biobank
 - 12:00 *Sensitive data in SciLifeLab*, **Hanna Kultima**, SciLifeLab Data Office
-- 12:15 *Estonian Genome Center (title tbc.)*, **Kristjan Metsalu**, Estonian Genome Center
+- 12:15 *Data Anonymization at Estonian Genome Center*, **Kristjan Metsalu**, Estonian Genome Center
 
 #### Lunch (12:30 - 13:30) ####
 
@@ -70,7 +72,7 @@ will be jointly prepared based on the workshop.
 Lightning talks (12+3 mins each)
 
 - 13:30 *TSD - Services for Sensitive data*, **Maria Francesca Iozzi**, USIT
-- 13:45 *Services for sensitive data at Computerome*, **Ali Syed**, DTU (tbc.)
+- 13:45 *Services for sensitive data at Computerome*, **Ali Syed**, DTU
 - 14:00 *ePouta secure cloud service*, **Jaakko Leinonen**, CSC
 - 14:15 *Mosler service for sensitive data*, **Niclas Jareborg**, NBIS
 - 14:30 *SNIC SENS and Bianca (title tbc.)*, **Peter Ankerstål**, SNIC / UPPMAX
@@ -80,7 +82,7 @@ Lightning talks (12+3 mins each)
 
 #### Use of register data for research (15:30 - 16:50) ####
 
-- 15:30 *Nordic collaboration of statistics institutes (title tbc.)*, **Claus-Göran Hjelm**, Statistics Sweden
+- 15:30 *Nordic collaboration of statistics institutes*, **Claus-Göran Hjelm**, Statistics Sweden
 - 15:50 *Sensitive data at Statistics Finland, solutions and future plans*, **Valtteri Valkonen**, Statistics Finland
 - 16:10 *Infrastructure for sensitive data at NIASC and KI*, **Davit Bzhalava**, KI
 - 16:30 *Metadata tool RUT (title tbc.)*, **Fredrik Quistgaard**, VR
