@@ -40,7 +40,7 @@ experiences and ideas.
 * 11:00 - 11:30 **Magnus Jonsson**. Advanced Slurm: per-job /tmp mount plugin ([Slides](https://drive.google.com/open?id=0B7u1qVPmgaeZbXFNYXdyX29lY1k)) and the heterogenous nodes' setup ([Slides](https://drive.google.com/open?id=0B7u1qVPmgaeZUGJFeWRZQ3ZxaFk)).
 * 11:30 - 12:30 **Abdulrahman Azab**. Running Docker containers in Slurm. (Supporting material on [Singularity](https://github.com/abdulrahmanazab/Docker-Training-NeIC2017/blob/master/singularity.md) and [Socker](https://github.com/unioslo/socker))
 * 12:30 - 13:30 *Lunch*
-* 13:30 - 14:00 **Espen Tangen**. Slurm site report from Tromsø.
+* 13:30 - 14:00 **Espen Tangen**. Slurm site report from Tromsø. ([Slides](https://drive.google.com/open?id=0B7u1qVPmgaeZVUkxdXRzYTRLNjQ))
 * 14:00 - 14:15 **[Unconference](https://en.wikipedia.org/wiki/Unconference) start**. Explaining the principle, proposing the topics, voting on topics.
 * 14:15 - 15:00 **Unconference** (discussion duration for each topic will be determined by the number of topics and their priority)
 * 15:00 - 15:30 *Coffee*
