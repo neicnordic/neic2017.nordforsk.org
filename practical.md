@@ -9,13 +9,17 @@ title: Practical information
 Anything missing? In this case please [contact us](/contact).
 
 
+### Live streaming
+
+Follow live streaming of the plenary sessions [here](https://videocenter.mindspace.se/videos/video/4771/?live=true).
+
+
 ### Rooms for side-meetings
 
 Booking rooms for side-meetings is possible. If you wish to do so, please
 contact the [program committee](/contact/#program-committee).
 
 Room booking schedule is [available here](https://goo.gl/NF5gY7).
-
 
 
 ### Deadlines
