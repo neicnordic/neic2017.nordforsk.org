@@ -38,10 +38,10 @@ The workshop will provide recommendations for future directions on how to implem
 
 All slides and live minutes are found in <a href="https://drive.google.com/drive/folders/0B9tCS2R8WVYFN2cwVnVHdDZtT3M">a shared google drive</a>
 
-09:00-09:15: 	<b>Welcome & Introduction to the workshop</b>
+09:00-09:15: 	<b><a href="https://drive.google.com/open?id=0B3_M8yUwSJDhbDl2aEVINUpWbVk">Welcome & Introduction to the workshop</a></b>
 by <a href="http://neic2017.nordforsk.org/people/lene-krol-andersen/">Lene Krøl Andersen</a>, Head of eScience Center, DeIC
 
-09:15-09:35: 	<b>Nordic community engagement & competence building</b>
+09:15-09:35: 	<b><a href="https://drive.google.com/open?id=1Y0H-HR7O3Pfc8h8ye6pi3vidi_PIrwOzCqJTVOtcCnU">Nordic community engagement & competence building</a></b>
 by <a href="https://neic.nordforsk.org/about/team/#barth">Michaela Barth</a>, Program Manager for Pool Competencies, NeIC
 
 09:35-09:55: 	<b><a href="https://drive.google.com/open?id=0B3_M8yUwSJDhalhjQk1DRFE5SnM">European community engagement within eScience</a></b>
@@ -58,7 +58,7 @@ by Damien Lecarpentier, Project Manager, <a href="https://www.eudat.eu/EUDAT">EU
 10:50-11:10	<b>European community engagement & competence building within PRACE</b>
 by <a href="https://www.epcc.ed.ac.uk/about/staff/dr-christopher-johnson">Chris Johnson</a>, Applications Consultant at EPCC, <a href="http://www.prace-ri.eu/PRACE">PRACE</a>
 
-11:10-11:30: 	<b>Domain specific community engagement & competence building within Life Sciences, ELIXIR</b>
+11:10-11:30: 	<b><a href="https://drive.google.com/open?id=0B4FqXfHgUz4WUjZqOXltbWpQMFU">Domain specific community engagement & competence building within Life Sciences, ELIXIR</a></b>
 by <a href="http://neic2017.nordforsk.org/people/peter-longreen/">Peter Løngreen</a>, Deputy head of the Danish ELIXIR node
 
 11:30-11:45:	Break
