@@ -52,7 +52,7 @@ by  <a href="https://www.egi.eu/about/egi-foundation/team/gergely-sipos/">Gergel
 
 10:15-10:30: 	Break
 
-10:30-10:50: 	<b>European community engagement within EUDAT</b>
+10:30-10:50: 	<b><a href="https://drive.google.com/open?id=0BywNdZWV23y5ZXR3VmczOEw3WW8">European community engagement within EUDAT</a></b>
 by Damien Lecarpentier, Project Manager, <a href="https://www.eudat.eu/EUDAT">EUDAT</a>
 
 10:50-11:10	<b>European community engagement & competence building within PRACE</b>
