@@ -11,7 +11,7 @@ Anything missing? In this case please [contact us](/contact).
 
 ### Live streaming
 
-Follow live streaming of the plenary sessions [here](https://videocenter.mindspace.se/videos/video/4771/?live=true).
+Follow live streaming of the plenary sessions [here](http://videocenter.mindspace.se/videos/video/4771/?live=true).
 
 
 ### Rooms for side-meetings

@@ -7,7 +7,7 @@ permalink: /
 
 **Crossing boundaries &mdash; changing the world**
 
-**Follow live streaming of the plenary sessions [here](https://videocenter.mindspace.se/videos/video/4771/?live=true)**.
+**Follow live streaming of the plenary sessions [here](http://videocenter.mindspace.se/videos/video/4771/?live=true)**.
 
 Meet the people who design the infrastructure that you use every day. Influence
 the infrastructure that you will use tomorrow.
