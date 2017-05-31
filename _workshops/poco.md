@@ -55,7 +55,7 @@ by  <a href="https://www.egi.eu/about/egi-foundation/team/gergely-sipos/">Gergel
 10:30-10:50: 	<b><a href="https://drive.google.com/open?id=0BywNdZWV23y5ZXR3VmczOEw3WW8">European community engagement within EUDAT</a></b>
 by Damien Lecarpentier, Project Manager, <a href="https://www.eudat.eu/EUDAT">EUDAT</a>
 
-10:50-11:10	<b>European community engagement & competence building within PRACE</b>
+10:50-11:10	<b><a href="https://drive.google.com/open?id=0B3_M8yUwSJDhUmtVblZoWUxxUGs">European community engagement & competence building within PRACE</a></b>
 by <a href="https://www.epcc.ed.ac.uk/about/staff/dr-christopher-johnson">Chris Johnson</a>, Applications Consultant at EPCC, <a href="http://www.prace-ri.eu/PRACE">PRACE</a>
 
 11:10-11:30: 	<b><a href="https://drive.google.com/open?id=0B4FqXfHgUz4WUjZqOXltbWpQMFU">Domain specific community engagement & competence building within Life Sciences, ELIXIR</a></b>
