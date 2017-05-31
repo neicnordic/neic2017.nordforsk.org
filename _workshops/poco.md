@@ -44,8 +44,8 @@ by <a href="http://neic2017.nordforsk.org/people/lene-krol-andersen/">Lene Krøl
 09:15-09:35: 	<b>Nordic community engagement & competence building</b>
 by <a href="https://neic.nordforsk.org/about/team/#barth">Michaela Barth</a>, Program Manager for Pool Competencies, NeIC
 
-09:35-09:55: 	<b>European community engagement within eScience</b>
-by Patrick Aerts, Chairman, Platform of National eScience Centers in Europe (PLAN-E)
+09:35-09:55: 	<b><a href="https://drive.google.com/open?id=0B3_M8yUwSJDhalhjQk1DRFE5SnM">European community engagement within eScience</a></b>
+by Patrick Aerts, Chairman, Platform of National eScience Centers in Europe (<a href="https://plan-europe.eu/">PLAN-E</a>)
 
 09:55-10:15: 	<b>European community engagement within EGI</b>
 by  <a href="https://www.egi.eu/about/egi-foundation/team/gergely-sipos/">Gergely Sipos</a>, Customer & Technical outreach manager, EGI
