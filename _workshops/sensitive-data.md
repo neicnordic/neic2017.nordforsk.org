@@ -11,6 +11,8 @@ sessions:
 
 ## Sensitive Data Workshop
 
+[Slides and live minutes available here](https://drive.google.com/drive/u/0/folders/0B9tCS2R8WVYFWklkMVk4bU5yeGs)
+
 Current research on several fields is more and more depending on availability
 of suitable data. Especially research that studies humans and human activity
 often need data that contains information of individuals in various forms. Such
