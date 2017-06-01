@@ -6,6 +6,8 @@ title: Workshops
 
 ## Open Call for Workshops
 
+[Slides and live minutes available here](https://drive.google.com/drive/u/0/folders/0B9tCS2R8WVYFckpldHVwNm5BMms)
+
 NeIC has an open call for hosting workshops for Nordic communities at the NeIC
 2017 conference in Umeå.
 
