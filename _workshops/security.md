@@ -12,6 +12,8 @@ sessions:
 
 ## Offensive Security
 
+[Slides and live minutes available here](https://drive.google.com/drive/u/0/folders/0B9tCS2R8WVYFdHhMWnQzaFdndVk)
+
 Do you ever feel like Michael Douglas in Falling Down? Do you ever get
 the urge to just rip all the badly written software apart? This
 workshop is for you.
