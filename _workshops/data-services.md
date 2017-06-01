@@ -10,6 +10,8 @@ sessions:
 
 ## 3rd Nordic Data Services Workshop
 
+[Slides available here](https://drive.google.com/drive/u/0/folders/0B9tCS2R8WVYFOW8zN2lwWFRfUjA)
+
 The 3rd Nordic Data Services Workshop will focus on
 services operated by the National e-Infrastructure Providers, National
 Data Service providers, and other stakeholders involved in providing
