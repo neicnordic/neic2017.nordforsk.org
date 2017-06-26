@@ -14,6 +14,11 @@ Anything missing? In this case please [contact us](/contact).
 Follow live streaming of the plenary sessions [here](http://videocenter.mindspace.se/videos/video/4771/?live=true).
 
 
+### Participant feedback
+
+You can read participant feedback from this event [here](https://wiki.neic.no/wiki/NeIC_2017_conference).
+
+
 ### Rooms for side-meetings
 
 Booking rooms for side-meetings is possible. If you wish to do so, please
