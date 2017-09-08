@@ -42,7 +42,7 @@ All slides and live minutes are found in <a href="https://drive.google.com/drive
 by <a href="http://neic2017.nordforsk.org/people/lene-krol-andersen/">Lene Krøl Andersen</a>, Head of eScience Center, DeIC
 
 09:15-09:35: 	<b><a href="https://drive.google.com/open?id=1Y0H-HR7O3Pfc8h8ye6pi3vidi_PIrwOzCqJTVOtcCnU">Nordic community engagement & competence building</a></b>
-by <a href="https://neic.nordforsk.org/about/team/#barth">Michaela Barth</a>, Program Manager for Pool Competencies, NeIC
+by <a href="https://neic.no/people/michaela-barth/">Michaela Barth</a>, Program Manager for Pool Competencies, NeIC
 
 09:35-09:55: 	<b><a href="https://drive.google.com/open?id=0B3_M8yUwSJDhalhjQk1DRFE5SnM">European community engagement within eScience</a></b>
 by Patrick Aerts, Chairman, Platform of National eScience Centers in Europe (<a href="https://plan-europe.eu/">PLAN-E</a>)
@@ -64,7 +64,7 @@ by <a href="http://neic2017.nordforsk.org/people/peter-longreen/">Peter Løngree
 11:30-11:45:	Break
 
 11:45-12:15: 	<b>Panel debate on future directions for community engagement, competence building and the integration of novel digital tools</b>
-by workshop presenters & moderator: <a href="https://neic.nordforsk.org/about/team#ambach">Anne-Marie Bach</a>, Training Programme manager, NeIC
+by workshop presenters & moderator: <a href="https://neic.no/people/anne-marie-bach/">Anne-Marie Bach</a>, Training Programme manager, NeIC
 
 12:15-12:30: 	<b>Closing remarks</b> by
 		<a href="http://neic2017.nordforsk.org/people/lene-krol-andersen/">Lene Krøl Andersen</a>
