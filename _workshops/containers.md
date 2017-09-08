@@ -11,6 +11,8 @@ sessions:
 
 ## Building and Managing Linux Containers for Local Deployment and HPC
 
+**Material**: https://github.com/abdulrahmanazab/Docker-Training-NeIC2017/blob/master/README.md
+
 **Format**: Hands-on Tutorial
 
 **Prerequisites**: Basic knowledge of Linux (basic knowledge of Slurm and HTCondor
