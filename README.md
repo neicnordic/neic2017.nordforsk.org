@@ -89,3 +89,9 @@ Verify the result locally: http://127.0.0.1:4000/people/firstname-lastname/.
 - Separation of content (Markdown and YAML), templating (HTML and Liquid), and styling (CSS Bootstrap)
 - Programmed for future reuse
 - Schedule table is auto-generated from Markdown and YAML data
+
+
+## License
+
+Text is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Source code is licensed under [MPL v2.0](../gh-pages/LICENSE).
